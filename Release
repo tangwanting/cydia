@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Cydia Việt Nam
 MD5Sum:
- f68eefcb0a3b9a4516e9e3abbeb54013 649 Packages
- 279b615034b7bd16c5d94be841c86331 478 Packages.bz2
+ 50560eba9ef0d400017aca88dc6ee3bf 675 Packages
+ 5cfd2840d25cb8285102e371f38f1e57 482 Packages.bz2
