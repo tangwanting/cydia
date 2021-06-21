@@ -1,0 +1,16 @@
+Package: SimpleLS2
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widget
+Filename: ./debfiles/SimpleLS2_1.0_iphoneos-arm.deb
+Size: 6145794
+MD5sum: 1b3b4eacd03c269d3aff8191448774fb
+SHA1: 402fbf1df7bc9a7dd12f124227a95520e30008a7
+SHA256: 04793fb58c0b68b5e1bf52cf1e11086e2a408ca2aba86ab93f652d1268a07ccc
+SHA512: 00b9b8980012e4ebb6ff49a9bda6f2c5eecf471a5e2c656bf2d0b39178ef0bd5641eb1136067ad4dab53a92cf730b087e3aefed83aaa36ff45b9af5529b727f1
+Description: Widget for Xen HTML
+Name: SimpleLS2
+Author: AnhDuy
+Depiction: http://cydiavn.github.io/depictions?p=com.AnhDuy.SimpleLS2
+SileoDepiction: http://cydiavn.github.io/depictions?p=com.AnhDuy.SimpleLS2
+
