@@ -1,16 +1,21 @@
-Package: com.anhduy.SimpleLS2
+Package: com.anhduy.SnowBoard
 Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Widget
-Filename: ./debfiles/com.anhduy.SimpleLS2_1.0.1_iphoneos-arm.deb
-Size: 6145800
-MD5sum: 0cb69e50e4bda7681a9968dda90e5f19
-SHA1: 393e927b3051faf6773be2bd87fcd99c8dfd9c90
-SHA256: 6d65eae777abc0856bf36eb2ed36c1675c44ea96d5baecd7324c033146b1d5e2
-SHA512: f3e8729e8fcdcc81f277ea6a5c4724a48879c9f22cfabfb8205f723e05c6cf6b24741c530d7de72735e3cfe861243a94832c6ff28efb79f8c95bae11909a257c
-Description: Widget for Xen HTML
-Name: SimpleLS2
-Author: AnhDuy
-Depiction: http://cydiavn.github.io/depictions?p=com.anhduy.SimpleLS2
-SileoDepiction: http://cydiavn.github.io/depictions?p=com.anhduy.SimpleLS2
+Version: 1.4.20~Beta4
+Section: Tweaks
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.anhduy.SnowBoard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 3946666
+MD5sum: 6ad71ca5b6fef00d6e26c2a48376f04b
+SHA1: 95f1396c5d6426b241cd249b93d362bf23a3037a
+SHA256: d90a6192111edef21f17fb0bd60f8381a0b94ab21ff759dae427dcefd0cb6e7e
+SHA512: fc1eb0c99d5eeddf8141f42eb3400fd7a0549c0a0896103fc1f45a439cb8df3a2f89f9e342da7b9dbd9e114dd680934b8867a80f0181d27ddc1eade5087898da
+Description: Động cơ trượt tuyết theo chủ đề
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+Depiction: http://cydiavn.github.io/depictions?p=com.anhduy.SnowBoardVietNam
+SileoDepiction: http://cydiavn.github.io/depictions?p=com.anhduy.SnowBoard
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
