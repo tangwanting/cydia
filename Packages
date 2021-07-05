@@ -4,16 +4,16 @@ Version: 1.0.0
 Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.Border_1.0.0_iphoneos-arm.deb
-Size: 1956
-MD5sum: 9540d5db77a1cf5e0fd86297fac8bbf9
-SHA1: 4f42988332f0083647b57b72ac7e018d8508ce6f
-SHA256: 934751d1064a66094d3d99a13007b431ce7e3b39e0c8d0676014e31523dbc0d6
-SHA512: 98c9c6a6e81103a651421c74de0a933f42aed26803212207e062d182d3e4f2a4eb2f4ac2dd6e5733102a2dd2943505d42f6aef6a2322ac1b5741adfb7ecbbe97
+Size: 1948
+MD5sum: 3d1897cb2b765b6478d92f82b04701c8
+SHA1: a35e7a2f2fe46552ff488beb69e7ae916572f49f
+SHA256: 148c823a55a828e176ef6fc0036ca248e31e45cf4eb28d3130a78cf77f071b53
+SHA512: 45832fc5b4dde824e7d3be30ab43afd06474d77c3df3d6ff27681dce35e41256489d29ddc13de106c756907219352e22f58af962b8ae2ec851660442c3bbe115
 Description: Widget for Xen Html
 Name: Border
 Author: Anh Duy
-Depiction: http://cydia-jailbreak.github.io/info/Border/?p=info
-SileoDepiction: http://cydia-jailbreak.github.io/info/Border/?p=info
+Depiction: http://cydiavn.github.io/info/Border/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Border/?p=info
 
 Package: AnhDuy.SnowBoard
 Architecture: iphoneos-arm
