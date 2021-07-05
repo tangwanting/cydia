@@ -32,6 +32,23 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
+Package: AnhDuy.SimpleLS2
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.SimpleLS2_1.0_iphoneos-arm.deb
+Size: 6145802
+MD5sum: 0370d22b516c1a5b932946c0b28dc0ec
+SHA1: 8d1f9cd978a543893998d653f97121efb18f2e31
+SHA256: 9a98a245856a01eaef587ec572a02af0cc9a44f1fa9087292b3a62e8760baa5d
+SHA512: 4f3dc766e1d215e8587f816ddf13f4d3943237a1d4f786ea18e42b65bfa14c76fd13eb838f128224ea5ce1e2ec98f6d4e8199ffc58a8e15890aa17678b6adb09
+Description: Widget for Xen Html
+Name: SimpleLS2
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+
 Package: AnhDuy.SnowBoard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
