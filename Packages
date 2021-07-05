@@ -17,18 +17,18 @@ SileoDepiction: http://cydiavn.github.io/info/Border/?p=info
 
 Package: AnhDuy.L78
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.L78_1.0.0_iphoneos-arm.deb
-Size: 279084
-MD5sum: 90fc3bdfa3e1455aaaafbab65ae855f2
-SHA1: 89eb4c983bdfd28fbf80a9eb360d5e05a360eef5
-SHA256: 870d15e5eb586e8e115b06bbe4125fdb6ca9f72b29375f90738a0d1176a9bd87
-SHA512: 6e26fd8f3e343f6b5543bfd10876569561af282681a5300b1a5c470430f23d6ab43992f45d5c63af0257dc8b3e8890fcc526c2f9d7b7a9b15c099c08c0616fc9
+Filename: ./Deb/AnhDuy.L78_1.0_iphoneos-arm.deb
+Size: 279092
+MD5sum: b11aa07dfff85479566dd686f03c4a2a
+SHA1: b26f82c024d583ac2018e49437117bcad03b6426
+SHA256: be76b0aed8c7eab3c0962388ef08652c584ee42c5bb30cb6dcbbe26731f4bf93
+SHA512: 25950b9f18740cc6263eedf08fc864088cf6a856b8a243673a5105239b934bb41c9fc56f5db120d2c60f19494b565bca2917e77c43eb7f3b5a7874520c62c969
 Description: Widget for Xen Html
 Name: L78
-Author: Anh Duy
+Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
