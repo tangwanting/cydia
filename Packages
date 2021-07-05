@@ -32,6 +32,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
+Package: AnhDuy.Orion
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.Orion_1.2_iphoneos-arm.deb
+Size: 3241508
+MD5sum: 96df2d58468ffb7dc5529dca27293e52
+SHA1: cd5760c7c61b13fa89cf5af30f8406a395d13a62
+SHA256: 030933395092e90d207a81a106f643cb4e717c1947ef78eee739478c8b64ab05
+SHA512: 721b3d02d19e6f015a47387a9b40656dc4a777576f5eb8ca00cd04629a9eef8e3ca4d1bccad8589f7f84643624e597537ad4abd3368cf9f50bcc8f6ab742c411
+Description: tuỳ chỉnh các kiểu trên thiết bị của bạn!
+Name: Orion
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Depiction: http://cydiavn.github.io/info/Orion/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
+
 Package: AnhDuy.SimpleLS2
 Architecture: iphoneos-arm
 Version: 1.0
