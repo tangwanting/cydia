@@ -1,0 +1,41 @@
+Package: AnhDuy.Border
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.Border_1.0.0_iphoneos-arm.deb
+Size: 1956
+MD5sum: 9540d5db77a1cf5e0fd86297fac8bbf9
+SHA1: 4f42988332f0083647b57b72ac7e018d8508ce6f
+SHA256: 934751d1064a66094d3d99a13007b431ce7e3b39e0c8d0676014e31523dbc0d6
+SHA512: 98c9c6a6e81103a651421c74de0a933f42aed26803212207e062d182d3e4f2a4eb2f4ac2dd6e5733102a2dd2943505d42f6aef6a2322ac1b5741adfb7ecbbe97
+Description: Widget for Xen Html
+Name: Border
+Author: Anh Duy
+Depiction: http://cydia-jailbreak.github.io/info/Border/?p=info
+SileoDepiction: http://cydia-jailbreak.github.io/info/Border/?p=info
+
+Package: AnhDuy.SnowBoard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Anh Duy
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/AnhDuy.SnowBoard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 3938698
+MD5sum: 2a79a171db43bf360b4a383605b2e06b
+SHA1: 7d6b239de4fb2388b4cbbeca0d0f80cb7e6a2198
+SHA256: 92b432cb0d27350cab92c6add585d0c26c2715cbe14498061b51d543431bf394
+SHA512: dece8cb0f09d15d1894081bd86649d5dae5eb0e20f4892eb2b25966482c1028f1b029f552bd1ce18b0e37f67b69c4856fbcc8b1d866a2679df368a99cb520398
+Description: Ứng dụng thay đổi chủ đề
+ - Bạn đã nhàm chán với những biểu tượng mặc định? Hãy dùng ứng dụng này để thay đổi nó.
+ + Cập nhật thêm tính năng mới. Nâng cấp tính ổn định hơn cho iOS 14
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SnowBoard
+Author: Spark
+Depiction: http://cydiavn.github.io/info/SnowBoard/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SnowBoard/?p=info
+
