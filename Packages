@@ -4,14 +4,14 @@ Version: 1.0.0
 Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.Border_1.0.0_iphoneos-arm.deb
-Size: 1948
-MD5sum: 3d1897cb2b765b6478d92f82b04701c8
-SHA1: a35e7a2f2fe46552ff488beb69e7ae916572f49f
-SHA256: 148c823a55a828e176ef6fc0036ca248e31e45cf4eb28d3130a78cf77f071b53
-SHA512: 45832fc5b4dde824e7d3be30ab43afd06474d77c3df3d6ff27681dce35e41256489d29ddc13de106c756907219352e22f58af962b8ae2ec851660442c3bbe115
+Size: 1958
+MD5sum: 29e4a537fcb56ec0cc151662ca845a76
+SHA1: 3166523904f144a641c41c7fbd4ec3b0a3c9e88a
+SHA256: d692648a04c1b7c61fd0b3ae64567e08c2443c47f642aca23f14bf4dab71729e
+SHA512: dab4b2ac7634053112bd8a0e2e99b4b81cb0033516888eead0dc99323aa1c1e5cacd1b6fb7ffd1f702fc627955abf0c5438e13457d2043e91616c63f5137717c
 Description: Widget for Xen Html
 Name: Border
-Author: Anh Duy
+Author: Truong Tam Phong
 Depiction: http://cydiavn.github.io/info/Border/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Border/?p=info
 
