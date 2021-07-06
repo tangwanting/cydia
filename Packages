@@ -32,6 +32,23 @@ Author: Truong Tam Phong
 Depiction: http://cydiavn.github.io/info/Border/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Border/?p=info
 
+Package: AnhDuy.CosmicTwo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.CosmicTwo_1.0_iphoneos-arm.deb
+Size: 927392
+MD5sum: da55f639be8b59bb04f51ba67ae56acc
+SHA1: 93b5d83b99da1017e653194cab63462a08fac163
+SHA256: db6780059d85359e3a79d0a5d53efd0583a9ec7651d71af77ac2ffa3f426311d
+SHA512: 195c3a8668433787875d8aadedec22bdf43a4b2b9467155431373e4e93851c85e4aa3fe08aa0671a777439331321cf2928dc2ab72c74550c7fe27160b881595a
+Description: Widget for Xen Html
+Name: Cosmic Two
+Author: Edit by Anh Duy
+Depiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
+
 Package: AnhDuy.DKTransWeather
 Architecture: iphoneos-arm
 Version: 1.0
