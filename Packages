@@ -21,13 +21,13 @@ Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.DKTransWeather_1.0_iphoneos-arm.deb
-Size: 13573550
-MD5sum: 9f69e2adb8fbc2a87f500f487eb6a2ac
-SHA1: 766fe6d8b87496d3347cc0ee2cba58884e6a48d6
-SHA256: 4b288b3553394643484016af41215459dd00cb1b81204135dd85d0530d3c4c27
-SHA512: 5cc993f13b3f3077219168b08a9ecf12e90df050529c7b65a64aa473aa180ce5dda5dba15cdfbd0f05a93910442eff1428c55a9c2a5f9a40c86bfa8e318842c2
+Size: 13573540
+MD5sum: 060b8fc0b7d1e258106d495699177da6
+SHA1: c94a99ba3046ea2dacb2a547293f05de60d6fc89
+SHA256: 0d2dd326cfbfca38baeb2fb2de01c6ad92f80d7423ff76e2861900f52c9ef0e7
+SHA512: 4aa8d4a288a5b715ce5e82dd2fb36d379766c808fd522bb5232df0fc688fdcd1a5a129e5250398d5b0f394fea7dbe1aedb42dbf6dc7812d60c1fd27385e3905f
 Description: Widget for Xen Html
-Name: DK TransWeather
+Name: DKTransWeather
 Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
