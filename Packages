@@ -1,3 +1,20 @@
+Package: AnhDuy.AurosspinweatherDK
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.AurosspinweatherDK_1.0_iphoneos-arm.deb
+Size: 34981328
+MD5sum: 76530780921954e58ba2b0c5a7651ea0
+SHA1: 361bc1367e6dee001b05e23ce711fd4eefad0fa9
+SHA256: d06e6a71370b3708deaeaf1c27068593b8220bca65bbecf95f357e5081e17d65
+SHA512: efbccf2bad2e91e526ae5aeb5216decfaf39971b3d092d2a905ca0fea2f8d41c1a5cbffbd46ac01048821a15d0cb1217d51ce96f53ee687ea039dc4c86faaa76
+Description: Widget for Xen Html
+Name: Auros spin weather DK
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
+SileoDepiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
+
 Package: AnhDuy.Border
 Architecture: iphoneos-arm
 Version: 1.0.0
