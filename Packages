@@ -124,3 +124,20 @@ Author: Spark
 Depiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 
+Package: AnhDuy.bugslifewidgetmod
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.bugslifewidgetmod_1.0_iphoneos-arm.deb
+Size: 7847146
+MD5sum: 52c57cde5a6b06e3462d42d8db0a5079
+SHA1: c5f450853ead61da13333f32a607a5493fc870f6
+SHA256: 8b62a1c56da05f27ff4034480b5c7b0692c0341496fb50d82ff84da60768cab1
+SHA512: 51eb41de6377a4958098e855078a5a0ca537fe03e5c27e349ff70302772c7c18b64b1bd49461a7c90d1505b026ea0886fd2aa6ce9a1d6aec5b9b0aefe69efe95
+Description: Widget for Xen Html
+Name: bugs life widget mod
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
+SileoDepiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
+
