@@ -141,6 +141,23 @@ Author: Spark
 Depiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 
+Package: AnhDuy.StarDockider
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.StarDockider_1.0_iphoneos-arm.deb
+Size: 1988538
+MD5sum: 9cc85c3d4908afa73cf5666fa5be0fb8
+SHA1: aed30d583a21e261789e3fe2d86e940b1fdd740e
+SHA256: 678b8b3483a540188402666dda9717d70f4daf7af2460f16bb5e889c7b514992
+SHA512: 79456ca55eb27943c9e2b05b929b8d8204799c0c98c9e8c7d815d333d25407802cd7b0f3ddd386d928563c0d0d48b000fbcf6bea5a8ae59e37ab09538d32ba59
+Description: Widget for Xen Html
+Name: StarDock ider
+Author: Edit by Anh Duy
+Depiction: http://cydiavn.github.io/info/StarDockider/?p=info
+SileoDepiction: http://cydiavn.github.io/info/StarDockider/?p=info
+
 Package: AnhDuy.bugslifewidgetmod
 Architecture: iphoneos-arm
 Version: 1.0
