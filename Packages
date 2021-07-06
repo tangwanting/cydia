@@ -15,6 +15,23 @@ Author: Truong Tam Phong
 Depiction: http://cydiavn.github.io/info/Border/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Border/?p=info
 
+Package: AnhDuy.DKTransWeather
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.DKTransWeather_1.0_iphoneos-arm.deb
+Size: 13573540
+MD5sum: 060b8fc0b7d1e258106d495699177da6
+SHA1: c94a99ba3046ea2dacb2a547293f05de60d6fc89
+SHA256: 0d2dd326cfbfca38baeb2fb2de01c6ad92f80d7423ff76e2861900f52c9ef0e7
+SHA512: 4aa8d4a288a5b715ce5e82dd2fb36d379766c808fd522bb5232df0fc688fdcd1a5a129e5250398d5b0f394fea7dbe1aedb42dbf6dc7812d60c1fd27385e3905f
+Description: Widget for Xen Html
+Name: DKTransWeather
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/L78/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
+
 Package: AnhDuy.L78
 Architecture: iphoneos-arm
 Version: 1.0
