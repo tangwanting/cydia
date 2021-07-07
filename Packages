@@ -192,3 +192,22 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
 
+Package: AnhDuy.appshacks
+Architecture: iphoneos-arm
+Version: 4.5-3
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 6228
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./Deb/appshacks.deb
+Size: 3152796
+MD5sum: 260e7a35ab46a911ae07fb63cf5198bc
+SHA1: b9364166cc3fc6485d21f76129fa89a750744e4d
+SHA256: 516d3591a412f990094a92c4ab327fbc7437a3cbc974d491fcf78800e34b92a2
+SHA512: 84f1eab6d19fab20d016be07fb00e1c95cf7e920a139dbb855a35db17ce19c19e709157b5879313bb423921ceab1f943101132d24c30399dd1d8a9889d40a192
+Description: Kích hoạt bản quyền cho các ứng dụng trả phí.
+Name: Apps Hacks
+Author: hmodei96
+Depiction: http://cydiavn.github.io/info/appshacks/?p=info
+SileoDepiction: http://cydiavn.github.io/info/appshacks/?p=info
+
