@@ -158,6 +158,23 @@ Author: Edit by Anh Duy
 Depiction: http://cydiavn.github.io/info/StarDockider/?p=info
 SileoDepiction: http://cydiavn.github.io/info/StarDockider/?p=info
 
+Package: AnhDuy.animations
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.animations_1.0_iphoneos-arm.deb
+Size: 1590414
+MD5sum: 18ed425eb955785da1b9b71dd192d454
+SHA1: 274555939abe6b1d38314f5b28dcbcd82308c62e
+SHA256: db70ce25ad5e9f921dd91040a717c18aa61ce48975c09be8068bd64621af32ea
+SHA512: 0d177fc2c9d14f8e50bb6b1ea94d922a9f8eb86650a8a96fa79536cf01175b378d44176213e2cb3ee9970a1f0cbcc173f4378783b2b697f4ec03c605cf84638b
+Description: Widget for Xen Html
+Name: animations
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/animations/?p=info
+SileoDepiction: http://cydiavn.github.io/info/animations/?p=info
+
 Package: AnhDuy.bugslifewidgetmod
 Architecture: iphoneos-arm
 Version: 1.0
@@ -174,21 +191,4 @@ Name: bugs life widget mod
 Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
-
-Package: AnhDuy.hacnhay
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Widgets
-Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.hacnhay_1.0_iphoneos-arm.deb
-Size: 1590424
-MD5sum: 8e7fc1fd6ec50e2b2ef75239ed3af049
-SHA1: 22fe864e410f0b13cec26b34f55537b8c0213afc
-SHA256: baacf15cf8ed463be39ad80cc5ef72f2bf516856ae1777a2585436832b542a68
-SHA512: 9dee3722fd7a44d07259cc0846975336194d0d3e0c9aba9e87ed355f310b88cac2cdd9d27afdb19a4381ad47f1be8375e6ff4f6c1194f1733e0ab6d3cb1d1764
-Description: Widget for Xen Html
-Name: hạc nhảy
-Author: Anh Duy
-Depiction: http://cydiavn.github.io/info/hacnhay/?p=info
-SileoDepiction: http://cydiavn.github.io/info/hacnhay/?p=info
 
