@@ -66,6 +66,24 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 
+Package: AnhDuy.InsetsXS
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./Deb/AnhDuy.InsetsXS_2.0_iphoneos-arm.deb
+Size: 27232
+MD5sum: beadbc69426e08a8a9bd64c31a953324
+SHA1: adaa861181df11bc03ff84f26865156e2a5b4454
+SHA256: 42557f7e7328901deb3127b68284eed9b710694fc3db1d4a48113ccc342cf5cf
+SHA512: 39504eda6430265bb596dc2cd8c65af4baa95395d1232fcc8eef415f7a059539a9124eb859e537a5131b66dbdf621cf95bf79f6204f47f7747b127ddbfd66486
+Description: tinh chỉnh thanh trạng thái và đáy cho trình giả lập X
+Name: InsetsXS
+Author: fahlnbg
+Depiction: http://cydiavn.github.io/info/InsetsXS/?p=info
+SileoDepiction: http://cydiavn.github.io/info/InsetsXS/?p=info
+
 Package: AnhDuy.L78
 Architecture: iphoneos-arm
 Version: 1.0
