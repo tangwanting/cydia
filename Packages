@@ -194,6 +194,23 @@ Author: hmodei96
 Depiction: http://cydiavn.github.io/info/appshacks/?p=info
 SileoDepiction: http://cydiavn.github.io/info/appshacks/?p=info
 
+Package: AnhDuy.ava-status-bar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.ava-status-bar_1.0_iphoneos-arm.deb
+Size: 1540430
+MD5sum: 86f013f56f24ea6c8aa16402cda36bb7
+SHA1: 8b65af254a374df0b83eb58ed927b9354b89c077
+SHA256: 0c4548a34a7257af4b4a947b3b6998e901589402e6d1346a8e2b93656f248699
+SHA512: 1b21ab497733cd270e3dbf26bf1582593709b9dc0d6f91589e96cfd8167b29b613b7189ab5ebcb732b3e71ea1a864e9603325b411543d17ff479314a5adb3e77
+Description: Chủ đề cho thanh trạng thái.
+Name: Ava Status Bar
+Author: Devy_Design
+Depiction: http://cydiavn.github.io/info/ava-status-bar/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ava-status-bar/?p=info
+
 Package: AnhDuy.bugslifewidgetmod
 Architecture: iphoneos-arm
 Version: 1.0
