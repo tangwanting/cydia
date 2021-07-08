@@ -192,6 +192,24 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
 
+Package: AnhDuy.bypasstechcombank
+Architecture: iphoneos-arm
+Version: 1.1.6.0-7
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.bypasstechcombank_1.1.6.0-7_iphoneos-arm.deb
+Size: 204296
+MD5sum: 386b562c06ecff6b6da574bcd96e849d
+SHA1: 383ee94f6abd303eb9263467cff35a340e5bcdd6
+SHA256: c0abaa4698f39a032b4d599943125c857dc20fe06068c4ffadae6149ea54d711
+SHA512: fa07c0896633a52c3dca84cbc40ee04223dcabb614ce35afee4fff43f28bec6e3529c6aab39ffe09b0dc93b70b1662b625cb0ecda4b66eda0d40595978f91671
+Description: Bypass Techcombank SmartOTP và TCB OTP & Softtoken
+Name: Bypass App Techcombank
+Author: IPALibrary <tuanbeo22061@hotmail.com>
+Depiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
+SileoDepiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
+
 Package: AnhDuy.appshacks
 Architecture: iphoneos-arm
 Version: 4.5-3
