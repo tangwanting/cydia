@@ -1,0 +1,13 @@
+Package: AnhDuy.backrunner
+Name: BackRunner
+Version: 0.1.7
+Architecture: iphoneos-arm
+Description: Một tinh chỉnh để giữ cho các ứng dụng chạy ở chế độ nền. Có thể được bật hoặc tắt cho mỗi ứng dụng, yêu cầu AppList
+Author: Tr1Fecta <tr1develop7@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depiction: http://cydiavn.github.io/ìno/backrunner/?p=info
+SileoDepiction: http://cydiavn.github.io/info/backrunner/?p=info
+
+
