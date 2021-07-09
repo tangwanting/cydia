@@ -229,6 +229,24 @@ Author: Devy_Design
 Depiction: http://cydiavn.github.io/info/ava-status-bar/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ava-status-bar/?p=info
 
+Package: AnhDuy.backrunner
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Filename: ./Deb/AnhDuy.backrunner_0.1.7_iphoneos-arm.deb
+Size: 16466
+MD5sum: 0673a396ee6c9018d4b396f9135b7963
+SHA1: ded83b8d88adf6db88b67baeca57a5ed205c07f4
+SHA256: 83bd85e40ac4e8097d18ee2a15f5f78277f89e421d6a4f90aa195c07de6260e6
+SHA512: f6aa1f8680497d645cf950ea96b37ea59dc6c3d26ba17504ea43fd5246129875245b29159159870e8f695a7d9f516dd4731f48f697d659e589cb71967dc06528
+Description: Một tinh chỉnh để giữ cho các ứng dụng chạy ở chế độ nền. Có thể được bật hoặc tắt cho mỗi ứng dụng, yêu cầu AppList
+Name: BackRunner
+Author: Tr1Fecta <tr1develop7@gmail.com>
+Depiction: http://cydiavn.github.io/ìno/backrunner/?p=info
+SileoDepiction: http://cydiavn.github.io/info/backrunner/?p=info
+
 Package: AnhDuy.bugslifewidgetmod
 Architecture: iphoneos-arm
 Version: 1.0
