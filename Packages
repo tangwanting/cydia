@@ -264,3 +264,20 @@ Author: IPALibrary <tuanbeo22061@hotmail.com>
 Depiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
 
+Package: AnhDuy.ider
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.ider_1.1_iphoneos-arm.deb
+Size: 8477568
+MD5sum: 9211739305076a1582dd41905ffd63f3
+SHA1: 1dd8ffa3bab3c4968a9e303c9d039752b2153f7b
+SHA256: c039053ba1d757816c50acb01865bc1a0a574d431ce767c0280c7c22fb2235d0
+SHA512: 417214fa9aeb932b0bb8c0b873929f1ddeddf3d4098b4429b2933104289d1b7140a7139f504989d9cd3cf51d52b1e13d2f0e773a6fb6349bfbaf8621c57fe474
+Description: iDer Theme for IOS8 - IOS15.x
+Depiction: http://cydiavn.github.io/info/ider/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ider/?p=info
+Name: iDer
+Author: Le0n <iphonele0n@icloud.com>
+
