@@ -84,6 +84,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 
+Package: AnhDuy.ErwinLSDO
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.ErwinLSDO_1.0_iphoneos-arm.deb
+Size: 1773390
+MD5sum: ade1be4abb3d38da54bfb13b1d596905
+SHA1: 468eb75e84ccfd6cceb2a8c8047eef4aa9507ef2
+SHA256: 3f240a76a2553e57f8fe906145c0de18781906fee615693b3f3441a328200bcd
+SHA512: d9581ee29ea89290fed788beb891949a7a21f8db35c257dd3c984101204306bed75dfac46c23310bbf1d2f29df9a784594c3fb684f7b1906ad4225e4bd805455
+Description: Widget for Xen Html
+Name: ErwinLSDO
+Author: Edit by AnhDuy <kiemphapngami@gmail.com>
+Depiction: http://cydiavn.github.io/info/Erwin.LSDO/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
+
 Package: AnhDuy.InsetsXS
 Architecture: iphoneos-arm
 Version: 2.0
