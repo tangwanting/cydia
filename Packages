@@ -19,14 +19,14 @@ Package: AnhDuy.BackRunner
 Architecture: iphoneos-arm
 Version: 0.1.7
 Section: Tweaks
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Maintainer: Anh Duy
 Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
 Filename: ./Deb/AnhDuy.BackRunner_0.1.7_iphoneos-arm.deb
-Size: 16466
-MD5sum: e27773368ffa79b4be118f65393b33e0
-SHA1: 4457167880860fc868d8a09a6a72f81c8b57581e
-SHA256: 87ebf15814d62ecbf1dd66cf056a85f51aacbca421397731ecea40954adb37c8
-SHA512: 0ede5f6519bf1ae52521c722c119a839267dec2653af0ac72e4fd3c17a45b14737ff78d4961c86609fd5ea7aa9cbdafa565489a467e08ea7af891799dbc937a0
+Size: 16456
+MD5sum: 37b8c27ebc428ee5167adb776f9f4ae7
+SHA1: 839d4ebe3da5d597c7798e74adbf46c22f23ae14
+SHA256: 96f8ecc93835e5355e625896792bc1446ab91cddadd0707b4b9629aeb5a4d7aa
+SHA512: 0845f7a13015fb68347dbe61e195c986ff52c18dec76d184e95aa4e547d00ce53727365a02107fe2cf59fea5d1377b914e706842e6f0a579f848d0db490aa752
 Description: Một tinh chỉnh để giữ cho các ứng dụng chạy ở chế độ nền. Có thể được bật hoặc tắt cho mỗi ứng dụng, yêu cầu AppList
 Name: BackRunner
 Author: Tr1Fecta <tr1develop7@gmail.com>
@@ -88,17 +88,17 @@ Package: AnhDuy.ErwinLSDO
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
-Maintainer: Anh Duy
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.ErwinLSDO_1.0_iphoneos-arm.deb
-Size: 1773390
-MD5sum: ade1be4abb3d38da54bfb13b1d596905
-SHA1: 468eb75e84ccfd6cceb2a8c8047eef4aa9507ef2
-SHA256: 3f240a76a2553e57f8fe906145c0de18781906fee615693b3f3441a328200bcd
-SHA512: d9581ee29ea89290fed788beb891949a7a21f8db35c257dd3c984101204306bed75dfac46c23310bbf1d2f29df9a784594c3fb684f7b1906ad4225e4bd805455
+Size: 1773388
+MD5sum: c057c2618e455be841ad5e061fafbaff
+SHA1: b0d0869aea063eca09bd83d9c174013395f5e331
+SHA256: b6e26cd0987c4cffd2b383461a9168e71032d86b44107b1232537c8cb33c8ab0
+SHA512: 1bdb5b6e8c80af55063ac69a1ef80713a2c39691e22bcf525088997bc5925392696e70784333de2e68286e78dbd6c6bde6c3bd89449c46d890a9915162939637
 Description: Widget for Xen Html
 Name: ErwinLSDO
-Author: Edit by AnhDuy <kiemphapngami@gmail.com>
-Depiction: http://cydiavn.github.io/info/Erwin.LSDO/?p=info
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 
 Package: AnhDuy.InsetsXS
