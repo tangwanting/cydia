@@ -19,18 +19,18 @@ Package: AnhDuy.BackRunner
 Architecture: iphoneos-arm
 Version: 0.1.7
 Section: Tweaks
-Maintainer: Anh Duy
+Maintainer: Anh Duy <kiemphapngami@gmail.con>
 Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
 Filename: ./Deb/AnhDuy.BackRunner_0.1.7_iphoneos-arm.deb
-Size: 16456
-MD5sum: 37b8c27ebc428ee5167adb776f9f4ae7
-SHA1: 839d4ebe3da5d597c7798e74adbf46c22f23ae14
-SHA256: 96f8ecc93835e5355e625896792bc1446ab91cddadd0707b4b9629aeb5a4d7aa
-SHA512: 0845f7a13015fb68347dbe61e195c986ff52c18dec76d184e95aa4e547d00ce53727365a02107fe2cf59fea5d1377b914e706842e6f0a579f848d0db490aa752
+Size: 16462
+MD5sum: 219b781142f24f9749373906785c491a
+SHA1: 18149261336e98bd0d5da205d2145ec9e043d76c
+SHA256: 7a8d88a021b36342ad6951bf37fd69fa554f45df1c12183c19dfd8ee6ec9960c
+SHA512: 0b7007cdc67feb00336e5cc17d2aa7f941d46700afa4036616c0a01e8dd4c01cbe80777a873b0a16e502c5f15b0ad7c1ad62fb3f018b36fdeaf4256b5ec34d7f
 Description: Một tinh chỉnh để giữ cho các ứng dụng chạy ở chế độ nền. Có thể được bật hoặc tắt cho mỗi ứng dụng, yêu cầu AppList
 Name: BackRunner
 Author: Tr1Fecta <tr1develop7@gmail.com>
-Depiction: http://cydiavn.github.io/ìno/BackRunner/?p=info
+Depiction: http://cydiavn.github.io/info/BackRunner/?p=info
 SileoDepiction: http://cydiavn.github.io/info/BackRunner/?p=info
 
 Package: AnhDuy.Border
