@@ -22,11 +22,11 @@ Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
 Filename: ./Deb/AnhDuy.BackRunner_0.1.7_iphoneos-arm.deb
-Size: 16464
-MD5sum: dfe67b5565763377ceac28869b63e37a
-SHA1: f6c23b6cb5b19d081a886a85c2571294ea7d6217
-SHA256: 3deabcc02583aade8f992833ed8ad3f3543e170b42d79851dea62c22ffb9cb63
-SHA512: 9ab9bc348bd4cd86f1b96feb918d54a38b656d1db1360b9ff5bf00be8015b29e481451be75599dedf233ccde8bf1543731f8ec002e764b0f3c15071a2cca2457
+Size: 16466
+MD5sum: e27773368ffa79b4be118f65393b33e0
+SHA1: 4457167880860fc868d8a09a6a72f81c8b57581e
+SHA256: 87ebf15814d62ecbf1dd66cf056a85f51aacbca421397731ecea40954adb37c8
+SHA512: 0ede5f6519bf1ae52521c722c119a839267dec2653af0ac72e4fd3c17a45b14737ff78d4961c86609fd5ea7aa9cbdafa565489a467e08ea7af891799dbc937a0
 Description: Một tinh chỉnh để giữ cho các ứng dụng chạy ở chế độ nền. Có thể được bật hoặc tắt cho mỗi ứng dụng, yêu cầu AppList
 Name: BackRunner
 Author: Tr1Fecta <tr1develop7@gmail.com>
