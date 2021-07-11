@@ -318,16 +318,16 @@ Author: Le0n <iphonele0n@icloud.com>
 
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
-Version: 2.0.1
+Version: 2.0.2
 Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Depends: mobilesubstrate
-Filename: ./Deb/com.matchstic.xenhtml_2.0.1_iphoneos-arm.deb
-Size: 8254142
-MD5sum: 2a09a75c107bac050b35262ad2bdaff1
-SHA1: a218b42ddc07633beee85dae951aad4475dd7c78
-SHA256: f8f33b219e481e060ff1e80c031efb300a145a0480f313ae8de41dfd7540825b
-SHA512: 226b4ebfe84fd600cf1ac63e7eca7d26857e056bf739c7038053b9590dcd88f80dfa68d2b46aca194120b9c2ef26120295f33dee1f221993953501247364e83d
+Filename: ./Deb/com.matchstic.xenhtml_2.0.2_iphoneos-arm.deb
+Size: 8254632
+MD5sum: 490c5ad34060b5638c028a467791f0f6
+SHA1: 0c212b3d7bffce51bb785001fa7b082a07743e0e
+SHA256: b01cc2ada5bb1c82d0e5f50e133e4598d37d3ae80784d197cca61598355867d6
+SHA512: 9fbc46a123b28311318600c843e5df0963d9b9761badfa17840f378f90153808ea7c3d977ef582577bc8f5395dbdf5e783869789595b713011629f49a8e421d2
 Description: Thêm tiện ích lên màn hình chính và màn hình khoá
 Name: Xen HTML việt nam
 Author: Matt Clarke
