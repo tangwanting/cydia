@@ -316,3 +316,21 @@ SileoDepiction: http://cydiavn.github.io/info/ider/?p=info
 Name: iDer
 Author: Le0n <iphonele0n@icloud.com>
 
+Package: AnhDuy.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.xenhtml_2.0.1_iphoneos-arm.deb
+Size: 8254142
+MD5sum: 8c74c3337e3d8d9281a0c7779c9cb730
+SHA1: 34556409fb331d66a7fdb996d519c4118b50c5a1
+SHA256: 7e6724744bc022cd5fb510a0383a6ea5f8d4ba6eedb2f3715808288ceddb6a84
+SHA512: 9bf3acd9e79cccbdedc0e09ea20ecbc8a4bd03acaa5b1db138d98aebfaa2576bd6815e9a3fbcd60712bfe1c063599c45f27810fe22530ecaede6e42f5299877f
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+Name: Xen HTML việt nam
+Author: Matt Clarke
+Depiction: http://cydiavn.github.io/depictions?p=com.xenhtml.XenHTML
+SileoDepiction: http://cydiavn.github.io/depictions?p=com.xenhtml.XenHTML
+
