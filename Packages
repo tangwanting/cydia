@@ -136,6 +136,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
+Package: AnhDuy.MiClock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.MiClock_1.0_iphoneos-arm.deb
+Size: 48660
+MD5sum: 907589ff7c7a710c3ed0fe803eded4fa
+SHA1: 84d755d28768d3d4b0b4396c577131dc20dd0956
+SHA256: 557d1f35b56d87c00d3babe7611992a698c012a30723b9bc930cac0ab0589c59
+SHA512: 78e40e6ebbacf77e5f758f443c2932a5e24a2c50f8310237a23e20fea53b4bb8a1056d78f665f0b601904abf5919dacf69d8f267a9330e14f8191bdf0e1e8897
+Description: Widget for Xen Html
+Name: MiClock
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/MiClock/?p=info
+SileoDepiction: http://cydiavn.github.io/info/MiClocl/?p=info
+
 Package: AnhDuy.Orion
 Architecture: iphoneos-arm
 Version: 1.2
