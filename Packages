@@ -40,12 +40,12 @@ Section: Themes
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.BeamPurple_1.0_iphoneos-arm.deb
 Size: 27794682
-MD5sum: d505efb019038d1b8661ffdfed813cf7
-SHA1: 1e2bbc4f07b01f068bcbd64ae8722ed55728f9e7
-SHA256: ebf8b2679d183e7889c9ece28f2c2d1d0bd851e83e342f607d3577963b1a4297
-SHA512: 0eb53f69cfde063ca14308615d4eff901076b62296897568db682b42c5f25922cd0060f8c710abf89c5f6e4f7d4a917698fd86f5abbb3f43a9c430abbbae15a9
+MD5sum: edf60c57ac76344d10c9f3df4b918c10
+SHA1: 21e6f88de8d4cb31c061b98509070d0917103a08
+SHA256: ac7629624279c0304a47b0497f83024b1d1aa1c66f1272ef6f6b5ebc573ac80f
+SHA512: f414abbb03f1bc3580f2bbc52354081d1a8a6e25162d47be4e99aab081776051bece2e6cccdb22056f5a88e6763741eb6e7b323b3f8e9cb5c175a700db212c73
 Description: pink violet icons
-Name: Beam Purple
+Name: BeamPurple
 Author: @moondr1 <moondr1@gmail.com>
 Depiction: http://cydiavn.github.io/info/BeamPurple/?p=info
 SileoDepiction: http://cydiavn.github.io/info/BeamPurple/?p=info
