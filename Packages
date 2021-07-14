@@ -33,6 +33,23 @@ Author: Tr1Fecta <tr1develop7@gmail.com>
 Depiction: http://cydiavn.github.io/info/BackRunner/?p=info
 SileoDepiction: http://cydiavn.github.io/info/BackRunner/?p=info
 
+Package: AnhDuy.BeamPurple
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.BeamPurple_1.0_iphoneos-arm.deb
+Size: 27794682
+MD5sum: d505efb019038d1b8661ffdfed813cf7
+SHA1: 1e2bbc4f07b01f068bcbd64ae8722ed55728f9e7
+SHA256: ebf8b2679d183e7889c9ece28f2c2d1d0bd851e83e342f607d3577963b1a4297
+SHA512: 0eb53f69cfde063ca14308615d4eff901076b62296897568db682b42c5f25922cd0060f8c710abf89c5f6e4f7d4a917698fd86f5abbb3f43a9c430abbbae15a9
+Description: pink violet icons
+Name: Beam Purple
+Author: @moondr1 <moondr1@gmail.com>
+Depiction: http://cydiavn.github.io/info/BeamPurple/?p=info
+SileoDepiction: http://cydiavn.github.io/info/BeamPurple/?p=info
+
 Package: AnhDuy.Border
 Architecture: iphoneos-arm
 Version: 1.0.0
