@@ -118,6 +118,27 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 
+Package: AnhDuy.HDPJulyider
+Architecture: iphoneos-arm
+Version: 1.0.03
+Section: Widges
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.HDPJulyider_1.0.03_iphoneos-arm.deb
+Size: 23836206
+MD5sum: 4e95693a8e3234065ed7b50a3c7a5aea
+SHA1: 35d25a06821635e2bff11558439596d305435ab9
+SHA256: 697d28775880f24925ee59bd99b6415022c76a1fe9060c537220fc6de1f2b740
+SHA512: 11ed2c1cdd9550278c7ab48ff8dd32dd595800064ffe6b5fb4ca7410b2e5a6c33d4cf7bcbec08a5fe7ebd41f6b39b763f8f3ab2f51b3fdf048be8636dc0770cc
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ + Cập nhật sửa lỗi và thay đổi lại kích cỡ phông chữ cho 1 số dòng máy dưới iPhone X
+Name: HDP July ider
+Author: Hoàng Đình Phong
+Depiction: http://cydiavn.github.io/Info/HDPJulyider/?p=info
+SileoDepiction: http://cydiavn.github.io/Info/HDPJulyider/?p=info
+
 Package: AnhDuy.InsetsXS
 Architecture: iphoneos-arm
 Version: 2.0
