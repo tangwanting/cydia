@@ -124,11 +124,11 @@ Version: 1.0.3
 Section: Widges
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.HDPJulyider_1.0.3_iphoneos-arm.deb
-Size: 23835976
-MD5sum: 650f16fb37890646e4db7274bf3d0f2b
-SHA1: d33f8ecd4b5a439e41ba1107c2b845b167d26e00
-SHA256: 368489dff94d19f3d7548ac74b1ec5eeea65926ae4fbb2cca71b0c96b8a2fd22
-SHA512: 514834854e8865e7bd32f1ccf2cf4101468fa5e324091e86c42315e95991da1efb51229127205f7c54838e7e0816e1d4d2cc96506efa2e6bcaaa763f5476a2e1
+Size: 23835984
+MD5sum: 6844116bd50b1026fc8d693cecff8576
+SHA1: 1f19b0b5829e387e1c8e802c37e5ac56ef1a3683
+SHA256: 76659a1fa5d511c7282e987e05c341d9d779a6e86079d97c94d74e300a1ef862
+SHA512: bf37d344289619eba242708c7e058aa23bcddee588d31c160e76a133ee490e83c9c8d7e2aa7158d21bf2416ec059424cae7364c04db5f5c19cc43c796a2e9f41
 Description: Tiện ích dành cho Xen Html.
 Name: HDP July ider
 Author: Hoàng Đình Phong
