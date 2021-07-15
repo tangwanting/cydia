@@ -121,19 +121,19 @@ SileoDepiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 Package: AnhDuy.HDPJulyider
 Architecture: iphoneos-arm
 Version: 1.0.3
-Section: Widges
+Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.HDPJulyider_1.0.3_iphoneos-arm.deb
-Size: 23835984
-MD5sum: 6844116bd50b1026fc8d693cecff8576
-SHA1: 1f19b0b5829e387e1c8e802c37e5ac56ef1a3683
-SHA256: 76659a1fa5d511c7282e987e05c341d9d779a6e86079d97c94d74e300a1ef862
-SHA512: bf37d344289619eba242708c7e058aa23bcddee588d31c160e76a133ee490e83c9c8d7e2aa7158d21bf2416ec059424cae7364c04db5f5c19cc43c796a2e9f41
-Description: Tiện ích dành cho Xen Html.
+Size: 23835950
+MD5sum: 43b86fc56cf059e12581e67c69c383a3
+SHA1: 72a867f84649e130772bd80c95335aba20eec70a
+SHA256: 2f82e8c3bc288e7b07899533fc64937e2425afe5a034ab5f52d2c36f9ab54b22
+SHA512: 2cd996acdf80024848f496062b32f1a006ca8703fff593a7bf3b705faf5ad5a9c7de8dde79edce528383544aa1f84513a85e31e03ff967d55c96fe54d8163a71
+Description: Widget for Xen Html
 Name: HDP July ider
-Author: Hoàng Đình Phong
-Depiction: http://cydiavn.github.io/Info/HDPJulyider/?p=info
-SileoDepiction: http://cydiavn.github.io/Info/HDPJulyider/?p=info
+Author: hoàng đình phong
+Depiction: http://cydiavn.github.io/info/HDPJulyider/?p=info
+SileoDepiction: http://cydiavn.github.io/info/HDPJulyider/?p=info
 
 Package: AnhDuy.InsetsXS
 Architecture: iphoneos-arm
