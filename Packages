@@ -367,6 +367,23 @@ Author: IPALibrary <tuanbeo22061@hotmail.com>
 Depiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
 
+Package: AnhDuy.chimbay
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.chimbay_1.0_iphoneos-arm.deb
+Size: 2019892
+MD5sum: 92d51896b5e5387aaabd519550b4a8e3
+SHA1: 6ff9e880faed5acecd168c8d54e1a15365549d58
+SHA256: db61512270883b63668263a2b1e25815960b9904a89f5d289ca6747b5976b20e
+SHA512: b796987597d7d6c965c79b5d2034697b5d30b2468313507444f8adbc09456bb6aaba2b6ce5711b38e42416dcca4e9a6fca57c2cbb09e3b9986dc32d663028b5c
+Description: Widget for Xen Html
+Name: Chim Bay
+Author: Edit by Anh Duy
+Depiction: http://cydiavn.github.io/info/chimbay/?p=info
+SileoDepiction: http://cydiavn.github.io/info/chimbay/?p=info
+
 Package: AnhDuy.ider
 Architecture: iphoneos-arm
 Version: 1.1
