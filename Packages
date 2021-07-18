@@ -170,6 +170,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
+Package: AnhDuy.MeanGreenMachine
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.MeanGreenMachine_1.0_iphoneos-arm.deb
+Size: 4175394
+MD5sum: 010fbb7f0ca5150dd2862560fc0d9dca
+SHA1: 6a6a0fc997a33784880563c6bfc60ec913190bfc
+SHA256: 91afb37e34b9781829f6c13634a2ada5dd28df5a041e2d90417f1fa42eb24c29
+SHA512: 1a47f8b7843164bf20ee02f74de5f1553459d791d171577a7ad7f5dd3cefc76490e0c2adf15bb5bf863ddc7451cf8aa6094b922ad31c244ee66a9942bc88e0a1
+Description: Widget for Xen Html
+Name: MeanGreenMachine
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/MeanGreenMachine color/?p=info
+SileoDepiction: http://cydiavn.github.io/info/MeanGreenMachine/?p=info
+
 Package: AnhDuy.MiClock
 Architecture: iphoneos-arm
 Version: 1.0
