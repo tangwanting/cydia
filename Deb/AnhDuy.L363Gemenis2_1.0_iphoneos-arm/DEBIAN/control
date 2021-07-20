@@ -1,0 +1,11 @@
+Package: AnhDuy.L363Gemenis2
+Name: L363Gemenis2
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Author: @FAlhmma
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Section: Widgets
+Depiction: http://cydiavn.github.io/info/L363Gemenis2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L363Gemenis2/?p=info
+
