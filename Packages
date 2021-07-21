@@ -153,22 +153,22 @@ Author: fahlnbg
 Depiction: http://cydiavn.github.io/info/InsetsXS/?p=info
 SileoDepiction: http://cydiavn.github.io/info/InsetsXS/?p=info
 
-Package: AnhDuy.L363Gemenis2
+Package: AnhDuy.L363Geminis2
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.L363Gemenis2_1.0_iphoneos-arm.deb
-Size: 1890864
-MD5sum: 190b5d92d4396dc643fa5aaf19c67558
-SHA1: ae551bb945d67aa51c0e0de58a77a419aed68626
-SHA256: 9457b5a793293e726024875a52398b3d0b216d6a616a4f63989cde6343698e58
-SHA512: b829fe2277635675a0577c3fa3d22dee8003c0619334250767696301b51576107829dcba1368f862d4491183ae43365d156a46312adb2bcdb6961ecd04eed8c2
+Filename: ./Deb/AnhDuy.L363Geminis2_1.0_iphoneos-arm.deb
+Size: 1890862
+MD5sum: b9f8c35e5efa1063e47768c91f97a523
+SHA1: 1a3ed2e5e0748214d263203bbd0fa6945f57df63
+SHA256: 6d35d9a57f7249f0db7e4e26f7e3a3b6a9848c61341ee4728662ace88cb828a0
+SHA512: 38e67174c07353f8d7295a1b575cb828567bba34a7485ffd00c613f3d376f85496b103f4fd7ef3c9d4fc1d9b1455b282faa2f3e3efb34af2003a319b02b82c2a
 Description: Widget for Xen Html
-Name: L363Gemenis2
+Name: L363Geminis2
 Author: @FAlhmma
-Depiction: http://cydiavn.github.io/info/L363Gemenis2/?p=info
-SileoDepiction: http://cydiavn.github.io/info/L363Gemenis2/?p=info
+Depiction: http://cydiavn.github.io/info/L363Geminis2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L363Geminis2/?p=info
 
 Package: AnhDuy.L78
 Architecture: iphoneos-arm
