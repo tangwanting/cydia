@@ -437,3 +437,26 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://cydiavn.github.io/info/Orion/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
 
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.6.2~release
+Priority: optional
+Section: System
+Maintainer: @ongcenh
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./Deb/jp.soh.reprovision_0.6.2~release_iphoneos-arm.deb
+Size: 15957270
+MD5sum: 11be7d765a180d719f60ede489351482
+SHA1: 0860622f32d62d1bfe96f5dcf4c87f2692c7c25e
+SHA256: c713fab6ec42797480482f06f95d9d9ae451a1dcdc9af50c53590adb8a4dcd05
+SHA512: c7bb942cc9b81556bc3b5e02814136d9cf492c6cc88de228563edbf8b39a1f0f489666ddeeb1c70578d9c6c44196e6dd22f29bd9183eeb4404925d31c2444844
+Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
+Name: ReProvision Reborn
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: https://cydiavn.github.io/Debinfo/jp.soh.reprovision/?p=info
+SileoDepiction: https://cydiavn.github.io/Debinfo/jp.soh.reprovision/?p=info
+
