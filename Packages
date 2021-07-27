@@ -124,11 +124,11 @@ Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.DubsiWModernHTC_1.0_iphoneos-arm.deb
-Size: 1470230
-MD5sum: 0d51742ca6792b5ab13cad80ba78183c
-SHA1: 4b99286b4cd0fede2787fb304f7da4c51d7f5fdc
-SHA256: ee83996ed0c87b15932cfba0fd0ce513d8933b2486617b5bf05d5329f912e296
-SHA512: e8fcb5a8b67a8f34392bf7aec838c91e9927da93ffcf48c3de623b96596025927f81160f2a04228a8a19ec76b5d4730662e8b0633998dcd635e18f2498cbd346
+Size: 1470226
+MD5sum: 60d25cc6d7a1cb0cfa81ab1b522d1c6a
+SHA1: 4ec9e2f7e0c885f250c590cfb763eca79f2639be
+SHA256: 4935f8cb333cf8a58a8eedffa5d6f3a266f3bccadbfd38ac4db58a74c5104752
+SHA512: 17aabcf6c7a4358d1f61dc412432e3c44f01f973bb6bfc0092355e73561630251e0e5dc1ea5331c93d56beb5542f7a1706f2ea65c9c4498950188e82f79a4368
 Description: Widget for Xen Html
 Name: Dubs iW Modern HTC
 Author: Edit by AnhDuy
