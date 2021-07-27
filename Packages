@@ -118,6 +118,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 
+Package: AnhDuy.DubsiWModernHTC
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.DubsiWModernHTC_1.0_iphoneos-arm.deb
+Size: 1470230
+MD5sum: 0d51742ca6792b5ab13cad80ba78183c
+SHA1: 4b99286b4cd0fede2787fb304f7da4c51d7f5fdc
+SHA256: ee83996ed0c87b15932cfba0fd0ce513d8933b2486617b5bf05d5329f912e296
+SHA512: e8fcb5a8b67a8f34392bf7aec838c91e9927da93ffcf48c3de623b96596025927f81160f2a04228a8a19ec76b5d4730662e8b0633998dcd635e18f2498cbd346
+Description: Widget for Xen Html
+Name: Dubs iW Modern HTC
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/DubsiWModernHTC/?p=info
+SileoDepiction: http://cydiavn.github.io/info/DubsiWModernHTC/?p=info
+
 Package: AnhDuy.ErwinLSDO
 Architecture: iphoneos-arm
 Version: 1.0
