@@ -1,0 +1,422 @@
+Package: AnhDuy.AurosspinweatherDK
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.AurosspinweatherDK_1.0_iphoneos-arm.deb
+Size: 19024772
+MD5sum: d2d63070cd8f34749cec7d345b863685
+SHA1: 6b5f3bf9e108eac6c33e5f8ef78a96ba435a25e4
+SHA256: 067dc83e4d8b16677723c9882bcd82358fb6c99e9edfb60cd9b4099ab1128c56
+SHA512: ec2ec5313b20447a1d5ef5f936f16c123e0203bc1fb4fa32f16343c53086160247356a852fa3a7e02ca2bdae66161562887e6a26852dd7be833bebda1054e361
+Description: Widget for Xen Html
+Name: Auros spin weather DK
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
+SileoDepiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
+
+Package: AnhDuy.BackRunner
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.con>
+Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Filename: ./Deb/AnhDuy.BackRunner_0.1.7_iphoneos-arm.deb
+Size: 16462
+MD5sum: 219b781142f24f9749373906785c491a
+SHA1: 18149261336e98bd0d5da205d2145ec9e043d76c
+SHA256: 7a8d88a021b36342ad6951bf37fd69fa554f45df1c12183c19dfd8ee6ec9960c
+SHA512: 0b7007cdc67feb00336e5cc17d2aa7f941d46700afa4036616c0a01e8dd4c01cbe80777a873b0a16e502c5f15b0ad7c1ad62fb3f018b36fdeaf4256b5ec34d7f
+Description: Một tinh chỉnh để giữ cho các ứng dụng chạy ở chế độ nền. Có thể được bật hoặc tắt cho mỗi ứng dụng, yêu cầu AppList
+Name: BackRunner
+Author: Tr1Fecta <tr1develop7@gmail.com>
+Depiction: http://cydiavn.github.io/info/BackRunner/?p=info
+SileoDepiction: http://cydiavn.github.io/info/BackRunner/?p=info
+
+Package: AnhDuy.BeamPurple
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.BeamPurple_1.0_iphoneos-arm.deb
+Size: 27794682
+MD5sum: edf60c57ac76344d10c9f3df4b918c10
+SHA1: 21e6f88de8d4cb31c061b98509070d0917103a08
+SHA256: ac7629624279c0304a47b0497f83024b1d1aa1c66f1272ef6f6b5ebc573ac80f
+SHA512: f414abbb03f1bc3580f2bbc52354081d1a8a6e25162d47be4e99aab081776051bece2e6cccdb22056f5a88e6763741eb6e7b323b3f8e9cb5c175a700db212c73
+Description: pink violet icons
+Name: BeamPurple
+Author: @moondr1 <moondr1@gmail.com>
+Depiction: http://cydiavn.github.io/info/BeamPurple/?p=info
+SileoDepiction: http://cydiavn.github.io/info/BeamPurple/?p=info
+
+Package: AnhDuy.Border
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.Border_1.0.0_iphoneos-arm.deb
+Size: 1958
+MD5sum: 29e4a537fcb56ec0cc151662ca845a76
+SHA1: 3166523904f144a641c41c7fbd4ec3b0a3c9e88a
+SHA256: d692648a04c1b7c61fd0b3ae64567e08c2443c47f642aca23f14bf4dab71729e
+SHA512: dab4b2ac7634053112bd8a0e2e99b4b81cb0033516888eead0dc99323aa1c1e5cacd1b6fb7ffd1f702fc627955abf0c5438e13457d2043e91616c63f5137717c
+Description: Widget for Xen Html
+Name: Border
+Author: Truong Tam Phong
+Depiction: http://cydiavn.github.io/info/Border/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Border/?p=info
+
+Package: AnhDuy.CosmicTwo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.CosmicTwo_1.0_iphoneos-arm.deb
+Size: 927392
+MD5sum: da55f639be8b59bb04f51ba67ae56acc
+SHA1: 93b5d83b99da1017e653194cab63462a08fac163
+SHA256: db6780059d85359e3a79d0a5d53efd0583a9ec7651d71af77ac2ffa3f426311d
+SHA512: 195c3a8668433787875d8aadedec22bdf43a4b2b9467155431373e4e93851c85e4aa3fe08aa0671a777439331321cf2928dc2ab72c74550c7fe27160b881595a
+Description: Widget for Xen Html
+Name: Cosmic Two
+Author: Edit by Anh Duy
+Depiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
+
+Package: AnhDuy.DKTransWeather
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.DKTransWeather_1.0_iphoneos-arm.deb
+Size: 13573544
+MD5sum: 07b713dd32f9807881f819b83d4186ca
+SHA1: 126e3729b7853d29c63b8973fabb1376c4c01b43
+SHA256: 370d7b14f16784a1fc1657b40a54e228b7217f1fe54ef575e0f9bad4b3931ee2
+SHA512: be3b5fd3ef82dc5a2fe5393ba84ae6e38ef908229b3f42643f8ca92d4ccef3ba42c7afed087c19e6804427b7da0e9b1d28aaeb2357dd3c5fc8216d0a31e6fce8
+Description: Widget for Xen Html
+Name: DKTransWeather
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
+SileoDepiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
+
+Package: AnhDuy.ErwinLSDO
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.ErwinLSDO_1.0_iphoneos-arm.deb
+Size: 1773388
+MD5sum: c057c2618e455be841ad5e061fafbaff
+SHA1: b0d0869aea063eca09bd83d9c174013395f5e331
+SHA256: b6e26cd0987c4cffd2b383461a9168e71032d86b44107b1232537c8cb33c8ab0
+SHA512: 1bdb5b6e8c80af55063ac69a1ef80713a2c39691e22bcf525088997bc5925392696e70784333de2e68286e78dbd6c6bde6c3bd89449c46d890a9915162939637
+Description: Widget for Xen Html
+Name: ErwinLSDO
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
+
+Package: AnhDuy.HDPJulyider
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.HDPJulyider_1.0.3_iphoneos-arm.deb
+Size: 23835950
+MD5sum: 43b86fc56cf059e12581e67c69c383a3
+SHA1: 72a867f84649e130772bd80c95335aba20eec70a
+SHA256: 2f82e8c3bc288e7b07899533fc64937e2425afe5a034ab5f52d2c36f9ab54b22
+SHA512: 2cd996acdf80024848f496062b32f1a006ca8703fff593a7bf3b705faf5ad5a9c7de8dde79edce528383544aa1f84513a85e31e03ff967d55c96fe54d8163a71
+Description: Widget for Xen Html
+Name: HDP July ider
+Author: hoàng đình phong
+Depiction: http://cydiavn.github.io/info/HDPJulyider/?p=info
+SileoDepiction: http://cydiavn.github.io/info/HDPJulyider/?p=info
+
+Package: AnhDuy.InsetsXS
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./Deb/AnhDuy.InsetsXS_2.0_iphoneos-arm.deb
+Size: 27232
+MD5sum: beadbc69426e08a8a9bd64c31a953324
+SHA1: adaa861181df11bc03ff84f26865156e2a5b4454
+SHA256: 42557f7e7328901deb3127b68284eed9b710694fc3db1d4a48113ccc342cf5cf
+SHA512: 39504eda6430265bb596dc2cd8c65af4baa95395d1232fcc8eef415f7a059539a9124eb859e537a5131b66dbdf621cf95bf79f6204f47f7747b127ddbfd66486
+Description: tinh chỉnh thanh trạng thái và đáy cho trình giả lập X
+Name: InsetsXS
+Author: fahlnbg
+Depiction: http://cydiavn.github.io/info/InsetsXS/?p=info
+SileoDepiction: http://cydiavn.github.io/info/InsetsXS/?p=info
+
+Package: AnhDuy.L363Geminis2
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.L363Geminis2_1.0_iphoneos-arm.deb
+Size: 1890862
+MD5sum: b9f8c35e5efa1063e47768c91f97a523
+SHA1: 1a3ed2e5e0748214d263203bbd0fa6945f57df63
+SHA256: 6d35d9a57f7249f0db7e4e26f7e3a3b6a9848c61341ee4728662ace88cb828a0
+SHA512: 38e67174c07353f8d7295a1b575cb828567bba34a7485ffd00c613f3d376f85496b103f4fd7ef3c9d4fc1d9b1455b282faa2f3e3efb34af2003a319b02b82c2a
+Description: Widget for Xen Html
+Name: L363Geminis2
+Author: @FAlhmma
+Depiction: http://cydiavn.github.io/info/L363Geminis2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L363Geminis2/?p=info
+
+Package: AnhDuy.L78
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.L78_1.0_iphoneos-arm.deb
+Size: 279092
+MD5sum: b11aa07dfff85479566dd686f03c4a2a
+SHA1: b26f82c024d583ac2018e49437117bcad03b6426
+SHA256: be76b0aed8c7eab3c0962388ef08652c584ee42c5bb30cb6dcbbe26731f4bf93
+SHA512: 25950b9f18740cc6263eedf08fc864088cf6a856b8a243673a5105239b934bb41c9fc56f5db120d2c60f19494b565bca2917e77c43eb7f3b5a7874520c62c969
+Description: Widget for Xen Html
+Name: L78
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/L78/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
+
+Package: AnhDuy.MeanGreenMachine
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.MeanGreenMachine_1.0_iphoneos-arm.deb
+Size: 4223422
+MD5sum: 9d51d850cc57bb66d0294049dbf2d7fc
+SHA1: 52816acd277b78f194b7b9c44584cb246802cf02
+SHA256: 7062db1024461df9dbe0057720f58b16d08e6f51e45e8c38df0d73aef6381191
+SHA512: 9b22495ffa87c6c241b12687126306a20bfd04d3eb2b9aa6ca23ed5b5efecfebaf33c09b565ede13b9c65cdd19e771401a4625fb5b6c410d048cef705579ee8f
+Description: Widget for Xen Html
+Name: MeanGreenMachine
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/MeanGreenMachine/?p=info
+SileoDepiction: http://cydiavn.github.io/info/MeanGreenMachine/?p=info
+
+Package: AnhDuy.MiClock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.MiClock_1.0_iphoneos-arm.deb
+Size: 48658
+MD5sum: 86e80c623bdcd15049c4f65bcbcaa552
+SHA1: 7541b709c96f592fd040163e31d8c680245bbf19
+SHA256: 4cbd72f88200b889965817f3bcf1e07e38471a8b4b563242d223dcc5ed1b750b
+SHA512: f020c7aeffcf6f6cef10ef6ddcd25af4a0c8c33cc60c5544f24af02b9681196bec63271f45ce0d5595dae5bada727e981821f8c3596aa1600f4be1e898187401
+Description: Widget for Xen Html
+Name: MiClock
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/MiClock/?p=info
+SileoDepiction: http://cydiavn.github.io/info/MiClocl/?p=info
+
+Package: AnhDuy.SimpleLS2
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.SimpleLS2_1.0_iphoneos-arm.deb
+Size: 6145802
+MD5sum: 0370d22b516c1a5b932946c0b28dc0ec
+SHA1: 8d1f9cd978a543893998d653f97121efb18f2e31
+SHA256: 9a98a245856a01eaef587ec572a02af0cc9a44f1fa9087292b3a62e8760baa5d
+SHA512: 4f3dc766e1d215e8587f816ddf13f4d3943237a1d4f786ea18e42b65bfa14c76fd13eb838f128224ea5ce1e2ec98f6d4e8199ffc58a8e15890aa17678b6adb09
+Description: Widget for Xen Html
+Name: SimpleLS2
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+
+Package: AnhDuy.SnowBoard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Anh Duy
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/AnhDuy.SnowBoard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 3938698
+MD5sum: 2a79a171db43bf360b4a383605b2e06b
+SHA1: 7d6b239de4fb2388b4cbbeca0d0f80cb7e6a2198
+SHA256: 92b432cb0d27350cab92c6add585d0c26c2715cbe14498061b51d543431bf394
+SHA512: dece8cb0f09d15d1894081bd86649d5dae5eb0e20f4892eb2b25966482c1028f1b029f552bd1ce18b0e37f67b69c4856fbcc8b1d866a2679df368a99cb520398
+Description: Ứng dụng thay đổi chủ đề
+ - Bạn đã nhàm chán với những biểu tượng mặc định? Hãy dùng ứng dụng này để thay đổi nó.
+ + Cập nhật thêm tính năng mới. Nâng cấp tính ổn định hơn cho iOS 14
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SnowBoard
+Author: Spark
+Depiction: http://cydiavn.github.io/info/SnowBoard/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SnowBoard/?p=info
+
+Package: AnhDuy.StarDockider
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.StarDockider_1.0_iphoneos-arm.deb
+Size: 1988538
+MD5sum: 9cc85c3d4908afa73cf5666fa5be0fb8
+SHA1: aed30d583a21e261789e3fe2d86e940b1fdd740e
+SHA256: 678b8b3483a540188402666dda9717d70f4daf7af2460f16bb5e889c7b514992
+SHA512: 79456ca55eb27943c9e2b05b929b8d8204799c0c98c9e8c7d815d333d25407802cd7b0f3ddd386d928563c0d0d48b000fbcf6bea5a8ae59e37ab09538d32ba59
+Description: Widget for Xen Html
+Name: StarDock ider
+Author: Edit by Anh Duy
+Depiction: http://cydiavn.github.io/info/StarDockider/?p=info
+SileoDepiction: http://cydiavn.github.io/info/StarDockider/?p=info
+
+Package: AnhDuy.animations
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.animations_1.0_iphoneos-arm.deb
+Size: 1590414
+MD5sum: 18ed425eb955785da1b9b71dd192d454
+SHA1: 274555939abe6b1d38314f5b28dcbcd82308c62e
+SHA256: db70ce25ad5e9f921dd91040a717c18aa61ce48975c09be8068bd64621af32ea
+SHA512: 0d177fc2c9d14f8e50bb6b1ea94d922a9f8eb86650a8a96fa79536cf01175b378d44176213e2cb3ee9970a1f0cbcc173f4378783b2b697f4ec03c605cf84638b
+Description: Widget for Xen Html
+Name: animations
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/animations/?p=info
+SileoDepiction: http://cydiavn.github.io/info/animations/?p=info
+
+Package: AnhDuy.appshacks
+Architecture: iphoneos-arm
+Version: 4.5-3
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 6228
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./Deb/AnhDuy.appshacks_4.5-3_iphoneos-arm.deb
+Size: 3152798
+MD5sum: a10aaa75b550e27ca659ac9188c06019
+SHA1: 9b7ebdb476c5b079ea6f9c3bf1683ede3de2ffe7
+SHA256: 778e3c068abc4345b7b12bcf2f8ad37828caa1cf8f31b51196e9deda5a505d7d
+SHA512: 8dd34fcc81d51b73a378020771b2aa0f6f345c653b1cbfedef43d6ecf7607b1b945371d26b26f2521c79839b8940827f4d8f36b4da436f4116969b608f1e0822
+Description: Kích hoạt bản quyền cho các ứng dụng trả phí.
+Name: Apps Hacks
+Author: hmodei96
+Depiction: http://cydiavn.github.io/info/appshacks/?p=info
+SileoDepiction: http://cydiavn.github.io/info/appshacks/?p=info
+
+Package: AnhDuy.ava-status-bar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.ava-status-bar_1.0_iphoneos-arm.deb
+Size: 1540430
+MD5sum: 86f013f56f24ea6c8aa16402cda36bb7
+SHA1: 8b65af254a374df0b83eb58ed927b9354b89c077
+SHA256: 0c4548a34a7257af4b4a947b3b6998e901589402e6d1346a8e2b93656f248699
+SHA512: 1b21ab497733cd270e3dbf26bf1582593709b9dc0d6f91589e96cfd8167b29b613b7189ab5ebcb732b3e71ea1a864e9603325b411543d17ff479314a5adb3e77
+Description: Chủ đề cho thanh trạng thái.
+Name: Ava Status Bar
+Author: Devy_Design
+Depiction: http://cydiavn.github.io/info/ava-status-bar/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ava-status-bar/?p=info
+
+Package: AnhDuy.bugslifewidgetmod
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.bugslifewidgetmod_1.0_iphoneos-arm.deb
+Size: 7847146
+MD5sum: 52c57cde5a6b06e3462d42d8db0a5079
+SHA1: c5f450853ead61da13333f32a607a5493fc870f6
+SHA256: 8b62a1c56da05f27ff4034480b5c7b0692c0341496fb50d82ff84da60768cab1
+SHA512: 51eb41de6377a4958098e855078a5a0ca537fe03e5c27e349ff70302772c7c18b64b1bd49461a7c90d1505b026ea0886fd2aa6ce9a1d6aec5b9b0aefe69efe95
+Description: Widget for Xen Html
+Name: bugs life widget mod
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
+SileoDepiction: http://cydiavn.github.io/info/bugslifewidgetmod/?p=info
+
+Package: AnhDuy.bypasstechcombank
+Architecture: iphoneos-arm
+Version: 1.1.6.0-7
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.bypasstechcombank_1.1.6.0-7_iphoneos-arm.deb
+Size: 204296
+MD5sum: 386b562c06ecff6b6da574bcd96e849d
+SHA1: 383ee94f6abd303eb9263467cff35a340e5bcdd6
+SHA256: c0abaa4698f39a032b4d599943125c857dc20fe06068c4ffadae6149ea54d711
+SHA512: fa07c0896633a52c3dca84cbc40ee04223dcabb614ce35afee4fff43f28bec6e3529c6aab39ffe09b0dc93b70b1662b625cb0ecda4b66eda0d40595978f91671
+Description: Bypass Techcombank SmartOTP và TCB OTP & Softtoken
+Name: Bypass App Techcombank
+Author: IPALibrary <tuanbeo22061@hotmail.com>
+Depiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
+SileoDepiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
+
+Package: AnhDuy.chimbay
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.chimbay_1.0_iphoneos-arm.deb
+Size: 2019892
+MD5sum: 92d51896b5e5387aaabd519550b4a8e3
+SHA1: 6ff9e880faed5acecd168c8d54e1a15365549d58
+SHA256: db61512270883b63668263a2b1e25815960b9904a89f5d289ca6747b5976b20e
+SHA512: b796987597d7d6c965c79b5d2034697b5d30b2468313507444f8adbc09456bb6aaba2b6ce5711b38e42416dcca4e9a6fca57c2cbb09e3b9986dc32d663028b5c
+Description: Widget for Xen Html
+Name: Chim Bay
+Author: Edit by Anh Duy
+Depiction: http://cydiavn.github.io/info/chimbay/?p=info
+SileoDepiction: http://cydiavn.github.io/info/chimbay/?p=info
+
+Package: AnhDuy.ider
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.ider_1.1_iphoneos-arm.deb
+Size: 8477568
+MD5sum: 9211739305076a1582dd41905ffd63f3
+SHA1: 1dd8ffa3bab3c4968a9e303c9d039752b2153f7b
+SHA256: c039053ba1d757816c50acb01865bc1a0a574d431ce767c0280c7c22fb2235d0
+SHA512: 417214fa9aeb932b0bb8c0b873929f1ddeddf3d4098b4429b2933104289d1b7140a7139f504989d9cd3cf51d52b1e13d2f0e773a6fb6349bfbaf8621c57fe474
+Description: iDer Theme for IOS8 - IOS15.x
+Depiction: http://cydiavn.github.io/info/ider/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ider/?p=info
+Name: iDer
+Author: Le0n <iphonele0n@icloud.com>
+
+Package: AnhDuy.orion
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 9344
+Depends: firmware (>=13.0), firmware (<<15.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), firmware (<=13.7) | com.opa334.libundirect (>= 1.1.1), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./Deb/AnhDuy.orion_1.2_iphoneos-arm.deb
+Size: 3241732
+MD5sum: aab8ff76462d01da9846fa59c3b6161a
+SHA1: 1b4a8d919105d1c53d677f0cabf201e4ae0fb421
+SHA256: 9ccf05f3be580ab6a7e15c4c707a56773196f8d64fc6c70fb25a74c3e32795b3
+SHA512: eec225ee5a9d27cf14f338e16b1b1fa63cb69aea76044caba8621ff32e6ca3a2e6d4c68d1188a71d21fb2a548c85f461a4384fe6ef35c5771b3da33595c72fd6
+Description: Cấu hình mọi thứ trên thiết bị của bạn!
+Name: orion
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Depiction: http://cydiavn.github.io/info/Orion/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
+
