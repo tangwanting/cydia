@@ -15,6 +15,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
 SileoDepiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
 
+Package: AnhDuy.BAWLilacHilaria
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.BAWLilacHilaria_1.0_iphoneos-arm.deb
+Size: 48440294
+MD5sum: bf15f78647f5b384659957211367c03c
+SHA1: 8fa9cc4078e54e2c4f41ad65140ca14865399f72
+SHA256: 80a23f582df57b276a7287f5c636438a45c893e4d2732a8f9c1fa9e6cad0e947
+SHA512: f5e529ee778e2d1796ce5d2e42d86d073cdc9760b94b0ad52b9a050f2e979bffc193cf80b4332f806a30a86bd86fd2d52dc8dde387b6085f9facf589a405fdb9
+Description: Widget for Xen Html
+Name: BAW_Lilac_Hilaria
+Author: edit by Anh Duy
+Depiction: http://cydiavn.github.io/info/BAWLilacHilaria/?p=info
+SileoDepiction: http://cydiavn.github.io/info/BAWLilacHilaria/?p=info
+
 Package: AnhDuy.BackRunner
 Architecture: iphoneos-arm
 Version: 0.1.7
