@@ -158,11 +158,11 @@ Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.FL373Green_1.0_iphoneos-arm.deb
-Size: 5033610
-MD5sum: 6907355698bc7a12e2042f3125977e87
-SHA1: ce1810a4d8d96786a4273860f799cf9adfc0e137
-SHA256: 985c6cdfc77b2cde9404c52e70dfd910b9038f41ab03d7808901570d0da63c77
-SHA512: 13f1efdf6509df857d57ca491f9fe6af0b379ac1aa5489e2770811593b0d2606de5595104e6e4c0a625ac7fed7f81139fec6ef7dba48841d8b3b30767d2d0a28
+Size: 5087672
+MD5sum: 5e8f284c2910ba42e4f6a080a9e7874c
+SHA1: 13c4c6f208ff85e73c75f3352a873539bcfb09ec
+SHA256: b1458ee121d8c0bed97458be310a754debb2010cb9b2b7859b23a5b1fe8e8328
+SHA512: e54b06b0e131a1f55945ba9e35ab32fcb7e08b11514a6bc033acb0fbef002af32f2e70218dc9bc181bb77775d9c8aaef94690d225cd2b33d38578cbf3dd0ba30
 Description: Widget for Xen Html
 Name: FL373Green
 Author: @FAlhmma
