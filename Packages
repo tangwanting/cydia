@@ -152,6 +152,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 
+Package: AnhDuy.FL373Green
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.FL373Green_1.0_iphoneos-arm.deb
+Size: 5033610
+MD5sum: 6907355698bc7a12e2042f3125977e87
+SHA1: ce1810a4d8d96786a4273860f799cf9adfc0e137
+SHA256: 985c6cdfc77b2cde9404c52e70dfd910b9038f41ab03d7808901570d0da63c77
+SHA512: 13f1efdf6509df857d57ca491f9fe6af0b379ac1aa5489e2770811593b0d2606de5595104e6e4c0a625ac7fed7f81139fec6ef7dba48841d8b3b30767d2d0a28
+Description: Widget for Xen Html
+Name: FL373Green
+Author: @FAlhmma
+Depiction: http://cydiavn.github.io/info/FL373Green/?p=info
+SileoDepiction: http://cydiavn.github.io/info/FL373Green/?p=info
+
 Package: AnhDuy.HDPJulyider
 Architecture: iphoneos-arm
 Version: 1.0.3
