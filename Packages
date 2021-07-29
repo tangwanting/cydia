@@ -152,6 +152,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 
+Package: AnhDuy.F311SB
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.F311SB_1.0_iphoneos-arm.deb
+Size: 1842584
+MD5sum: 28b08fb226be4f090893c5bfc46feda5
+SHA1: 5292e408f7965c107edda94921dc799328dd5ece
+SHA256: 6c22b8f68ec98e2691a80e122f238a8dd7cb8e95859c350359f0dff890651c94
+SHA512: 00869610e443b650c34a197327326228224056b669ccc9ad23edf389dd6f15d347121ac6ec7ce9c5d3ec7a679d350fbff273d90ff42dbf81103780db97d5c9a3
+Description: Widget for Xen Html
+Name: F311SB
+Author: @FAlhmma
+Depiction: http://cydiavn.github.io/info/F311SB/?p=info
+SileoDepiction: http://cydiavn.github.io/info/F311SB/?p=info
+
 Package: AnhDuy.FL373Green
 Architecture: iphoneos-arm
 Version: 1.0
