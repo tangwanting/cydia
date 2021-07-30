@@ -306,6 +306,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/MiClock/?p=info
 SileoDepiction: http://cydiavn.github.io/info/MiClocl/?p=info
 
+Package: AnhDuy.Signature
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.Signature_1.0_iphoneos-arm.deb
+Size: 3222820
+MD5sum: 4258335069a0fc7f85d2116174fd14d0
+SHA1: 2042a29ef1c4681838bb32bd7f41d14c344229a8
+SHA256: 98062885d0f1eaf338c7b6cf701558649748553cda4ea96e666342b4196f505b
+SHA512: 36bf9db4026ef7cc0f9cf764ce90384ed4471cc947444cc24dc2840ed65f3347b3bb22cfb2630308437396ed7c82eeb79a9434faa35e7bda7974704eeddbabb8
+Description: Widget for Xen Html
+Name: Signature
+Author: @luis9_49
+Depiction: http://cydiavn.github.io/info/Signature/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Signature/?p=info
+
 Package: AnhDuy.SimpleLS2
 Architecture: iphoneos-arm
 Version: 1.0
