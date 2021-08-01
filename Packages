@@ -240,6 +240,23 @@ SileoDepiction: http://cydiavn.github.io/info/InsetsXS/?p=info
 
 Package: AnhDuy.L360Black
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.L360Black_1.0.1_iphoneos-arm.deb
+Size: 15752008
+MD5sum: 6f14d10abdee2fb12a78ef87bed03bdb
+SHA1: e9024ee3cbc0e0bfe0c6b3d26bd52b5d4e602c1b
+SHA256: faa90df241e08aa807a1a621ab66329d14e4ea2c491ba0b4bcfc01778b3504c7
+SHA512: 3053295abb0683a4080767094e439c44591bcbae74ee70a6e71b40fdcc3d2a8c499f0e6d6e440ed9f98cc1dcadf9f07f95e0500753fd617c1148357f87404185
+Description: Widget for Xen Html
+Name: L360Black
+Author: @FAlhmma
+Depiction: http://cydiavn.github.io/info/L360Black/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L360Black/?p=info
+
+Package: AnhDuy.L360Black
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
