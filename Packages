@@ -503,6 +503,27 @@ Author: Edit by Anh Duy
 Depiction: http://cydiavn.github.io/info/chimbay/?p=info
 SileoDepiction: http://cydiavn.github.io/info/chimbay/?p=info
 
+Package: AnhDuy.contactsextended
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.contactsextended
+Filename: ./Deb/AnhDuy.contactsextended_1.0_iphoneos-arm.deb
+Size: 67216
+MD5sum: 3dbc747311b91b49daf837779cd1b76f
+SHA1: a594298af7d16e0355854431017f4d0ce99e85e7
+SHA256: 9c39e8a5064fdb39782f692feb8d9d0e33e8c77a002190a2029f5053cb6fbc83
+SHA512: 8c1724bd37f2fb9bdfdc7187d876fcf8524a1a6ff78ccbae8e0b3fe360b3cd2dde42c9d6c8181ef5a1da0a802006a622745e1fe535592c212a937ff6726a9360
+Homepage: https://repo.packix.com/package/com.0xkuj.contactsextended/
+Description: Danh bạ mở rộng với nhiều lựa chọn.
+Name: Contacts Extended
+Author: 0xkuj
+Depiction: http://cydiavn.github.io/info/contactsextended/?p=info
+SileoDepiction: http://cydiavn.github.io/info/contactsextended/?p=info
+
 Package: AnhDuy.ider
 Architecture: iphoneos-arm
 Version: 1.1
