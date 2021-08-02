@@ -513,10 +513,10 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.0xkuj.contactsextended
 Filename: ./Deb/AnhDuy.contactsextended_1.0_iphoneos-arm.deb
 Size: 67216
-MD5sum: 3dbc747311b91b49daf837779cd1b76f
-SHA1: a594298af7d16e0355854431017f4d0ce99e85e7
-SHA256: 9c39e8a5064fdb39782f692feb8d9d0e33e8c77a002190a2029f5053cb6fbc83
-SHA512: 8c1724bd37f2fb9bdfdc7187d876fcf8524a1a6ff78ccbae8e0b3fe360b3cd2dde42c9d6c8181ef5a1da0a802006a622745e1fe535592c212a937ff6726a9360
+MD5sum: 6582aba5afcbae51a4561d71e38f7815
+SHA1: dcbabed71d09b315b025647e555942ae6fb9c237
+SHA256: 2e9b2348e3d3200819d098946e1ece6798c1f3f28cb972de0adc0e3994fb9c73
+SHA512: 72a5942169f2f0161b6b57a31175e59d6c0462a34a6ca1709b5d675cf9e79bf3339fb6f6f43461e107fb5532d2775382e995c0eb9fa0e46b5af2fbd799919efa
 Homepage: https://repo.packix.com/package/com.0xkuj.contactsextended/
 Description: Danh bạ mở rộng với nhiều lựa chọn.
 Name: Contacts Extended
