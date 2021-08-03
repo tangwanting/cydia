@@ -171,15 +171,15 @@ SileoDepiction: http://cydiavn.github.io/info/F311SB/?p=info
 
 Package: AnhDuy.FL373Green
 Architecture: iphoneos-arm
-Version: 1.0.3
+Version: 1.0.4
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.FL373Green_1.0.3_iphoneos-arm.deb
-Size: 26207498
-MD5sum: 3606571dd647ebe0f131154a14e04b12
-SHA1: 7af1fe06929652301a630a1ff5d97a258d386759
-SHA256: 0bfd2576f2160ed629bcb2b43ef0ad3eb186f0264e36192117645980890cc1e4
-SHA512: 2460671b721cd6f878c0e72a960435512d9c9697df0bbed05172311e72beb24579b70186e65fb10aa871599c1e282cad9c5e408188a2a83a6fbc5644103c5a41
+Filename: ./Deb/AnhDuy.FL373Green_1.0.4_iphoneos-arm.deb
+Size: 42182294
+MD5sum: 12a7edb09322d0f7a1cd87a86a80e58b
+SHA1: 1115c069594ee8530fa6d5634c6da74190f492de
+SHA256: a0160eb9f714bd2f98156d17ae2f8ce7b07f82853f485f2b3eab074783110e56
+SHA512: 0fc8254b5ced7eb834d298c27251d929ba9def644541d30ca59ea167a1be34103c5b3bde084ca2b18a03d893d7d9077235a1b8b7e8666895641044ba37ffa751
 Description: Widget for Xen Html
 Name: FL373Green
 Author: @FAlhmma
