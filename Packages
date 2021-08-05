@@ -32,6 +32,23 @@ Author: edit by Anh Duy
 Depiction: http://cydiavn.github.io/info/BAWLilacHilaria/?p=info
 SileoDepiction: http://cydiavn.github.io/info/BAWLilacHilaria/?p=info
 
+Package: AnhDuy.BREEDDBforecastDK
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.BREEDDBforecastDK_1.2_iphoneos-arm.deb
+Size: 19533816
+MD5sum: d8dfca238f05c0cb14530649c1403964
+SHA1: ac035b406a81b270284bc024159a12757c08aad7
+SHA256: 0cd8fa7d1ac640ed895931e7cd336a06f02fd68783c07eb5b0cfa26fc9e5b366
+SHA512: 573d55959c45214f30eaff4ca8e4c696294ba197ecf55753739e7c49247b157837577bf1d913f804409cdde9c471cbcc00cfb49b69dc6edc294d5b96402037c2
+Description: Widget for Xen Html
+Name: BREED DB forecast DK mod
+Author: JLAM2284
+Depiction: http://cydiavn.github.io/info/BREEDDBforecastDK/?p=info
+SileoDepiction: http://cydiavn.github.io/info/BREEDDBforecastDK/?p=info
+
 Package: AnhDuy.BackRunner
 Architecture: iphoneos-arm
 Version: 0.1.7
