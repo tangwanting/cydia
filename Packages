@@ -38,13 +38,13 @@ Version: 1.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.BREEDDBforecastDK_1.2_iphoneos-arm.deb
-Size: 19533816
-MD5sum: d8dfca238f05c0cb14530649c1403964
-SHA1: ac035b406a81b270284bc024159a12757c08aad7
-SHA256: 0cd8fa7d1ac640ed895931e7cd336a06f02fd68783c07eb5b0cfa26fc9e5b366
-SHA512: 573d55959c45214f30eaff4ca8e4c696294ba197ecf55753739e7c49247b157837577bf1d913f804409cdde9c471cbcc00cfb49b69dc6edc294d5b96402037c2
+Size: 19533814
+MD5sum: 9d5d922d7c57f23051528fd4d9a44fb2
+SHA1: 97b57bd83fdd29674ad8926233fe0917ecc5831c
+SHA256: d4f53090f499307204b5fd34815f8e4b01d0df62770bf01e75bd49b247b12fc7
+SHA512: c28bb4db735bee56ba5cecbb79a384a5ab8bfabc6e3bfc9c223f3399d4508bad05db55606a3ce8cf9f51e314d452097433ca41ba4ce9c74b00b440b1cddedc52
 Description: Widget for Xen Html
-Name: BREED DB forecast DK mod
+Name: BREED DB forecast DK
 Author: JLAM2284
 Depiction: http://cydiavn.github.io/info/BREEDDBforecastDK/?p=info
 SileoDepiction: http://cydiavn.github.io/info/BREEDDBforecastDK/?p=info
