@@ -1,3 +1,20 @@
+Package: AnhDuy.3DayWeather
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.3DayWeather_1.0_iphoneos-arm.deb
+Size: 8076568
+MD5sum: 35e7c983af3fa7d581092075ae8c8252
+SHA1: cce870c26e81f85db8f9057d37bbca1808433866
+SHA256: cc70f69f469c64f2df1f606f8fe703b2c7990fa274aa1bc00287884d77ed8c9c
+SHA512: af7d894c0f873fc50d72c27e31fafc365740d20682b51c288a1ff502b042e5387a9e6601cc2caa7bc917a0e67b7ab3623adb7dccf0349784e0dca3b1e666be76
+Description: Widget for Xen Html
+Name: 3DayWeather
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/3DayWeather/?p=info
+SileoDepiction: http://cydiavn.github.io/info/3DayWeather/?p=info
+
 Package: AnhDuy.AurosspinweatherDK
 Architecture: iphoneos-arm
 Version: 1.0
