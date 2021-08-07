@@ -203,6 +203,23 @@ Author: @FAlhmma
 Depiction: http://cydiavn.github.io/info/F311SB/?p=info
 SileoDepiction: http://cydiavn.github.io/info/F311SB/?p=info
 
+Package: AnhDuy.F376Color
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.F376Color_1.0_iphoneos-arm.deb
+Size: 16182782
+MD5sum: 81af97dffef765254aeb5679833c1437
+SHA1: 52abfb4061bc90c44ed5d6eec8aedbd74e433964
+SHA256: e7facccc58d0e0548c1afa6f0d3880826f0334a3cc7d27b8c8890ef42515e074
+SHA512: 69d2d0069ff6fe0ee18d43a3a8e944e173cc46152eeea9e9d6bdf1c3ad11423918f52b9550cad9d2dc3ffd1e26df6615dd9796eed910bf173f8281b26fbf10da
+Description: Widget for Xen Html
+Name: F376Color
+Author: @FAlhmma
+Depiction: http://cydiavn.github.io/info/F376Color/?p=info
+SileoDepiction: http://cydiavn.github.io/info/F376Color/?p=info
+
 Package: AnhDuy.FL373Green
 Architecture: iphoneos-arm
 Version: 1.0.4
