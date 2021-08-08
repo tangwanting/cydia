@@ -32,6 +32,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
 SileoDepiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
 
+Package: AnhDuy.BAWDarkGoddess
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.BAWDarkGoddess_1.0_iphoneos-arm.deb
+Size: 38577930
+MD5sum: 30be80041cf3f0b6b50cad514e7eb9e1
+SHA1: 0d36e35a3f687acc8367d4e61081f6662e475f23
+SHA256: 08a75536ce574afdc0ae5b72165bbec6968ad172bce6126e9137b522a1bf37de
+SHA512: 94b5036a853763ea606f6f017863a9f40df5df1b6bf0f75ef03114126bc0ec38c2c45137639c29d0ec0e5c834e898ae900fc799b3ef8f9eb4da64a5d9ec7caa2
+Description: Widget for Xen Html
+Name: BAWDarkGoddess
+Author: @Hilaria
+Depiction: http://cydiavn.github.io/info/BAWDarkGoddess/?p=info
+SileoDepiction: http://cydiavn.github.io/info/BAWDarkGoddess/?p=info
+
 Package: AnhDuy.BAWLilacHilaria
 Architecture: iphoneos-arm
 Version: 1.0
