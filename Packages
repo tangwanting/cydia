@@ -323,6 +323,23 @@ Author: @FAlhmma
 Depiction: http://cydiavn.github.io/info/L360Black/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L360Black/?p=info
 
+Package: AnhDuy.L363Elagen
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.L363Elagen_1.0_iphoneos-arm.deb
+Size: 3281046
+MD5sum: bca740e81daf1ec99ee95d5201c847a9
+SHA1: 7199a0c688bc631ed6b468d4ba8e9ea7aff09040
+SHA256: a3730ccfac1acc745fb213df0f9cfd2e5bf77407b0f9ad3bf3a8d39d697d3a60
+SHA512: 575f44fee93b67aadc56a4aac0771efd93b793e4cfdd514cf797951151fbc1f3373d83c85b821eb42d45e6b9672aa8d2e23a42525c661e3ac939565a81bab8bf
+Description: Widget for Xen Html
+Name: L363Elagen
+Author: @FAlhmma
+Depiction: http://cydiavn.github.io/info/L363Elagen/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L363Elagen/?p=info
+
 Package: AnhDuy.L363Geminis2
 Architecture: iphoneos-arm
 Version: 1.0
