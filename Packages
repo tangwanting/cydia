@@ -329,28 +329,11 @@ Version: 1.0.1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.L363Elagen_1.0.1_iphoneos-arm.deb
-Size: 4467620
-MD5sum: 04901fb5ec3696e6f52939d543e364fc
-SHA1: d902fe862bd12a4b59ffff4529ce6bc3ca26893b
-SHA256: f0374689cbd3322ece40927937f1ea47f0f49f5a383e18bfc60e39f2dba37e15
-SHA512: d985a5738f9c6e8328a886bfb80031f9c0d913f6ebff11aefe3d2ca27cdf2a2ea9cd296d4e6f687b959549490ada5e134b786046bd3f9c27483595305407951d
-Description: Widget for Xen Html
-Name: L363Elagen
-Author: @FAlhmma
-Depiction: http://cydiavn.github.io/info/L363Elagen/?p=info
-SileoDepiction: http://cydiavn.github.io/info/L363Elagen/?p=info
-
-Package: AnhDuy.L363Elagen
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Widgets
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.L363Elagen_1.0_iphoneos-arm.deb
-Size: 3281012
-MD5sum: 198e7d1992d5d281c6971867af7b8611
-SHA1: 5549d4f19f7b3a3679a5b7c5989a69615f4e5053
-SHA256: 38708c4683a5de7b84a0715307b83ca845734b854d61d43a436b5492c70f357a
-SHA512: 9002a1c752389bfb63233886ff7331a3d5710665d6ea36c6746741bd34932610acf8fcba9319e3b8776ff0dcb8daf23637c7bd974e12f690b491838c52af6e50
+Size: 4286672
+MD5sum: 6ec112530b0e376d97f85b1f3775ce80
+SHA1: 562c0189fe39a0e68773f1e2ac93989c012f17fb
+SHA256: 9d28821a7558eae7b0d593317ff43ab33f647107847c62573a59fc03918d8e0d
+SHA512: 27779639c85d9c1325e7f091d65b2b1c089a4ca385544cfb27638dc234b7b609b2915ade58eb037382db5621ad71293d94b199372e720d3a77891166d295fc28
 Description: Widget for Xen Html
 Name: L363Elagen
 Author: @FAlhmma
