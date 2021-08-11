@@ -325,15 +325,15 @@ SileoDepiction: http://cydiavn.github.io/info/L360Black/?p=info
 
 Package: AnhDuy.L363Elagen
 Architecture: iphoneos-arm
-Version: 1.0.2
+Version: 1.0.3
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.L363Elagen_1.0.2_iphoneos-arm.deb
-Size: 5289918
-MD5sum: b3818ddcc41b2d2012818dca384be4a2
-SHA1: 49ff685ca79acfb17e04db971ad6449da129c31e
-SHA256: 07bf9aaa565d58cb304e4f317e190fbc82d9e62a486ff51f82156a8efb60d3b8
-SHA512: 8778df12585f730f639d4f472d0b63443a018e192ed1f1a69af4be65c1c0e0097dc68ebd4929c30f3ee7e33ced5d28fdf626743a4ffd52adc7a0df7d23c8d84f
+Filename: ./Deb/AnhDuy.L363Elagen_1.0.3_iphoneos-arm.deb
+Size: 6341104
+MD5sum: ba78b85b799c29e7326462afc76bf577
+SHA1: aa125621ebed25cb49f1d49302761837516d02ac
+SHA256: 05a5cdaa85d72258fad9124957e86fada44207a6809b3a3fb61cd4e3891e837d
+SHA512: 1dbb03cc730cc99f96037ad84bda3e2857816f6dec7f709e515e6024a9d2010e24caf96767ac3b18b5b70e0fa7f83bcc428e4b3de71809f50f7d4d3d9844f4ea
 Description: Widget for Xen Html
 Name: L363Elagen
 Author: @FAlhmma
