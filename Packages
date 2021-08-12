@@ -323,6 +323,23 @@ Author: @FAlhmma
 Depiction: http://cydiavn.github.io/info/L360Black/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L360Black/?p=info
 
+Package: AnhDuy.L362LockScreen
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.L362LockScreen_1.0_iphoneos-arm.deb
+Size: 3728814
+MD5sum: c3013a1b8fba0b2b7aa4fa5d7809cc1b
+SHA1: 382f95a5155367b8e652540011795d1f1ab8f800
+SHA256: c7ac480be8cd8466f69adbffc7b9763b547fa7903a739bd3fb5f06c6efc81ef2
+SHA512: 64b5dac99ba43bef7e02e3f942bca254627506f2c9d43916870ca24902ca55591b49454b1f4195f4c3a6d9fcd60f27ebd13ff0557531943233ab058b431ebb0b
+Description: Widget for Xen Html
+Name: L362LockScreen
+Author: @FAlhmma
+Depiction: http://cydiavn.github.io/info/L362LockScreen/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L362LockScreen/?p=info
+
 Package: AnhDuy.L363Elagen
 Architecture: iphoneos-arm
 Version: 1.0.3
