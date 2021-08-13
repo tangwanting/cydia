@@ -359,15 +359,15 @@ SileoDepiction: http://cydiavn.github.io/info/L362LockScreen/?p=info
 
 Package: AnhDuy.L363Elagen
 Architecture: iphoneos-arm
-Version: 1.0.4
+Version: 1.0.5
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.L363Elagen_1.0.4_iphoneos-arm.deb
-Size: 7547764
-MD5sum: ea21a07a03b2148c8f6a48dfee370350
-SHA1: 37ddaaccf8d119b537ecfa81911493c3b1ac46e5
-SHA256: 04791fb183bb21676d4aa31448e529940f0c7ed9fefc9525072e23dcf5dd62ee
-SHA512: 2506f9e502a2751d4d59944c65cb0d9657a79c61599886fbe1e8da5276fe91e26d709c06bf600f1fb8132d8a0681629e9f69e9fb3bcf2569597f61e1de32da9e
+Filename: ./Deb/AnhDuy.L363Elagen_1.0.5_iphoneos-arm.deb
+Size: 8664230
+MD5sum: 89e328ad2baca9d5f5bdd2f3f10cf8bd
+SHA1: 16c55114429dfdb5468c9f8d48eee27077037b0f
+SHA256: 4cf436687b018c9c7ace8a0f4fae49127e8293b2dc0c6c4fb8f8779a03deddb8
+SHA512: 22841bef33e8ef85ca8c1682155f5d9a6351c8a02e945850347aa1c90f7d6c07b887a36953fbad13817a1000e198e595dd12a1ad4aa6073f149273ecac336c3a
 Description: Widget for Xen Html
 Name: L363Elagen
 Author: @FAlhmma
