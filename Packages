@@ -289,6 +289,23 @@ Author: fahlnbg
 Depiction: http://cydiavn.github.io/info/InsetsXS/?p=info
 SileoDepiction: http://cydiavn.github.io/info/InsetsXS/?p=info
 
+Package: AnhDuy.JJLS82Events
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.JJLS82Events_1.0_iphoneos-arm.deb
+Size: 454456
+MD5sum: 54256da03c4c90246459afb646a4c95a
+SHA1: eaa7958f34ad7b3329ff9dbc4530e51ca42618b7
+SHA256: 3dc2839e16e359db60fbc85ab479f17592e649f8fc2cf0ea14fe2f0c5a9298a5
+SHA512: b63ed90dacafc58b87ea33ed49aa159d7b04257149f7fca24ebf9c5383316aea14db0b65e7e4d83299ec0c390abdb8b47a2d27adc4f870340394ae1cd21650cd
+Description: Widget for Xen Html
+Name: JJLS82Events
+Author: Edit by AnhDuy
+Depiction: http://cydiavn.github.io/info/JJLS82Events/?p=info
+SileoDepiction: http://cydiavn.github.io/info/JJLS82Events/?p=info
+
 Package: AnhDuy.L360Black
 Architecture: iphoneos-arm
 Version: 1.0.1
