@@ -459,6 +459,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/MiClock/?p=info
 SileoDepiction: http://cydiavn.github.io/info/MiClocl/?p=info
 
+Package: AnhDuy.OdysseusHTC
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.OdysseusHTC_1.0_iphoneos-arm.deb
+Size: 17661950
+MD5sum: af86792205ae4f854ca25d82e0866919
+SHA1: 065aafe40c0fd6d2a6903750a32a394531fa181c
+SHA256: 82504b9e30a19a92f7a807aea6e5f3eb2de800346040f1f5b24e79c5ce046a52
+SHA512: 18e5cf67d3f3ef18a3923e60f39ffc2c1ae3b6aba8174ca63bd08f1f9ba25184a2aca9af50a4a66e373c463e6a6e326a386e9b725b6be950591cd86806d9d464
+Description: Widget for Xen Html
+Name: Odysseus HTC
+Author: @gearofwarsJlam
+Depiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
+SileoDepiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
+
 Package: AnhDuy.Signature
 Architecture: iphoneos-arm
 Version: 1.0
