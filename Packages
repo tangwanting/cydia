@@ -495,15 +495,15 @@ SileoDepiction: http://cydiavn.github.io/info/Signature/?p=info
 
 Package: AnhDuy.SimpleLS2
 Architecture: iphoneos-arm
-Version: 1.0.1
+Version: 1.0.2
 Section: Widgets
 Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.SimpleLS2_1.0.1_iphoneos-arm.deb
-Size: 6199876
-MD5sum: 239e4475c5de116695c8297e603b3c8e
-SHA1: 6428c4e3e83fde9ca967af95b7c2a1283f490c13
-SHA256: f9acb320ecf2d566b52228953a5bf34e760f954335e6356dc3a37fb308bb9b5f
-SHA512: 856233d6bb837590f11843e6fab19758d31e61abf2a0d6f9dadff2db8fe18de8654539b9ae1373e3d86ebc03e00111b9173e0904d99f997faca78f8976c7bc82
+Filename: ./Deb/AnhDuy.SimpleLS2_1.0.2_iphoneos-arm.deb
+Size: 11688334
+MD5sum: efd37c62c4c6eada891829a7f5802854
+SHA1: 7eb83a8fd409958c24dadda34b82b0f745706f12
+SHA256: f5e7a545cc41451f08f03f111633d8313ab68699ba56c5990d340e8267639d18
+SHA512: a61b14e0bd159e7eec6a487988c555399e2a431f78a6e2fe8b67fcd7d2beb97d0c691075c75ac3c7f901f8d5abfe003ff0479d8723286ce4dae579b2623abbee
 Description: Widget for Xen Html
 Name: SimpleLS2
 Author: Anh Duy
