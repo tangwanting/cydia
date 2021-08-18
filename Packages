@@ -175,11 +175,11 @@ Version: 1.0.1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.DKTransWeather_1.0.1_iphoneos-arm.deb
-Size: 13573654
-MD5sum: 933bffbc67ccdc6217accf2991d82a85
-SHA1: 3d567cd5bec585fb75d0fd2ad53d9b07e76babf8
-SHA256: cd3adce81f7c0826cb6080e410b4deeb981cbf4fd0d4e4a0d9c411fe006dc890
-SHA512: 0922c87c61bc9fabaa0a4a5f399afe40233f26865974d60660473d1038aceb2e37e012ed1d25ed047de463f0a77b681aafd10ee963bcf5f88cc7e9a3b23dbd4b
+Size: 13573642
+MD5sum: 50b7bd64f2a53b93bbe7a13240ed9636
+SHA1: 841f5c0ed7431968618698bbebe84d5e52423441
+SHA256: 4a5ab9e351e2e5f338b904b80bdd44283e59c41ac7ce77149bd50d7a52cf1aec
+SHA512: 67e5b9050275eb3f2d46cc1c4ef63c408640c7c372863dd3af9ad47464a2f537853e72146bdca07db278518c6148670636700c03a6612d7382ca49fb7d2f223a
 Description: Widget for Xen Html
 Name: DKTransWeather
 Author: unclear
