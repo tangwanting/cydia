@@ -717,22 +717,21 @@ Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
 Priority: optional
-Section: System
+Section: Tweaks
 Maintainer: @Anhduy <kiemphapngami@gmail.com>
 Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Filename: ./Deb/jp.soh.reprovision_0.6.2~release_iphoneos-arm.deb
-Size: 15957280
-MD5sum: b76acec671f8f69e8047823ded86f162
-SHA1: 6a0e20d067047f9475f025e92cddfae69ae4e2ab
-SHA256: 21d95d2b47b03c3f4a4cf86be628d4953b77c1969ad51db1974f0287de7bd76b
-SHA512: ac32c1963b861249ef14ade2722b67f44c66d820357852df2e9c65f5599fa0fb1eeb27da6bb871bb911c3165945784d1be482912604fb7e6924cd836a617222e
+Size: 15957242
+MD5sum: 1354b67277fd6af7c5f47232a98ab173
+SHA1: 82899ccaba38d7d57146bfc83b5c0aebfe5a6af3
+SHA256: f7dc87fd2474d671e4138bc02904fdce2dfcef3418706d41888e65345c8d9757
+SHA512: 0334a21b75daddcc99c12f1e54b93d293cd8ca99ecdc1016c963877a2d89d27b9ca1ac9244025968ff620e6a934c0722b88087ebc81f5fe8b40d7f05ac1c18ea
 Description: cài đặt file IPA và gia hạn chứng chỉ
 Name: ReProvision Reborn
 Author: Soh Satoh, Matt Clarke
 dev: Matt Clarke
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Depiction: https://cydiavn.github.io/Debinfo/jp.soh.reprovision/?p=info
 SileoDepiction: https://cydiavn.github.io/Debinfo/jp.soh.reprovision/?p=info
 
