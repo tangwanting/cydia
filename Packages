@@ -723,11 +723,11 @@ Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Filename: ./Deb/jp.soh.reprovision_0.6.2~release_iphoneos-arm.deb
-Size: 15957272
-MD5sum: 2b554a9555f71e11359fff81c6083056
-SHA1: c62187357f682f630c97c5659bdf477c5e4d16b2
-SHA256: 69eec8c1d0d1e30a4c44fc9b8455df8cd16561adc43926a5cf5151176e87e640
-SHA512: 9f277fc6e7dabbd071ada2796031faf62482d7dc35320256518bfec77c6de8de12cf6b6db6a3a9b3cb8d1722d9144c5abecd0e426ca2ceb22f0e537b67fc11d8
+Size: 15957280
+MD5sum: b76acec671f8f69e8047823ded86f162
+SHA1: 6a0e20d067047f9475f025e92cddfae69ae4e2ab
+SHA256: 21d95d2b47b03c3f4a4cf86be628d4953b77c1969ad51db1974f0287de7bd76b
+SHA512: ac32c1963b861249ef14ade2722b67f44c66d820357852df2e9c65f5599fa0fb1eeb27da6bb871bb911c3165945784d1be482912604fb7e6924cd836a617222e
 Description: cài đặt file IPA và gia hạn chứng chỉ
 Name: ReProvision Reborn
 Author: Soh Satoh, Matt Clarke
