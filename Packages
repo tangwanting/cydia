@@ -171,18 +171,18 @@ SileoDepiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
 
 Package: AnhDuy.DKTransWeather
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.1
 Section: Widgets
-Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.DKTransWeather_1.0_iphoneos-arm.deb
-Size: 13573544
-MD5sum: 07b713dd32f9807881f819b83d4186ca
-SHA1: 126e3729b7853d29c63b8973fabb1376c4c01b43
-SHA256: 370d7b14f16784a1fc1657b40a54e228b7217f1fe54ef575e0f9bad4b3931ee2
-SHA512: be3b5fd3ef82dc5a2fe5393ba84ae6e38ef908229b3f42643f8ca92d4ccef3ba42c7afed087c19e6804427b7da0e9b1d28aaeb2357dd3c5fc8216d0a31e6fce8
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.DKTransWeather_1.0.1_iphoneos-arm.deb
+Size: 13573536
+MD5sum: 5c6298209cb915abc0ccb9aa99a2c073
+SHA1: 79b108d43b1f5d7abffea1e65525d730b1d9997c
+SHA256: cafec2b921e492668a783f5f7eb600269c067810cd068989d5bf9e40d4ac044b
+SHA512: 416d0a7a5d6e766065000ad375ea6129bfdfc7da48817f3025e9d813d9a5b35bf5839c988733421b6adb67554260239f0b532859870e6b34bfa681fda84b390d
 Description: Widget for Xen Html
 Name: DKTransWeather
-Author: Edit by AnhDuy
+Author: unclear
 Depiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 
