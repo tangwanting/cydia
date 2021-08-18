@@ -723,15 +723,16 @@ Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Filename: ./Deb/jp.soh.reprovision_0.6.2~release_iphoneos-arm.deb
-Size: 15957242
-MD5sum: 1354b67277fd6af7c5f47232a98ab173
-SHA1: 82899ccaba38d7d57146bfc83b5c0aebfe5a6af3
-SHA256: f7dc87fd2474d671e4138bc02904fdce2dfcef3418706d41888e65345c8d9757
-SHA512: 0334a21b75daddcc99c12f1e54b93d293cd8ca99ecdc1016c963877a2d89d27b9ca1ac9244025968ff620e6a934c0722b88087ebc81f5fe8b40d7f05ac1c18ea
+Size: 15957274
+MD5sum: 3193991f474ed44d1ec2de4e523fa58a
+SHA1: 7f34ad674964d41891f75731c0bf371366336c47
+SHA256: 9375d85565231b9e74397377f40808fa3fcb89ba0f412d029061f61c5391f6eb
+SHA512: 68484aa81a58370c2f15228321484b44907c564af1bdc4ab4660798762d185d5f48070d05d9c2b261357a9c21a1c58e4fed0232045b5e13bf965d6953b295226
 Description: cài đặt file IPA và gia hạn chứng chỉ
 Name: ReProvision Reborn
 Author: Soh Satoh, Matt Clarke
 dev: Matt Clarke
-Depiction: https://cydiavn.github.io/Debinfo/jp.soh.reprovision/?p=info
-SileoDepiction: https://cydiavn.github.io/Debinfo/jp.soh.reprovision/?p=info
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
+SileoDepiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
 
