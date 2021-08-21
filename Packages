@@ -551,23 +551,6 @@ Author: Edit by Anh Duy
 Depiction: http://cydiavn.github.io/info/StarDockider/?p=info
 SileoDepiction: http://cydiavn.github.io/info/StarDockider/?p=info
 
-Package: AnhDuy.TransWeather
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Widgets
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.TransWeather_1.0_iphoneos-arm.deb
-Size: 3978104
-MD5sum: a5cf34bbe58bc2b74df0fdeb2c74bde1
-SHA1: 8fb1af11894c584d3dd65f366de3bd31f71bae72
-SHA256: 3808261048931a9b568e4d24417660a40fae2b6583f89cb9b7b09b8a8055e288
-SHA512: 14d8f4f96153e80bc330a61413fc04ea0d030ee39bf74881070752a7fa801c4cda3e47f610126b3a40ab02eb030dde1558f3c70b5abe0090333c567ad14f59f9
-Description: Widget for Xen Html
-Name: TransWeather
-Author: Anh Duy
-Depiction: http://cydiavn.github.io/info/TransWeather/?p=info
-SileoDepiction: http://cydiavn.github.io/info/TransWeather/?p=info
-
 Package: AnhDuy.animations
 Architecture: iphoneos-arm
 Version: 1.0
