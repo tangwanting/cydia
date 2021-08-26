@@ -271,6 +271,23 @@ Author: @FAlhmma
 Depiction: http://cydiavn.github.io/info/FL373Green/?p=info
 SileoDepiction: http://cydiavn.github.io/info/FL373Green/?p=info
 
+Package: AnhDuy.Gion
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.Gion_1.0_iphoneos-arm.deb
+Size: 3846172
+MD5sum: 917be9f0ae3e3998ee8fbddb862525fb
+SHA1: 05d09ad9748d4a286846fad654cc728c644af25c
+SHA256: 6a2ba2d87fb4352f566a80caa9704e0e3e0d4b104199ddbc5e87cc1fe10aa990
+SHA512: 01cb8469ba6815bbcb50dc3f153658321f94231de4c77eff197ba4c1643a65f85506d8d2c15bb24245f84b3a53ca79e2479a66212114b61b5f91b386307347aa
+Description: Widget for Xen Html
+Name: Gion
+Author: Alimaulana
+Depiction: http://cydiavn.github.io/info/Gion/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Gion/?p=info
+
 Package: AnhDuy.HDPJulyider
 Architecture: iphoneos-arm
 Version: 1.0.3
