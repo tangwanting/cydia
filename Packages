@@ -719,18 +719,38 @@ Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 1388
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
 Filename: ./Deb/AnhDuy.cylinder_1.0.4-1_iphoneos-arm.deb
-Size: 374870
-MD5sum: 8cafbd4434917d981819e1903314d635
-SHA1: 0ac47fd30987085c28dee60c6d34c64a2f509006
-SHA256: 209ef5779ec1898ee59a8875c4af5eff4d0754da9cbf26a309390c9e89d6f5c9
-SHA512: fa2fec41f4392fd9599317d267a24d35749ad834227d88bd049009c818aff192bfd4ff3dd72306152eae7edde072f7a9eb871df9d40f6f831897265c5ff1ed72
+Size: 374856
+MD5sum: 0eb72a135794c41e2bca13333ed24abe
+SHA1: 28905e8fd704571361e105c48215e888c27dec61
+SHA256: 175c2a1b0b32105b29694dd9e0fa1a0f4ddd2cc6b6e8c4abb034d5bb2811d7de
+SHA512: 216149c55e0c6e48907e2e27ef05b0eebfab27cc787ef835bcf8deee2e6c7d130d979fe13c691167a9733688b64c72d79296076582aa488873cc72454928a484
 Description: Làm cho các biểu tượng của bạn nhảy múa
 Tag: compatible_min::ios11.0
 Name: Cylinder Reborn
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: http://cydiavn.github.io/info/cylinder/?p=info
-SileoDepiction: http://cydiavn.github.io/info/cylinder/?p=infodepictions/?p=com.miro.tranzlo
+SileoDepiction: http://cydiavn.github.io/info/cylinder/?p=info
+
+Package: AnhDuy.exacttime
+Architecture: iphoneos-arm
+Version: 2.0-1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 1160
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./Deb/AnhDuy.exacttime_2.0-1_iphoneos-arm.deb
+Size: 96194
+MD5sum: 5398a0ecd2c51cfaf98530ef706a1cd2
+SHA1: 8459f6eb6230d1b8f84260b8481df168cd291bae
+SHA256: 19cc10eb1961edb348f7403aeb428d6985304b74ccef7b90c3c6045454be265c
+SHA512: f6c8e092818c70415478ecfed8c5482e5f8bbc8bdb9abfa639dfd8532b5e95f877be0f7995edb8d6035ebcdb1cf912f60b10cce09320cdf42904fdec34f03a15
+Description: Hiển thị thời gian chính xác của thông báo, tin nhắn, cuộc gọi và mail.
+Name: ExactTime
+Author: gilshahar7
+Depiction: http://cydiavn.github.io/info/exacttime/?p=info
+SileoDepiction: http://cydiavn.github.io/info/exacttime/?p=info
 
 Package: AnhDuy.fancyselection
 Architecture: iphoneos-arm
