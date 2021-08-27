@@ -848,6 +848,30 @@ SileoDepiction: http://cydiavn.github.io/info/tranzlo/?p=infodepictions/?p=com.m
 Author: Anh Duy <kiemphapngami@gmail.com>
 Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
 
+Package: anhduy.shuffle
+Architecture: iphoneos-arm
+Version: 1.5.2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 2324
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./Deb/anhduy.shuffle_1.5.2_iphoneos-arm.deb
+Size: 557564
+MD5sum: 9a8848d678ef01b53ed9457a7151353a
+SHA1: c4e4139bda01d81230b4a3c314fc76a368888326
+SHA256: beff467260bb9223b1cd710594095c2583d72f2869bfe898d22c624f69c5f972
+SHA512: 2fe16b2c0dd6763d981d3034a8d9453081ef670f72d146ce9ca5bce1dce0e866dc00240cb71c7e347d88dd148ce3049869538756dd1981653faa9e0b7675dcb0
+Description: Sắp xếp cài đặt của bạn
+Tag: purpose::extension, compatible_min::ios10
+Name: Shuffle
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: http://cydiavn.github.io/info/shuffle/?p=info
+SileoDepiction: http://cydiavn.github.io/info/shuffle/?p=info
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
