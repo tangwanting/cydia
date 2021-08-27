@@ -711,6 +711,26 @@ Author: 0xkuj
 Depiction: http://cydiavn.github.io/info/contactsextended/?p=info
 SileoDepiction: http://cydiavn.github.io/info/contactsextended/?p=info
 
+Package: AnhDuy.fancyselection
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 2148
+Depends: firmware (>=13.4), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./Deb/AnhDuy.fancyselection_1.5_iphoneos-arm.deb
+Size: 628656
+MD5sum: 87460179189a569fdbf61de9c0229d55
+SHA1: e01a8dfff2775ea4bda2ddc187c3d5a80974d461
+SHA256: fbee9f9ae38cdbddfd393e1f265d5c7d32669b422eda4107a989130ca5e27c1b
+SHA512: 832bf414ba5fe3758e8530ceb69499cb466310b9acb2d4484d1e4617af9cea747c6a6c1bbf2bf4696993b9dbb8461daec710f421593826ec31a723c14132cf0e
+Description: Thay đổi menu lựa chọn văn bản của iOS
+Tag: purpose::extension, compatible_min::ios13.4, compatible_max::ios14
+Name: FancySelection
+Depiction: http://cydiavn.github.io/info/fancyselection/?p=info
+SileoDepiction: http://cydiavn.github.io/info/fancyselection/?p=infodepictions/?p=com.miro.tranzlo
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: AnhDuy.ider
 Architecture: iphoneos-arm
 Version: 1.1
