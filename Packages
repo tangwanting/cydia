@@ -1,16 +1,16 @@
 Package: Anh.Duy.tranzlo
 Architecture: iphoneos-arm
-Version: 3.2.1
+Version: 3.2.1-2
 Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 5340
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
-Filename: ./Deb/Anh.Duy.tranzlo_3.2.1_iphoneos-arm.deb
-Size: 2659244
-MD5sum: 36c582557ff8be55470d6ecce6dc8a0f
-SHA1: 256b2d5c95717f385c5bcf1cadb8d6b22b3fca2a
-SHA256: 2f1160f21a137e026e7d3de8a65f2e1ce859df38edabadaeef9df6f1e37132e4
-SHA512: 403a07a6a2448c373241baa13e69a36284fe8526044daf6b69fc6c3f6f6178ef6c3bd135a589197c9bc920ad20a4c1a61956f7e20aeabb817609e0c2e3eb15b0
+Filename: ./Deb/Anh.Duy.tranzlo_3.2.1-2_iphoneos-arm.deb
+Size: 2659250
+MD5sum: 29bdad94847633d5eb5d64a2a77d4c23
+SHA1: 98341a272cd059ef3f19341024c5837f4ac0b8b0
+SHA256: e6fdc12b66f62b21afa01984fe07780d3f961a536f8eb6dfedce5ac254c5e679
+SHA512: 3a0fc4a43243c2185e65e939d52b0a6010ec9e587d3f48d72dc753aac448b6b721cc814f5819221fd5e0c4c219ca6dfb07d93ae9b43cd0a8f5cea503ec6e7e2c
 Description: Một tinh chỉnh dịch thuật thông minh.
 Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Name: Tranzlo
