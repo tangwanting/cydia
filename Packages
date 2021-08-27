@@ -1,3 +1,24 @@
+Package: Anh.Duy.tranzlo
+Architecture: iphoneos-arm
+Version: 3.2.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 5340
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./Deb/Anh.Duy.tranzlo_3.2.1_iphoneos-arm.deb
+Size: 2659248
+MD5sum: 4a7421eff45053a0028a8ec385d1be71
+SHA1: 1254a60a0022b4655907ee7d1a95ac547a879f67
+SHA256: 20598316cb097f22e502b8a636c348b28f9232032be19c6b2886a49b041448c4
+SHA512: 8bacebc1b27b2245d16b79b3077f220cce08c7601777880df7bc22f29afca2175d4b5607180be388372efb8cadfd74c3f2f930cee5e77402b05f8a27b912bd5e
+Description: Một tinh chỉnh dịch thuật thông minh.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo
+Depiction: http://cydiavn.github.io/info/tranzlo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/tranzlo/?p=infodepictions/?p=com.miro.tranzlo
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
+
 Package: AnhDuy.2DayWeather
 Architecture: iphoneos-arm
 Version: 1.0
