@@ -711,6 +711,27 @@ Author: 0xkuj
 Depiction: http://cydiavn.github.io/info/contactsextended/?p=info
 SileoDepiction: http://cydiavn.github.io/info/contactsextended/?p=info
 
+Package: AnhDuy.cylinder
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 1388
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./Deb/AnhDuy.cylinder_1.0.4_iphoneos-arm.deb
+Size: 374866
+MD5sum: a693627c572f882091748a686a5474a5
+SHA1: c0d3e07044c851b9baaf9929958f2cb789b1ac28
+SHA256: 6208f61cc3a854582c582625242862026e40536c4b9af53bcb2914fe53132092
+SHA512: 51c27ecb81e2031362136694e3366d883ed255f8fc2e2270205fd4502b6ef79323f0a67ce5024e08b7014b39962a752bb3da16329f754fe6990411206fe1c0bc
+Description: Làm cho các biểu tượng của bạn nhảy múa
+Tag: compatible_min::ios11.0
+Name: Cylinder Reborn
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
+Depiction: http://cydiavn.github.io/info/cylinder/?p=info
+SileoDepiction: http://cydiavn.github.io/info/cylinder/?p=infodepictions/?p=com.miro.tranzlo
+
 Package: AnhDuy.fancyselection
 Architecture: iphoneos-arm
 Version: 1.5
