@@ -772,6 +772,26 @@ Depiction: http://cydiavn.github.io/info/fancyselection/?p=info
 SileoDepiction: http://cydiavn.github.io/info/fancyselection/?p=infodepictions/?p=com.miro.tranzlo
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: AnhDuy.fingerlock
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 508
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, firmware (>= 13.0)
+Conflicts: uk.invoxiplaygames.lockglyphmodern
+Filename: ./Deb/AnhDuy.fingerlock_2.0.3_iphoneos-arm.deb
+Size: 162374
+MD5sum: 91efe169a0eb91e9d2654f23ba42c473
+SHA1: 5f62295f6b7c98fe8c2e856a46dee2b1309cb7a4
+SHA256: d648a754242863ff99d1a4207195033a55a79a75c14715c7193f2204653b3589
+SHA512: 04b2fd270e37ee4706f560e889c4ecf92529351f2691cf89b3bbe2b41533fd9d3685cb06a8424620c61ef46a2813115010ed2588db8c91d81e3d09caef768a6f
+Description: Thêm các tính năng tuyệt vời vào màn hình khóa của bạn
+Name: FingerLock
+Author: MTAC <mtactheming@gmail.com>
+Depiction: http://cydiavn.github.io/info/fingerlock/?p=info
+SileoDepiction: http://cydiavn.github.io/info/fingerlock/?p=info
+
 Package: AnhDuy.ider
 Architecture: iphoneos-arm
 Version: 1.1
