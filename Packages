@@ -747,6 +747,26 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://cydiavn.github.io/info/Orion/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
 
+Package: AnhDuy.tranzlo
+Architecture: iphoneos-arm
+Version: 3.2.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./Deb/AnhDuy.tranzlo_3.2.1_iphoneos-arm.deb
+Size: 5824
+MD5sum: 894ee61338d258c7bcf017f360bcde8a
+SHA1: 867cf4117843edebeb3497b8ef8e383d3a0cbaa0
+SHA256: ff368981519e1460162c246e5c11d871cf98c15d63f2c5771c0d084c7c319b54
+SHA512: f94c1ba5fcc03d7e674e74e475e2e50e82eb9fa144a3972bf48cc156d9c50ad9f98f5052ffc2399537cf5bfa4e8a5ecdd2308336de68fa0d616a5a253f20a0fd
+Description: gói tiếng việt dành cho tinh chỉnh Tranzlo
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo (gói tiếng việt)
+Depiction: http://cydiavn.github.io/info/tranzlo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/tranzlo/?p=infodepictions/?p=com.miro.tranzlo
+Author: Anh Duy <kiemphapngami@gmail.com>
+Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
+
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
