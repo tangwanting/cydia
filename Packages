@@ -809,6 +809,25 @@ SileoDepiction: http://cydiavn.github.io/info/ider/?p=info
 Name: iDer
 Author: Le0n <iphonele0n@icloud.com>
 
+Package: AnhDuy.laetus
+Architecture: iphoneos-arm
+Version: 3.3.1-1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./Deb/AnhDuy.laetus_3.3.1-1_iphoneos-arm.deb
+Size: 991004
+MD5sum: 6f93ac5bbeb29aa3ef3a73fb440f3a57
+SHA1: cdd48763bee468b066bd17a3d5eb293ed951f193
+SHA256: 3eb455cf22586c32e88abd1dc67f7b3cd32019291d022932df9d045d428e90cd
+SHA512: b7eba00bb7eb423395ba294e279e4bab0be09d8841bcfed7393a943429d164d000e41efec0f171577cb1f9fae49d1a4387b4dd66815234b347ecb9fa2004bec7
+Description: Tùy chỉnh bàn phím vô song
+Name: Laetus
+Author: Spark
+Depiction: http://cydiavn.github.io/info/laetus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/laetus/?p=info
+
 Package: AnhDuy.orion
 Architecture: iphoneos-arm
 Version: 1.2
