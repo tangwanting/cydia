@@ -817,11 +817,11 @@ Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 1820
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
 Filename: ./Deb/AnhDuy.laetus_3.3.1_iphoneos-arm.deb
-Size: 991416
-MD5sum: 74b898c3947c93d67a8c95233fe0abd9
-SHA1: 5e13b377ccc8e50adba8023f5b2cb716a7c211be
-SHA256: 368d6be0580781e9b4796beabbb3f6a62046b117842b0f788da3be4e731c4525
-SHA512: 7c4799b4b93f0cb1d2174621407a2d9d3d6dfade11bf7f7c9c9a020c70fa2c2ba41a31c4f7ffd65195403e5b9d6c1bdcb024a420c16c8af30b88aa904f3b99f9
+Size: 991398
+MD5sum: 00efcfe039cffe3a2f16b848cb51477c
+SHA1: 022fbd8ce25e2cc6221eb0238cf827903b303453
+SHA256: d179103f1a4a0856c2b45b6cc32e6d7700d513f787860029c6e03af2a154f204
+SHA512: 42e35a836cb1817f02025870f8498e03faa2f0fa40ce53421cffba8c2b144986c32d43a5aaf79d50f221ff4693c11d783143e606aee48093b733007c5bbb5d37
 Description: Tùy chỉnh bàn phím vô song
 Name: Laetus
 Author: Spark
