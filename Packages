@@ -828,6 +828,26 @@ Author: Spark
 Depiction: http://cydiavn.github.io/info/laetus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/laetus/?p=info
 
+Package: AnhDuy.onenotify
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 496
+Depends: mobilesubstrate, applist, ca.menushka.menushkaprefs (>= 1.2.2)
+Filename: ./Deb/AnhDuy.onenotify_1.3.2_iphoneos-arm.deb
+Size: 38316
+MD5sum: bb0e99589527bee9bcd2bb98610a4e43
+SHA1: 8e58bda8f6f9ae809703edd75cb4bc0fef92d7bd
+SHA256: a240566c3505b08632cc25279dc8fb665f3728cea90e2b4a408a4d1766a948ff
+SHA512: 9e1a6474913618bd119cd6e35f6c6a7e2adb2032cf5b25b2c50fca64f17ebfd3e9226e9ca1567710f5123595a1c2551beee800887186b569970e43538a5dcc8d
+Description: tuỳ chọn thông báo làm sáng màn hình khoá của bạn
+Name: OneNotify
+Author: Menushka Weeratunga
+Icon: https://repo.menushka.ca/assets/ca.menushka.onenotify/icon.png
+Depiction: http://cydiavn.github.io/info/onenotify/?p=info
+SileoDepiction: http://cydiavn.github.io/info/onenotify/?p=info
+
 Package: AnhDuy.orion
 Architecture: iphoneos-arm
 Version: 1.2
