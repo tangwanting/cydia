@@ -828,6 +828,25 @@ Author: Spark
 Depiction: http://cydiavn.github.io/info/laetus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/laetus/?p=info
 
+Package: AnhDuy.letmeknow
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.letmeknow_1.4.2_iphoneos-arm.deb
+Size: 32670
+MD5sum: 67505766da52eb032e44250da06c0352
+SHA1: b2aed9b1c5591a279be5b9e0b47720bccf4052d1
+SHA256: 7ce3f36c911c52109a6ee4902e9fcb20fd24ea59a88c82e34066924f19355bd4
+SHA512: 626ae1bb2993d14e35f78d7f468250d21ffb24fb770a8ae0c0d48f0f08ca014f04dbee91a1e179197c7ff5e82cae19bfca5b49db7a81ac3e309aff4abd1456e2
+Description: rung khi bắt đầu và kết thúc cuộc gọi.
+Name: LetMeKnow
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://cydiavn.github.io/info/letmeknow/?p=info
+SileoDepiction: http://cydiavn.github.io/info/letmeknow/?p=info
+
 Package: AnhDuy.onenotify
 Architecture: iphoneos-arm
 Version: 1.3.2
