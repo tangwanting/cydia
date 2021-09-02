@@ -638,6 +638,26 @@ Author: Devy_Design
 Depiction: http://cydiavn.github.io/info/ava-status-bar/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ava-status-bar/?p=info
 
+Package: AnhDuy.axon
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 584
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./Deb/AnhDuy.axon_1.4_iphoneos-arm.deb
+Size: 203118
+MD5sum: f170738a18dc88c5b6b96673a10dad64
+SHA1: 61ba26f8f3cd67f5d1b778a9019dd362841692e7
+SHA256: 5dd1cb17306a4c170305456c844edd4cc867d457b7c8edb470593665edb9ac6b
+SHA512: 2b80f6d6f743a38b6efab9abf430df2c18892de9fdef0121a6c7b1e6c1ec4fa202415b2540b5a56ed8f37298af6734eaf032775f9e97246aba2fa3a5f864aaf5
+Description: Nhóm và xem các thông báo chưa đọc trên màn hình khóa
+Name: Axon
+Author: Nepeta
+Depiction: http://cydiavn.github.io/info/axon/?p=info
+SileoDepiction: http://cydiavn.github.io/info/axon/?p=info
+
 Package: AnhDuy.bugslifewidgetmod
 Architecture: iphoneos-arm
 Version: 1.0
