@@ -792,6 +792,25 @@ Author: MTAC <mtactheming@gmail.com>
 Depiction: http://cydiavn.github.io/info/fingerlock/?p=info
 SileoDepiction: http://cydiavn.github.io/info/fingerlock/?p=info
 
+Package: AnhDuy.homepluspro
+Architecture: iphoneos-arm
+Version: 2.4.0-alpha3
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Deb/AnhDuy.homepluspro_2.4.0-alpha3_iphoneos-arm.deb
+Size: 13045750
+MD5sum: 46991427e1e3cbb1b946e159a2c642c2
+SHA1: 6387cd2343445449a1546b9a98cb41f64a97b483
+SHA256: 91b477049308fe1e13f195cbaf05b7cfa17ca41dfc54ef18cf2712e6d6d7b7a8
+SHA512: 6fd28256f0c45d9c6b9e9fa6566e9fed5076342a2d24b7a5c404840cdfe8bbafbfaf1aa1bc1c19a8e6de1f19f4f4b15a6e8e206b5a02a29e61bbef6b76811092
+Homepage: https://repo.krit.me/pack/homepluspro
+Description: Điều khiển bố cục trên màn hình chính theo cách bạn muốn!
+Name: HomePlus Pro
+Author: Kritanta
+Depiction: http://cydiavn.github.io/info/homepluspro/?p=info
+SileoDepiction: http://cydiavn.github.io/info/homepluspro/?p=info
+
 Package: AnhDuy.ider
 Architecture: iphoneos-arm
 Version: 1.1
