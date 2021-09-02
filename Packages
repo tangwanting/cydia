@@ -585,6 +585,23 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/TransWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/TransWeather/?p=info
 
+Package: AnhDuy.Triangle
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.Triangle_1.1_iphoneos-arm.deb
+Size: 3505248
+MD5sum: 793bd1395a890fcfb92a1b70801a7562
+SHA1: b3263c26264aa34c24dab28f37e0b023b9f8780a
+SHA256: 5ce113941ca5d555f958e0ae3ff1a60c6df9c9df0cddaa86bcec0ba977d2a369
+SHA512: 374d13cb9eb201985066643c2942acdd33c8c944ac0f0d31c5efd61bb6627f6e267ea7aeaf5465ac70e40261ab0554e3e29545806546d28768524bb74b52d183
+Description: Widget for Xen Html
+Name: Triangle
+Author: alimaulana
+Depiction: http://cydiavn.github.io/info/Triangle/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Triangle/?p=info
+
 Package: AnhDuy.animations
 Architecture: iphoneos-arm
 Version: 1.0
