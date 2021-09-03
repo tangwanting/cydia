@@ -38,11 +38,11 @@ Version: 1.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.AsKew_1.2_iphoneos-arm.deb
-Size: 1475096
-MD5sum: bc7bfe853abe2d26c6e38b3a91f09f44
-SHA1: bc715dd0eb46b24eca030ea8ce455fe045403442
-SHA256: 666f12f51b531c4e07bb6efeeafd53c3fc8d31a1180d03b0b2f6aad5a29e118f
-SHA512: b80026ad11adce283a2917f7e87115c26bc1905a24c752fce5e79710b85aeac3192d9639bd7b0cf46184b43534203a920d040172c94d0c92a868b5df1c1a23e1
+Size: 1475100
+MD5sum: 2d5d38a49e0dafb6a699bdc95e325596
+SHA1: 7725a1ccfffbd7c51d722172ec753d2ab66bb89c
+SHA256: 617e2209a3de682d183220be93acdbb2bfe427adf1a4230a6c2ff059070bec20
+SHA512: 825a6b237af865d438f9933ebf6d7290a61abecb71716715da196e73b0286f85db9498c8b433be85134b7382e61249cdd595deb5721c8351a42c2dc3b7c8c19c
 Description: Widget for Xen Html
 Name: AsKew
 Author: alimaulana
@@ -608,11 +608,11 @@ Version: 1.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.Triangle_1.2_iphoneos-arm.deb
-Size: 3503586
-MD5sum: b9c130b3b628bb5f05fc0ac3ee71eb6c
-SHA1: dac3efb3e0a5ea1b9931f2b8c2478a599ccc2430
-SHA256: 6b7378a8b5ee9848ae0ed04c1e76ca2076f790099efa004b6859d4974e5c5e9e
-SHA512: bbfc76a6b28d9b6cc683caf501c5e233bca17627fb0b9d0be1dd6d65e15009d9ad050b1359332dce19a9f8d6be5b5406e3043be2f181469a722a87b0c59f722f
+Size: 3503584
+MD5sum: d27850eb57ed390286cb25bceb45e375
+SHA1: f6c85ade560d5133956f0f3bc5ac71499d5b3183
+SHA256: 0daee39e6008735772f245900d80829bb068f461d89dc85b3aeaa223638a2e73
+SHA512: b7b1c78fea3185c9f142e077108daa6fd4695a1613c560a1a1f99d4cbcc888ddd13179ddbf3022f743cdf613f1893a9b66471a07e6a5c8c76180f7e735353408
 Description: Widget for Xen Html
 Name: Triangle
 Author: alimaulana
