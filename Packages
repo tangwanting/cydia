@@ -32,6 +32,23 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/3DayWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/3DayWeather/?p=info
 
+Package: AnhDuy.AsKew
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.AsKew_1.2_iphoneos-arm.deb
+Size: 1475096
+MD5sum: bc7bfe853abe2d26c6e38b3a91f09f44
+SHA1: bc715dd0eb46b24eca030ea8ce455fe045403442
+SHA256: 666f12f51b531c4e07bb6efeeafd53c3fc8d31a1180d03b0b2f6aad5a29e118f
+SHA512: b80026ad11adce283a2917f7e87115c26bc1905a24c752fce5e79710b85aeac3192d9639bd7b0cf46184b43534203a920d040172c94d0c92a868b5df1c1a23e1
+Description: Widget for Xen Html
+Name: AsKew
+Author: alimaulana
+Depiction: http://cydiavn.github.io/info/AsKew/?p=info
+SileoDepiction: http://cydiavn.github.io/info/AsKew/?p=info
+
 Package: AnhDuy.AurosspinweatherDK
 Architecture: iphoneos-arm
 Version: 1.0
