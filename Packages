@@ -587,15 +587,15 @@ SileoDepiction: http://cydiavn.github.io/info/TransWeather/?p=info
 
 Package: AnhDuy.Triangle
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.Triangle_1.1_iphoneos-arm.deb
-Size: 3505248
-MD5sum: 793bd1395a890fcfb92a1b70801a7562
-SHA1: b3263c26264aa34c24dab28f37e0b023b9f8780a
-SHA256: 5ce113941ca5d555f958e0ae3ff1a60c6df9c9df0cddaa86bcec0ba977d2a369
-SHA512: 374d13cb9eb201985066643c2942acdd33c8c944ac0f0d31c5efd61bb6627f6e267ea7aeaf5465ac70e40261ab0554e3e29545806546d28768524bb74b52d183
+Filename: ./Deb/AnhDuy.Triangle_1.2_iphoneos-arm.deb
+Size: 3503586
+MD5sum: b9c130b3b628bb5f05fc0ac3ee71eb6c
+SHA1: dac3efb3e0a5ea1b9931f2b8c2478a599ccc2430
+SHA256: 6b7378a8b5ee9848ae0ed04c1e76ca2076f790099efa004b6859d4974e5c5e9e
+SHA512: bbfc76a6b28d9b6cc683caf501c5e233bca17627fb0b9d0be1dd6d65e15009d9ad050b1359332dce19a9f8d6be5b5406e3043be2f181469a722a87b0c59f722f
 Description: Widget for Xen Html
 Name: Triangle
 Author: alimaulana
