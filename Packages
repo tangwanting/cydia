@@ -322,6 +322,23 @@ Author: hoàng đình phong
 Depiction: http://cydiavn.github.io/info/HDPJulyider/?p=info
 SileoDepiction: http://cydiavn.github.io/info/HDPJulyider/?p=info
 
+Package: AnhDuy.Hexa
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.Hexa_1.2_iphoneos-arm.deb
+Size: 1301140
+MD5sum: 2bd55887f3bff833afac8ddf03da8aeb
+SHA1: 813e30f01293ac479391560fc195a9d84c00731a
+SHA256: f2770d5a9ac319b3e7aa3b3120fe60d746e1960aba406d442da786d968b0e362
+SHA512: 7e593967fbb4b79c9b5a3d3f45ec8d3f91481c3ef184113c513e93e5e4e1b365972c57faed545efedff05ca67378ff8bc41cd29a4a8b1084c063d2b8d48f3811
+Description: Widget for Xen Html
+Name: Hexa
+Author: alimaulana
+Depiction: http://cydiavn.github.io/info/Hexa/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Hexa/?p=info
+
 Package: AnhDuy.InsetsXS
 Architecture: iphoneos-arm
 Version: 2.0
