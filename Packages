@@ -169,6 +169,24 @@ Author: Truong Tam Phong
 Depiction: http://cydiavn.github.io/info/Border/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Border/?p=info
 
+Package: AnhDuy.Boss
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.Boss_1.0_iphoneos-arm.deb
+Size: 43045514
+MD5sum: 69891fe495e04bb69a9d7266ab795c93
+SHA1: 1e6b1a4e530721ffc876529b1334626dde0d6cb4
+SHA256: 143d54001e9d71c5f59eb682d0f32af457c81c59212131eea7696ac93a810453
+SHA512: 4ccc1382426912868c86f61f80f2ae57c458085fc6ff888f95f5c823942744890322189249484e0a1c7b1ad70b6716797ec7ff85b537237082e47d52976691e6
+Homepage: https://www.facebook.com/profile.php?id=100004157381174
+Description: Widget for Xen HTML
+Name: Boss
+Author: wrussell1989, D-Shin & m37_aga1n
+Depiction: http://cydiavn.github.io/info/Boss/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Boss/?p=info
+
 Package: AnhDuy.CosmicTwo
 Architecture: iphoneos-arm
 Version: 1.0
