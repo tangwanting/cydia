@@ -660,11 +660,11 @@ Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.Weathericon_1.0_iphoneos-arm.deb
-Size: 10493194
-MD5sum: 76983db0b4620db00060e6600e6e55d0
-SHA1: 930fe3339b58056874c44398420fd90547d05655
-SHA256: bd08b6874efd92c3cd29bee2c06cfa73aabd2e8f3433f5d3043c2c2a43a9471d
-SHA512: ca0d77139a427b74d2474c448531efba880ceb5853f1c85b4cbbce24e84d27c3829c7c99d667efe7cb6de1435984ab4bfd8ddccf9c5fa897e013b41f0c3b05c8
+Size: 10493200
+MD5sum: 411dfbf5a3ebdf088b60c57e7e9d0d11
+SHA1: c884f5432fc40faf4cdf430ecf5a3ae0fb13553e
+SHA256: 67e0188a32916f021347a98ee368927212f11e648b4afe5ffa39c09b6ecea2fd
+SHA512: 8343b97ade8014611b431012871945e5dadbfbb57a9acad13c58b0ff38c99d6b8ecb778809a940e1eef18970541c9b3fa0e4474816294eca2cf11ea98173944d
 Homepage: https://www.facebook.com/profile.php?id=100004157381174
 Description: Widget for Xen HTML
 Name: Weathericon
