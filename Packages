@@ -1101,18 +1101,17 @@ Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 518
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./Deb/Anhduy.cthulhu_1.0.7_iphoneos-arm.deb
-Size: 105456
-MD5sum: a061794c97ef056ebc27a27d425b46f9
-SHA1: 32b4939b5f42d71e8719c9395047e6b9cc6db878
-SHA256: 9ea903c96bdf7a9e6208204a5d7166a0316e01f22eb7bc897a2361b80a1ba97f
-SHA512: d769a51d3f715f78c3f4db41da31b06beef401f66c89a7f55d87e2f1d95ab0a43f0bf5f19174785ca6635c82f901597e60a8a66bbcfe282c837690f253b85cf5
+Size: 105440
+MD5sum: 45e4f866b03bdf127d90b7be6d845bac
+SHA1: c00653ebc28a8ba3f59b6abf3be47f03dcf1c593
+SHA256: 7c4b75fd6cd60aef6259de348f12bae43b4f087600c4f39e7508f08d99db823f
+SHA512: 3cb3b60fe3e4a3e1aa44b1afd97a3d432c68f61ca7ca1cf791781110006e6566c77c68dfc03923162502174a68bdd9c60bab69d3401642e01e28ddb72cca97d1
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
 Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Name: Cthulhu
 Depiction: http://cydiavn.github.io/info/cthulhu/?p=info
 SileoDepiction: http://cydiavn.github.io/info/cthulhu/?p=info
-Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
