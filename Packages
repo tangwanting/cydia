@@ -836,6 +836,30 @@ Author: 0xkuj
 Depiction: http://cydiavn.github.io/info/contactsextended/?p=info
 SileoDepiction: http://cydiavn.github.io/info/contactsextended/?p=info
 
+Package: AnhDuy.crash-reporter
+Architecture: iphoneos-arm
+Version: 1.17.2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Provides: crash-reporter
+Depends: firmware (>=11.0), coreutils, dpkg, grep, com.spark.libcrashreport (>= 1.1.1), com.spark.libpackageinfo (>= 1.1.1), com.spark.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
+Conflicts: crash-reporter
+Replaces: crash-reporter
+Filename: ./Deb/AnhDuy.crash-reporter_1.17.2_iphoneos-arm.deb
+Size: 351256
+MD5sum: b3b3d2433aaded5c8b824b1b29cb1224
+SHA1: 5ea96a93c3ff150b011daee321527d00e9b35cd9
+SHA256: e3bef791fdafc8d69e2cd1a4c5481b3d62d7bf22e415062a5e13c5169d17e511
+SHA512: 205bd431fe83f07e3f805b9158d69719d20ce368cd788961521758281f357f44dc70cefd7713a517c9dcc2278265d7b6606d182774c27910b4d2982909da1cdd
+Homepage: https://revulate.dev
+Description: CrashReporter is an iOS app for viewing the details of a crash, determining the possible cause of said crash, and reporting this information to the developer(s) responsible.
+Name: CrashReporter (SparkDev)
+Depiction: http://cydiavn.github.io/info/crash-reporter/?p=info
+SileoDepiction: http://cydiavn.github.io/info/crash-reporter/?p=info
+ModernDepiction: https://revulate.dev/depiction/native/com.spark.crash-reporter.json
+Icon: https://revulate.dev/assets/com.spark.crash-reporter/icon.png
+Author: Revulate <revulate1@gmail.com>
+
 Package: AnhDuy.cylinder
 Architecture: iphoneos-arm
 Version: 1.0.4-1
