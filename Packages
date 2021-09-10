@@ -32,6 +32,24 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/3DayWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/3DayWeather/?p=info
 
+Package: AnhDuy.5DaysWeather
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.5DaysWeather_1.0_iphoneos-arm.deb
+Size: 9353220
+MD5sum: de2e7bf31ba825749e06804f1874809d
+SHA1: 7d7f8294d37438bcf2036dd088fba91fc1273121
+SHA256: 9a7473835729513b67324ff0e557cae8e89f0ec4eb4fddc43ae870f9e9ac77ff
+SHA512: 746229a33f040b32f0973aec40bd751aead650195b502ddcb6ec5c807ae720910a19400badda04b6ac261cb382b2281e93358163bb67bff21ba9d7a37d60c2cd
+Homepage: https://www.facebook.com/profile.php?id=100004157381174
+Description: Widget for Xen HTML
+Name: 5DaysWeather
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/5DaysWeather/?p=info
+SileoDepiction: http://cydiavn.github.io/info/5DaysWeather/?p=info
+
 Package: AnhDuy.AsKew
 Architecture: iphoneos-arm
 Version: 1.2
