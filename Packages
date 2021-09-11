@@ -32,6 +32,23 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/3DayWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/3DayWeather/?p=info
 
+Package: AnhDuy.3levenSBWidget
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.3levenSBWidget_1.4_iphoneos-arm.deb
+Size: 26553626
+MD5sum: 95586f6ab54bbaca8d9362819f891888
+SHA1: c58b0b5de392a25f7a0f1e8504c6557b1957168a
+SHA256: e3067dea09d41a18538d9df928f44e19427e831187793b2150e8144249ec0f57
+SHA512: 987f31de792dd147de60dbd65e58e017ed85e5dca61a302b909b1e390d7bf4195329564349fc7e65b35641dca529f2f2957f0630af3fe519d2b9bbfb058ddfda
+Description: Widget for Xen Html
+Name: 3leven SB Widget
+Author: Coccco28
+Depiction: http://cydiavn.github.io/info/3levenSBWidget/?p=info
+SileoDepiction: http://cydiavn.github.io/info/3levenSBWidget/?p=info
+
 Package: AnhDuy.5DaysWeather
 Architecture: iphoneos-arm
 Version: 1.0
