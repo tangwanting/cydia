@@ -638,6 +638,23 @@ Author: Spark
 Depiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 
+Package: AnhDuy.SpektrumSBWidget
+Architecture: iphoneos-arm
+Version: 1.6
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.SpektrumSBWidget_1.6_iphoneos-arm.deb
+Size: 24957608
+MD5sum: 3e5232582492ef7f63fff826e464bef3
+SHA1: bbbdba4294dc90dd64ec95cbb47780eae99088ef
+SHA256: 3369ff0d6a2776a0437646984406e91a49489f4299c30bb49328802171a8717a
+SHA512: 010003c3328187ff3cb91183cc9f305fc7c94aa5dc02df6096581ca28d0e05831aae440c059ecfa1833d3c9695413926df84cbfd49b43ce75871996c50080289
+Description: Widget for Xen Html
+Name: Spektrum SB Widget
+Author: Coccco28
+Depiction: http://cydiavn.github.io/info/SpektrumSBWidget/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SpektrumSBWidget/?p=info
+
 Package: AnhDuy.StarDockider
 Architecture: iphoneos-arm
 Version: 1.0
