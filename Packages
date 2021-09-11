@@ -273,6 +273,24 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/DubsiWModernHTC/?p=info
 SileoDepiction: http://cydiavn.github.io/info/DubsiWModernHTC/?p=info
 
+Package: AnhDuy.EraWhiteflatSBwidget
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.EraWhiteflatSBwidget_1.1_iphoneos-arm.deb
+Size: 48638524
+MD5sum: f8a87f705d8d8252b2eb315476c6e280
+SHA1: e0fe39169cd6d878513d475eae6a46a4ed064eb4
+SHA256: e84ba35536e0a409fe72f78b2f98c323c9281c141528b64d0d35e6ce6e7962c6
+SHA512: 4f2dc4b44042e54ded723ff1c202de9c8ebd0182dcffe8b518da970499cfdd07cae2f5dcacc741aaf697f001a4ec4082a9f401daa35a9ea7db3871b858da55d8
+Homepage: https://www.facebook.com/profile.php?id=100004157381174
+Description: Widget for Xen HTML
+Name: Era White flat SB widget
+Author: coccco28
+Depiction: http://cydiavn.github.io/info/EraWhiteflatSBwidget/?p=info
+SileoDepiction: http://cydiavn.github.io/info/EraWhiteflatSBwidget/?p=info
+
 Package: AnhDuy.ErwinLSDO
 Architecture: iphoneos-arm
 Version: 1.0
