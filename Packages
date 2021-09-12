@@ -34,15 +34,15 @@ SileoDepiction: http://cydiavn.github.io/info/3DayWeather/?p=info
 
 Package: AnhDuy.3levenSBWidget
 Architecture: iphoneos-arm
-Version: 1.4
+Version: 1.4-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.3levenSBWidget_1.4_iphoneos-arm.deb
-Size: 26553626
-MD5sum: 95586f6ab54bbaca8d9362819f891888
-SHA1: c58b0b5de392a25f7a0f1e8504c6557b1957168a
-SHA256: e3067dea09d41a18538d9df928f44e19427e831187793b2150e8144249ec0f57
-SHA512: 987f31de792dd147de60dbd65e58e017ed85e5dca61a302b909b1e390d7bf4195329564349fc7e65b35641dca529f2f2957f0630af3fe519d2b9bbfb058ddfda
+Filename: ./Deb/AnhDuy.3levenSBWidget_1.4-1_iphoneos-arm.deb
+Size: 26552192
+MD5sum: 704f10f377208f4acef4c9fd89570231
+SHA1: 4e91c84d880e2458be6835e5c36b150271557db1
+SHA256: d83fd54f6d9a62481621ec09bd84531a28b2d9a4422f7a8a455d178a8b360d1f
+SHA512: 86cd838b15ecb95d3ca586cd7e5cfa07122e75a2440696ee068303ba901631d333c1c3c045066fa6f135f4899d580da6be3993691b82eb07069b3e8072ecb084
 Description: Widget for Xen Html
 Name: 3leven SB Widget
 Author: Coccco28
@@ -275,15 +275,15 @@ SileoDepiction: http://cydiavn.github.io/info/DubsiWModernHTC/?p=info
 
 Package: AnhDuy.EraWhiteflatSBwidget
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.1-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.EraWhiteflatSBwidget_1.1_iphoneos-arm.deb
-Size: 48638524
-MD5sum: f8a87f705d8d8252b2eb315476c6e280
-SHA1: e0fe39169cd6d878513d475eae6a46a4ed064eb4
-SHA256: e84ba35536e0a409fe72f78b2f98c323c9281c141528b64d0d35e6ce6e7962c6
-SHA512: 4f2dc4b44042e54ded723ff1c202de9c8ebd0182dcffe8b518da970499cfdd07cae2f5dcacc741aaf697f001a4ec4082a9f401daa35a9ea7db3871b858da55d8
+Filename: ./Deb/AnhDuy.EraWhiteflatSBwidget_1.1-1_iphoneos-arm.deb
+Size: 26483462
+MD5sum: 9be363062ab05c315b8caf01101d4f11
+SHA1: 4d26ebe0ba797292f3d4a4ad85f9050216be5751
+SHA256: c1ecaf1606ec8498d68e8c13e36cd4001240a68147088c73f88f88829560b2ca
+SHA512: 6bb3a6b0c5be819da06b94936733845741e26ea7a456e29cfd66847ccedbfa471c38c2ee4e46b97919acb121ad7068449fc6bbf3b00e61572fd2c9410fb9b769
 Homepage: https://www.facebook.com/profile.php?id=100004157381174
 Description: Widget for Xen HTML
 Name: Era White flat SB widget
@@ -658,15 +658,15 @@ SileoDepiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 
 Package: AnhDuy.SpektrumSBWidget
 Architecture: iphoneos-arm
-Version: 1.6
+Version: 1.6-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.SpektrumSBWidget_1.6_iphoneos-arm.deb
-Size: 24957608
-MD5sum: 3e5232582492ef7f63fff826e464bef3
-SHA1: bbbdba4294dc90dd64ec95cbb47780eae99088ef
-SHA256: 3369ff0d6a2776a0437646984406e91a49489f4299c30bb49328802171a8717a
-SHA512: 010003c3328187ff3cb91183cc9f305fc7c94aa5dc02df6096581ca28d0e05831aae440c059ecfa1833d3c9695413926df84cbfd49b43ce75871996c50080289
+Filename: ./Deb/AnhDuy.SpektrumSBWidget_1.6-1_iphoneos-arm.deb
+Size: 24958354
+MD5sum: ae24605b74dcd22ad3523698ab367061
+SHA1: 9ba802b4009cd1dde7645b96eb3209d5c8d1fa0c
+SHA256: 6264276fe26b8842eb794688ed53acc2287c8805ca596167b16db0c84afbf31b
+SHA512: 3a62e054e90999b1ee333f3742dc4a45b02c3bd0d7cd9d266264f782a6e96d469d53be0c834b10cd13aa5f7e89ba3ec261e9f445a535b7cd066280e2ffe2064b
 Description: Widget for Xen Html
 Name: Spektrum SB Widget
 Author: Coccco28
