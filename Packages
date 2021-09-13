@@ -210,11 +210,11 @@ Version: 1.0-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.Boss_1.0-1_iphoneos-arm.deb
-Size: 43184150
-MD5sum: be944e61226894084927602df961a241
-SHA1: 8d7142b6181ab1f28640ef473e5a357a8148ab8a
-SHA256: 54525bb2e3e339f5db2eea251d4c10324304ff34c0e3ad2a9fe468d20bc71504
-SHA512: 669cbad82ba2fefb50dda8989d72327904a47854603378c15927978e23658cd3fbd95d6e6d1b88f2155dee51afbb25c2632bc7329b701bb743fa17b2452d490d
+Size: 43184190
+MD5sum: 5c3bf297e30428fc0b5b10b668f01bee
+SHA1: a5bd734b56539a115c0a7983674466846e677482
+SHA256: 2e3e6cdd45c24491d1cad4a3fd4db2874b8a4ebeb058a082a76ba6b4c826e061
+SHA512: fc4d4c0aa26837cf950978a9d0329e3b9b7e3c8430d9832ff3f19763c8763542a9e2d90dceaed9078a64fd5c6da0aac90e3f690928620ff4bb9fd7fc42016439
 Homepage: https://www.facebook.com/profile.php?id=100004157381174
 Description: Widget for Xen HTML
 Name: Boss
