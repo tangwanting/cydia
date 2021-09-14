@@ -67,6 +67,23 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/5DaysWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/5DaysWeather/?p=info
 
+Package: AnhDuy.ArKo
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.ArKo_1.2_iphoneos-arm.deb
+Size: 9130614
+MD5sum: 7d18230512fe8bb031a355807e777d7f
+SHA1: e76481f380b2dcb18cf5dd8a7a408b7082534194
+SHA256: 30cee9c36603460f73da27d58a9c52d26ca26fd93350874ca264eaf013dd7b02
+SHA512: 76eb7b835344d167469d1cdbb64967aff5a273ebec12300c27b04a56b00543ebfc8880e74589ae555902169e83887d829c4463f4c07a1336beb5d4e6e65af25b
+Description: Widget for Xen Html
+Name: ArKo
+Author: alimaulana
+Depiction: http://cydiavn.github.io/info/ArKo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ArKo/?p=info
+
 Package: AnhDuy.AsKew
 Architecture: iphoneos-arm
 Version: 1.2
