@@ -38,11 +38,11 @@ Version: 1.4-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.3levenSBWidget_1.4-1_iphoneos-arm.deb
-Size: 26552192
-MD5sum: 704f10f377208f4acef4c9fd89570231
-SHA1: 4e91c84d880e2458be6835e5c36b150271557db1
-SHA256: d83fd54f6d9a62481621ec09bd84531a28b2d9a4422f7a8a455d178a8b360d1f
-SHA512: 86cd838b15ecb95d3ca586cd7e5cfa07122e75a2440696ee068303ba901631d333c1c3c045066fa6f135f4899d580da6be3993691b82eb07069b3e8072ecb084
+Size: 26552224
+MD5sum: 3f91f8b116b5cea8ac142398fbc41dd9
+SHA1: c8fb2491167947284fdbcff3f89aec2ac2814312
+SHA256: 7d59acdad64676b2562fb1dcc434f726a57e987ecd02dd60bfc3132d96826223
+SHA512: 3665e53a8f985523c4f0fd8a24461cf3c01883a9d2eb1595b3f8ddda50e2f00ca5f789fa4e28a64705a7b51dfd9dba98bd1273ee9dadec9db2c3f0be747c2328
 Description: Widget for Xen Html
 Name: 3leven SB Widget
 Author: Coccco28
@@ -227,11 +227,11 @@ Version: 1.0-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.Boss_1.0-1_iphoneos-arm.deb
-Size: 43184190
-MD5sum: 5c3bf297e30428fc0b5b10b668f01bee
-SHA1: a5bd734b56539a115c0a7983674466846e677482
-SHA256: 2e3e6cdd45c24491d1cad4a3fd4db2874b8a4ebeb058a082a76ba6b4c826e061
-SHA512: fc4d4c0aa26837cf950978a9d0329e3b9b7e3c8430d9832ff3f19763c8763542a9e2d90dceaed9078a64fd5c6da0aac90e3f690928620ff4bb9fd7fc42016439
+Size: 43184274
+MD5sum: 26cd87057caa28191f280bf48c754581
+SHA1: 51fbcba1c090e52ca49f0caa2440e65ea0447112
+SHA256: 82531546e4c14bda7cf1dbdb182abb4933b39550b00db051f1c36dc052e4e489
+SHA512: 43e27f57d4da4dadae37d34b64553101e2af36280021ebc483ba14e116b626b4e9177716e96580ff454f5baec6f37d7e21becd16bb3b8922126303d806d445db
 Homepage: https://www.facebook.com/profile.php?id=100004157381174
 Description: Widget for Xen HTML
 Name: Boss
@@ -296,11 +296,11 @@ Version: 1.1-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.EraWhiteflatSBwidget_1.1-1_iphoneos-arm.deb
-Size: 26483462
-MD5sum: 9be363062ab05c315b8caf01101d4f11
-SHA1: 4d26ebe0ba797292f3d4a4ad85f9050216be5751
-SHA256: c1ecaf1606ec8498d68e8c13e36cd4001240a68147088c73f88f88829560b2ca
-SHA512: 6bb3a6b0c5be819da06b94936733845741e26ea7a456e29cfd66847ccedbfa471c38c2ee4e46b97919acb121ad7068449fc6bbf3b00e61572fd2c9410fb9b769
+Size: 26483452
+MD5sum: 269cb3ca63504b9bfd341381e4e37b91
+SHA1: 6fe3b72896940726202d9cd09b702aa9722086a7
+SHA256: 57789c63c45bd599963f7dd0f7eb48ff4a143af59ae6822a2dea45bd8a530616
+SHA512: 9438e04771560daf5279b3141ad9ad95bffb7eead70e51ab570a8154c74c6f173555168589735397ea7cc2261405b4de2fe5f083af118b29f5c735ac22ef2c1d
 Homepage: https://www.facebook.com/profile.php?id=100004157381174
 Description: Widget for Xen HTML
 Name: Era White flat SB widget
@@ -679,11 +679,11 @@ Version: 1.6-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.SpektrumSBWidget_1.6-1_iphoneos-arm.deb
-Size: 24958354
-MD5sum: ae24605b74dcd22ad3523698ab367061
-SHA1: 9ba802b4009cd1dde7645b96eb3209d5c8d1fa0c
-SHA256: 6264276fe26b8842eb794688ed53acc2287c8805ca596167b16db0c84afbf31b
-SHA512: 3a62e054e90999b1ee333f3742dc4a45b02c3bd0d7cd9d266264f782a6e96d469d53be0c834b10cd13aa5f7e89ba3ec261e9f445a535b7cd066280e2ffe2064b
+Size: 24958352
+MD5sum: 26527112aaafd6bf607310ed7b9e1a6c
+SHA1: b437fc26694f22d27b12631a6aec8326412e7a16
+SHA256: 46440e23c1a2f0f5b58f91bcfd2702f3afd2c54902d23e9cc67947bdb38c0781
+SHA512: b7f4d3d88a6ad9a5b69cc86ba16b5ca98bba1a54b20d4492b64974b8127a5a637b89002b9af37523a021383b6649d70f599aaf3dd64eab7d04263da029834b68
 Description: Widget for Xen Html
 Name: Spektrum SB Widget
 Author: Coccco28
