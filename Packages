@@ -1102,6 +1102,25 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: http://cydiavn.github.io/info/letmeknow/?p=info
 SileoDepiction: http://cydiavn.github.io/info/letmeknow/?p=info
 
+Package: AnhDuy.loupe
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=13.0), com.opa334.altlist
+Filename: ./Deb/AnhDuy.loupe_1.2.1_iphoneos-arm.deb
+Size: 69288
+MD5sum: 5a5a908b13db332a6df772e97c692526
+SHA1: c27f0f470008be4519c7ddd87488f371b3ccf1b9
+SHA256: dcdbe3d17dbe8ff1815aaaae1fedc921bd83f043e708f964ee453f4081e013fe
+SHA512: 1355127a1379bf58b949b9c43c57f90f6a37057b79b2e3832f5a3a4f71c4f67059258bdee46df8b48075b25991b3df5546c56f8bb6f8cbeda286befd6eb64b12
+Description: Kính lúp cho các trường văn bản
+Name: Loupe
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.loupe/icon/icon.png
+Depiction: http://cydiavn.github.io/info/loupe/?p=info
+SileoDepiction: http://cydiavn.github.io/info/loupe/?p=info
+
 Package: AnhDuy.onenotify
 Architecture: iphoneos-arm
 Version: 1.3.2
@@ -1160,6 +1179,25 @@ Depiction: http://cydiavn.github.io/info/tranzlo/?p=info
 SileoDepiction: http://cydiavn.github.io/info/tranzlo/?p=infodepictions/?p=com.miro.tranzlo
 Author: Anh Duy <kiemphapngami@gmail.com>
 Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
+
+Package: AnhDuy.tweakcount
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.tweakcount_1.0.1_iphoneos-arm.deb
+Size: 7712
+MD5sum: 2f38a497c57cbbc6e67017150017729b
+SHA1: 746c21f9d718a0a72606cd33a9454f4e5e2287aa
+SHA256: bc280e8a371f35ded40fea219d27b882c58f71e82b83ef25b199852ccbc365b5
+SHA512: 3bbb261bda350dbeb2b476e25289db170c76882399e20483c153a647cf318c3d6516f5682ef56546953297708974ff0a406bdf2cd8e269d92759f328917d5586
+Description: Xem bạn đã cài đặt bao nhiêu tinh chỉnh trong tùy chọn của mình ...
+Name: TweakCount
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Depiction: http://cydiavn.github.io/info/tweakcount/?p=info
+SileoDepiction: http://cydiavn.github.io/info/tweakcount/?p=info
 
 Package: AnhDuy.vintage-keyboard-pack
 Architecture: iphoneos-arm
