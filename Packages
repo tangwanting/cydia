@@ -1083,6 +1083,24 @@ Author: Spark
 Depiction: http://cydiavn.github.io/info/laetus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/laetus/?p=info
 
+Package: AnhDuy.letmedecline
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.letmedecline_1.0_iphoneos-arm.deb
+Size: 2792
+MD5sum: b1399faa947f7eadb0623cecd1670379
+SHA1: 6afa75dfacc746adf5106fe44007a80985b0f7f3
+SHA256: df798aad37b77125e14e94d90430e409b184c3d77df924394a2a176478fb710b
+SHA512: cb669dd44dc38a27dbf9d6289228e6e2e772caa0ad05c2d9082639c596ba5f0c9d95a1e973bec55c4105aac5f9515305b513d32a1774260f63917f195badb5aa
+Description: Hiển thị các nút Chấp nhận và Từ chối cuộc gọi trên màn khoá!
+Name: LetMeDecline
+Depiction: http://cydiavn.github.io/info/letmedecline/?p=info
+SileoDepiction: http://cydiavn.github.io/info/letmedecline/?p=info
+Author: P2KDev <p2kdev@gmail.com>
+
 Package: AnhDuy.letmeknow
 Architecture: iphoneos-arm
 Version: 1.4.2
