@@ -1179,6 +1179,25 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://cydiavn.github.io/info/Orion/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
 
+Package: AnhDuy.showtouch
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 388
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./Deb/AnhDuy.showtouch_1.0.5_iphoneos-arm.deb
+Size: 128908
+MD5sum: a8502ce7f55e72863a09e73c6663a1d3
+SHA1: bc4d7d521e96252f1e63522a18175522aafbb535
+SHA256: b09d22b5c7848e8dd5a844692a4f5717daa4771e8e17d7ab82aadf3cc051c018
+SHA512: 68cdd354839b67f8011afcd5e52094b4cb4abe4352661a3ac4acdbe901e519f9ac1167957192b46922605bff934f7b925a6bf2aee25a954d54d4d5184a965e15
+Description: Hiển thị nơi bạn chạm trên màn hình.
+Name: ShowTouch
+Author: LonestarX
+Depiction: http://cydiavn.github.io/info/showtouch/?p=info
+SileoDepiction: http://cydiavn.github.io/info/showtouch/?p=info
+
 Package: AnhDuy.slidecut
 Architecture: iphoneos-arm
 Version: 0.6
