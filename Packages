@@ -832,6 +832,25 @@ Author: Nepeta
 Depiction: http://cydiavn.github.io/info/axon/?p=info
 SileoDepiction: http://cydiavn.github.io/info/axon/?p=info
 
+Package: AnhDuy.bigsnooze
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 260
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./Deb/AnhDuy.bigsnooze_1.0_iphoneos-arm.deb
+Size: 25204
+MD5sum: b9c11a238f898c56dc2826a8d418d0a3
+SHA1: 6d64747588faf6bf8ebd8a251f04f125f69b8525
+SHA256: 56573e0ed9e9621fa8f4894403ddf8756d2a6acf2f5471958bf81faedcf62160
+SHA512: 4648427d8c0be66bffd4dd7a200e25da4c1536f5248ec895dd2d577b56f3de5ab1ffd170ec229adc41b3901554d0a76431530aeb0e75331136d209936a168fab
+Description: Một cái nhìn khác cho báo thức trên màn hình khóa.
+Name: BigSnooze
+Author: cole cabral <cabralcole@gmail.com>
+Depiction: http://cydiavn.github.io/info/bigsnooze/?p=info
+SileoDepiction: http://cydiavn.github.io/info/bigsnooze/?p=info
+
 Package: AnhDuy.bugslifewidgetmod
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1160,6 +1179,26 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://cydiavn.github.io/info/Orion/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
 
+Package: AnhDuy.slidecut
+Architecture: iphoneos-arm
+Version: 0.6
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./Deb/AnhDuy.slidecut_0.6_iphoneos-arm.deb
+Size: 13932
+MD5sum: f55bed73328e71953b096675b7f1216f
+SHA1: 3c2adfd1ca0c184aee87ce9d15ff173674368ab7
+SHA256: 152d7ad903c50aa2cffbd1b4854e6671c9098257f7e883efcdfc4a685d4cc526
+SHA512: 5a95a051049bf2013dcfade7d77eecf30add39b81c709e8a38845ff513395df6abfe671e74da9c6168a8897efeb0611f8f047f57e02857dc9aa1ccd0c01a54a9
+Description:  trượt lên từ dấu cách đến phím chữ V để dán tập lệnh vào Newterm
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: SlideCut
+Author: r_plus <anasthasia.r+aa@gmail.com>
+dev: rplus
+Depiction: http://cydiavn.github.io/info/slidecut/?p=info
+SileoDepiction: http://cydiavn.github.io/info/slidecut/?p=info
+
 Package: AnhDuy.tranzlo
 Architecture: iphoneos-arm
 Version: 3.2.1
@@ -1216,6 +1255,28 @@ Name: Vintage Keyboard Pack
 Author: @psprrom<rromero-mosso@hotmail.com>
 Depiction: http://cydiavn.github.io/info/vintage-keyboard-pack/?p=info
 SileoDepiction: http://cydiavn.github.io/info/vintage-keyboard-pack/?p=info
+
+Package: AnhDuy.youpip
+Architecture: iphoneos-arm
+Version: 1.5.9
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 204
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./Deb/AnhDuy.youpip_1.5.9_iphoneos-arm.deb
+Size: 19000
+MD5sum: 88c75cce8acb8c0847417074452af147
+SHA1: fa5a9c93e0d7347cba7f00ee20010fa135001166
+SHA256: ff3b66ddaf7daae06cce31bfb56aeae90da61ac21b7d8b13b1b2b323f1ec0e8b
+SHA512: 4030df8eab38d525467ad0b3cf5a2bdfdf8e63219946a4c867b3c37a37ed1793ff79ae0c460e35535af9245a8f7d5f6de5a9a7f06bd34b3cec0cce7592938585
+Description: Bật PiP gốc trong ứng dụng YouTube.
+Name: YouPiP
+Author: PoomSmart
+Depiction: http://cydiavn.github.io/info/youpip/?p=info
+SileoDepiction: http://cydiavn.github.io/info/youpip/?p=info
 
 Package: Anhduy.cthulhu
 Architecture: iphoneos-arm
