@@ -1274,6 +1274,23 @@ Author: LacertosusDeus <LacertosusThemes@gmail.com>
 Depiction: http://cydiavn.github.io/info/tweakcount/?p=info
 SileoDepiction: http://cydiavn.github.io/info/tweakcount/?p=info
 
+Package: AnhDuy.vertical
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.vertical_1.0_iphoneos-arm.deb
+Size: 4021734
+MD5sum: 1776cab68689cc9d47e27756b455bf27
+SHA1: b7ab4276d9fe0d890b147ff3f36f7ad1966a18f7
+SHA256: b84eac702cb6d0321834fb741d4c04ef7a6474062169f3ddee800e789fd5247e
+SHA512: 601b1210b4d729887bb2120b73b8cc15d2c3cb30c7f8434e530f10b061006f026f59b799429874816619ec569cd058000be57e1288f9cc0ac2e8833b8826587e
+Description: Widget for Xen Html
+Name: vertical
+Author: AnhDuy & Jesse0166
+Depiction: http://cydiavn.github.io/info/vertical/?p=info
+SileoDepiction: http://cydiavn.github.io/info/vertical/?p=info
+
 Package: AnhDuy.vintage-keyboard-pack
 Architecture: iphoneos-arm
 Version: 1.3
