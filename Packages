@@ -740,6 +740,23 @@ Author: alimaulana
 Depiction: http://cydiavn.github.io/info/Triangle/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Triangle/?p=info
 
+Package: AnhDuy.UniawDark
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.UniawDark_1.0_iphoneos-arm.deb
+Size: 14353998
+MD5sum: 1357165ad959aa0697ce49e6698e6a49
+SHA1: bb01e0aa5724c6d4127620f3a894221a9ec00c5d
+SHA256: 63c46bde3fe63e379bc3ed28c1367943f9e18eec8dbeedce20a857e05b54531a
+SHA512: 066f403a3fc2403ee1b261d894d4f24ba16f4a41cd157bf506c25de563c5a3b24026ab04604911fc60f2fbeaeee60f5e0ba26b376f298d3af1ae0aa4bb0cafc0
+Description: Widget for Xen Html
+Name: Uniaw Dark
+Author: AnhDuy & Hilaria
+Depiction: http://cydiavn.github.io/info/UniawDark/?p=info
+SileoDepiction: http://cydiavn.github.io/info/UniawDark/?p=info
+
 Package: AnhDuy.Weathericon
 Architecture: iphoneos-arm
 Version: 1.0
