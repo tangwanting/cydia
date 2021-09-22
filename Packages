@@ -89,14 +89,14 @@ Version: 1.2-1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.AsKew_1.2-1_iphoneos-arm.deb
-Size: 1475120
-MD5sum: 1c89af19747ea04beae1ce1df7a9158c
-SHA1: 79f825674c903edcc5a62e2e1aea9916a402802c
-SHA256: 03f11584876a101634f01684fe850f4c255ea5c25569efe9a687b08be17539bf
-SHA512: de07adfdab4d518a98cac39e8b3c44d7d94853601afb1f3c5a0eabd3521ec9198303ca4052529482d77b40d276e77c1c3ac3c6ae3ab992165537129a5b8bc3fb
+Size: 1473036
+MD5sum: ee249fa908490d9318bc756eec57f1e4
+SHA1: 7f10f566a649506026d1b624d80fde64676be1f4
+SHA256: 05a678baf75cc7bc63b37193a621738eab1bcc48646b4b60b51f6629c45139d5
+SHA512: eeb9fbb39e2cc353c5edcf8c902b157130a129cd7cf4e7112d2bb224cfe6c4d8422d95c77397a35c20a6d540f60501ebcd7c9423a65f96a1a53838b276e63adb
 Description: Widget for Xen Html
 Name: AsKew
-Author: AnhDuy & alimaulana
+Author: alimaulana
 Depiction: http://cydiavn.github.io/info/AsKew/?p=info
 SileoDepiction: http://cydiavn.github.io/info/AsKew/?p=info
 
