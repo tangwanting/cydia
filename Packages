@@ -729,11 +729,11 @@ Version: 1.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.Triangle_1.2_iphoneos-arm.deb
-Size: 3503584
-MD5sum: d27850eb57ed390286cb25bceb45e375
-SHA1: f6c85ade560d5133956f0f3bc5ac71499d5b3183
-SHA256: 0daee39e6008735772f245900d80829bb068f461d89dc85b3aeaa223638a2e73
-SHA512: b7b1c78fea3185c9f142e077108daa6fd4695a1613c560a1a1f99d4cbcc888ddd13179ddbf3022f743cdf613f1893a9b66471a07e6a5c8c76180f7e735353408
+Size: 3506220
+MD5sum: 3999194d52c44ccaaa62cee39599ba12
+SHA1: ce57cbf4f5978fc575e79fb2b416a63a76e226cf
+SHA256: 5586639b5c515750dfe49448b0d6ce3276b39f59ebb71a50653fd453259a3dc2
+SHA512: 58e325200d0a86f9f7c37280ed2a8bf162ea53584a5110c0a44b9f23cc8ebcaca1788872224676d5a3b7c9e1ccd64a17b16636451dac63d065fea8f9d7ea75a7
 Description: Widget for Xen Html
 Name: Triangle
 Author: alimaulana
