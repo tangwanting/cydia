@@ -1174,28 +1174,6 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.loupe/icon/icon.pn
 Depiction: http://cydiavn.github.io/info/loupe/?p=info
 SileoDepiction: http://cydiavn.github.io/info/loupe/?p=info
 
-Package: AnhDuy.menushkaprefs
-Architecture: iphoneos-arm
-Version: 1.2.3
-Section: System
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Installed-Size: 376
-Depends: mobilesubstrate, preferenceloader, firmware (<< 12.0) | preferenceloader (>> 2.2.3), com.rpetrich.rocketbootstrap
-Filename: ./Deb/AnhDuy.menushkaprefs_1.2.3_iphoneos-arm.deb
-Size: 80810
-MD5sum: fea257625ef4607a551841e628672edc
-SHA1: 1019e579f97c5de78ef0491facdbf484c43d8b1c
-SHA256: e19b2c2d60ab18c82cb3944b7ee3ebb8cf7d71108a3e06d79d905969b8233225
-SHA512: 5561c690e20b586594f53d740c47976a638050442e6f9c65b5e05dc5e93a11b42fcf7eb4ca5a538297c89047e533c8fd10727e28e6218569d6f40bf06fa332ca
-Homepage: https://menushka.ca
-Description: A library for preferences in all my tweaks
-Tag: role::developer
-Name: MenushkaPrefs
-Author: Menushka Weeratunga
-Icon: https://repo.menushka.ca/assets/ca.menushka.menushkaprefs/icon.png
-Depiction: http://cydiavn.github.io/info/menushkaprefs/?p=info
-SileoDepiction: http://cydiavn.github.io/info/menushkaprefs/?p=info
-
 Package: AnhDuy.onenotify
 Architecture: iphoneos-arm
 Version: 1.3.2
@@ -1417,6 +1395,28 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: http://cydiavn.github.io/info/shuffle/?p=info
 SileoDepiction: http://cydiavn.github.io/info/shuffle/?p=info
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+
+Package: ca.menushka.menushkaprefs
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: System
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader, firmware (<< 12.0) | preferenceloader (>> 2.2.3), com.rpetrich.rocketbootstrap
+Filename: ./Deb/ca.menushka.menushkaprefs_1.2.3_iphoneos-arm.deb
+Size: 80642
+MD5sum: 544c52882430653fa518466b19daa910
+SHA1: e0408b271bf8c653c3540b4577144053c8b0fd60
+SHA256: fe16488e8e2f484370ad1ae2b1c08509b9acac4bc27e4c8a044712703cd8d2b1
+SHA512: 9448de5c2fee0f918051b630a672f2b406196bd95b1a3d5dde7104cc1a615802ffcb55c71c99d3bf386cf1490baebdb1692978b535b6d0a7e73768d92e4dc779
+Homepage: https://menushka.ca
+Description: A library for preferences in all my tweaks
+Tag: role::developer
+Name: MenushkaPrefs
+Author: Menushka Weeratunga
+Icon: https://repo.menushka.ca/assets/ca.menushka.menushkaprefs/icon.png
+Depiction: http://cydiavn.github.io/info/menushkaprefs/?p=info
+SileoDepiction: http://cydiavn.github.io/info/menushkaprefs/?p=info
 
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
