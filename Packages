@@ -614,6 +614,23 @@ Author: @gearofwarsJlam
 Depiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 SileoDepiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 
+Package: AnhDuy.Side
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.Side_1.0_iphoneos-arm.deb
+Size: 8067280
+MD5sum: 1b27b7577c86b9671fe4cfaab761f1b1
+SHA1: 0c8248a7bfffaadd9d984dd6182937ee013cde79
+SHA256: 948bba0e83bdac88939d78aa632708fbdd127a40084194a61ae26cdf70913369
+SHA512: efa55f3073761f8cb060013220bb1bc34548972c4c58e4cf8ed32712b7fd4300128286a73caba5da3a874ad13c2e986bdcacb830eb91baf852648f8b98af81a0
+Description: Widget for Xen Html
+Name: Side
+Author: Anh Duy & serif61
+Depiction: http://cydiavn.github.io/info/Side/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Side/?p=info
+
 Package: AnhDuy.Signature
 Architecture: iphoneos-arm
 Version: 1.0
