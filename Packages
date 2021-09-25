@@ -1,3 +1,37 @@
+Package: AnhDuy.2DayWeather
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.2DayWeather_1.0_iphoneos-arm.deb
+Size: 10492946
+MD5sum: 5281bfcde5f181f0a509f44135279d5d
+SHA1: 6048c5df3c3c1a928d3a8f8a4ba628636816ce66
+SHA256: 16cc58d9c7cddd03b0896097c5656ecec5e8242880077fa03147a10f60b87795
+SHA512: df4950c144d8a8bb14e3e10507db7bd7502085a3c12a4672f47fc831b3bfb8b46ccef8a384a6af45ae06a4143d3d7b2ec11b464c20eab2be6b6a086f71c8614c
+Description: Widget for Xen Html
+Name: 2DayWeather
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/2DayWeather/?p=info
+SileoDepiction: http://cydiavn.github.io/info/2DayWeather/?p=info
+
+Package: AnhDuy.3DayWeather
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.3DayWeather_1.0_iphoneos-arm.deb
+Size: 8076568
+MD5sum: 35e7c983af3fa7d581092075ae8c8252
+SHA1: cce870c26e81f85db8f9057d37bbca1808433866
+SHA256: cc70f69f469c64f2df1f606f8fe703b2c7990fa274aa1bc00287884d77ed8c9c
+SHA512: af7d894c0f873fc50d72c27e31fafc365740d20682b51c288a1ff502b042e5387a9e6601cc2caa7bc917a0e67b7ab3623adb7dccf0349784e0dca3b1e666be76
+Description: Widget for Xen Html
+Name: 3DayWeather
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/3DayWeather/?p=info
+SileoDepiction: http://cydiavn.github.io/info/3DayWeather/?p=info
+
 Package: AnhDuy.3levenSBWidget
 Architecture: iphoneos-arm
 Version: 1.4-1
