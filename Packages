@@ -1345,6 +1345,28 @@ SileoDepiction: http://cydiavn.github.io/info/vintage-keyboard-pack/?p=info
 
 Package: AnhDuy.youpip
 Architecture: iphoneos-arm
+Version: 1.5.10
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 204
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./Deb/AnhDuy.youpip_1.5.10_iphoneos-arm.deb
+Size: 23216
+MD5sum: 0fa5c6ed920d370ef46117726e5fca11
+SHA1: 7e6a65cbc761a0a7dab6416b99a6cb9038d3a3dd
+SHA256: aaa51d13d3fc31c9f4cb35ef079c1263e07ae2a84b80e38ce884873279cf599c
+SHA512: 8bd872b154e191623f7e5daaf4ed53a69186dfd2885ea84ab147a6899a2a6e86dab5dba0d2ce3c32d7fe74e567a63c88d6080ca64ab923ac93ae7de6ae1cc979
+Description: Bật PiP gốc trong ứng dụng YouTube.
+Name: YouPiP
+Author: PoomSmart
+Depiction: http://cydiavn.github.io/info/youpip/?p=info
+SileoDepiction: http://cydiavn.github.io/info/youpip/?p=info
+
+Package: AnhDuy.youpip
+Architecture: iphoneos-arm
 Version: 1.5.9
 Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
