@@ -85,15 +85,15 @@ SileoDepiction: http://cydiavn.github.io/info/ArKo/?p=info
 
 Package: AnhDuy.AsKew
 Architecture: iphoneos-arm
-Version: 1.2-1
+Version: 1.2-2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.AsKew_1.2-1_iphoneos-arm.deb
-Size: 1473036
-MD5sum: ee249fa908490d9318bc756eec57f1e4
-SHA1: 7f10f566a649506026d1b624d80fde64676be1f4
-SHA256: 05a678baf75cc7bc63b37193a621738eab1bcc48646b4b60b51f6629c45139d5
-SHA512: eeb9fbb39e2cc353c5edcf8c902b157130a129cd7cf4e7112d2bb224cfe6c4d8422d95c77397a35c20a6d540f60501ebcd7c9423a65f96a1a53838b276e63adb
+Filename: ./Deb/AnhDuy.AsKew_1.2-2_iphoneos-arm.deb
+Size: 1471994
+MD5sum: 52f2c985356a314cd3a305bc6165226b
+SHA1: fa14905881e99b3b4705ea93d685b64310c68015
+SHA256: e62e29d77a1aa8a0a418eb5bfd76ba9d741d9c0539bed384f1ca4386c3bc3a34
+SHA512: c88335dfe12c9a95ea683f74bebbb2838fcc2f8d77aa0e98548bebc467449c258298217842f8cf4511fe6b1472fee43d152856060705bbd23ecd4ab2358d7687
 Description: Widget for Xen Html
 Name: AsKew
 Author: alimaulana
