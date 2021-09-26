@@ -1230,6 +1230,27 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://cydiavn.github.io/info/Orion/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
 
+Package: AnhDuy.powercuff
+Architecture: iphoneos-arm
+Version: 0.1~mario.16
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 272
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist
+Filename: ./Deb/AnhDuy.powercuff_0.1~mario.16_iphoneos-arm.deb
+Size: 34616
+MD5sum: 183d4b8f75ba71efeb58df3fcbb7c0b8
+SHA1: 0416a365c738fd399dc2cb2aa11bf199ae8d0d1a
+SHA256: 5f549a786164ac873f7e542abd346a31b7da0053824939c771c567d67a1d1a34
+SHA512: cca9e19947ed3e1f29faf45dda5dc4d1516c41719f971e78cfb6be308e92c6cbba5b4e7632ea5578186ae9c5ef4dbbc96582a8542227af1a4262d6c9cd8539f6
+Description: Chọn các trạng thái thiết bị bổ xung công suất thấp
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://cydiavn.github.io/info/powercuff/?p=info
+SileoDepiction: http://cydiavn.github.io/info/powercuff/?p=info
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: AnhDuy.showtouch
 Architecture: iphoneos-arm
 Version: 1.0.5
