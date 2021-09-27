@@ -905,6 +905,27 @@ Author: cole cabral <cabralcole@gmail.com>
 Depiction: http://cydiavn.github.io/info/bigsnooze/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bigsnooze/?p=info
 
+Package: AnhDuy.bioprotectxs
+Architecture: iphoneos-arm
+Version: 4.5-17
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 2027
+Depends: mobilesubstrate, preferenceloader, ru.rejail.limneosos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./Deb/AnhDuy.bioprotectxs_4.5-17_iphoneos-arm.deb
+Size: 829898
+MD5sum: fe547fdbac8ce8c196b81a7e8345999b
+SHA1: 06320a5ad9c3f1b1f0b4becf314757ce3c0ef631
+SHA256: d300d0c6282de7864ab2f11a6cadcb6213e45980e1cb6518be0f2c3dbb132ede
+SHA512: 877b05c91343931c7a12afd838c57dc8f43505686c20859466f7941121fe3c0915c13f47ae1d8b6c27d12e486a4f6b8df4f791c21ff9e4f1b41b65d892ce4528
+Description: Bảo vệ ứng dụng của bạn bằng Touch & Face ID
+Name: BioProtect XS (iOS 12/13/14)
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Depiction: http://cydiavn.github.io/info/bioprotectxs/?p=info
+SileoDepiction: http://cydiavn.github.io/info/bioprotectxs/?p=info
+
 Package: AnhDuy.bugslifewidgetmod
 Architecture: iphoneos-arm
 Version: 1.0
