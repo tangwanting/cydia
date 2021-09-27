@@ -1212,6 +1212,26 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://cydiavn.github.io/info/Orion/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
 
+Package: AnhDuy.perfectcalc
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 168
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./Deb/AnhDuy.perfectcalc_1.0_iphoneos-arm.deb
+Size: 9896
+MD5sum: 1942c10bc7877eac38852f83edd6f35f
+SHA1: 07328b4b65db31c496275a3a24fc1479a6004c9b
+SHA256: f4af5f0df8e272d128a3ef551659efec75aa011b67492f81335f5551edb1d453
+SHA512: ae9f0665ec57849def8ae92e4959236dfb264c0ea30d12eaddcded9861d640901df13c1686b2d29bf5eea3364f6b3386ceba7e81072a002eb03898fdfdd87e9e
+Description: Một tinh chỉnh giữ các phép tính trong ứng dụng Máy tính
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: PerfectCalc
+Depiction: http://cydiavn.github.io/info/perfectcalc/?p=info
+SileoDepiction: http://cydiavn.github.io/info/perfectcalc/?p=info
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: AnhDuy.powercuff
 Architecture: iphoneos-arm
 Version: 0.1~mario.16
