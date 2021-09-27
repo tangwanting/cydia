@@ -1313,6 +1313,28 @@ dev: rplus
 Depiction: http://cydiavn.github.io/info/slidecut/?p=info
 SileoDepiction: http://cydiavn.github.io/info/slidecut/?p=info
 
+Package: AnhDuy.swipeselection
+Architecture: iphoneos-arm
+Version: 1.0~beta9
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 756
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix
+Filename: ./Deb/AnhDuy.swipeselection_1.0~beta9_iphoneos-arm.deb
+Size: 237172
+MD5sum: 7027e80b602d896ca938c9a31402552a
+SHA1: 1fed99c214ac0cfe92231e642a7f96afe02331a9
+SHA256: 58f7d5bb466e8f6c9f650cf53fb659d3b285aabe389ae9eb676b153d764de18c
+SHA512: 2b36c726fd50509fa3f9fb37553e66307a37ef475b46047aa06a1fbce1989973178c4b4e7805c406dfcb6af241ed2477f1f78253fcfd1cefabf8116f7bd7523d
+Description: Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: SwipeSelection
+Depiction: http://cydiavn.github.io/info/swipeselection/?p=info
+SileoDepiction: http://cydiavn.github.io/info/swipeselection/?p=info
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/SwipeSelectionPrefs.bundle/Header.png
+
 Package: AnhDuy.tranzlo
 Architecture: iphoneos-arm
 Version: 3.2.1
