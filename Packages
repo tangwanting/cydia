@@ -914,11 +914,11 @@ Installed-Size: 2027
 Depends: mobilesubstrate, preferenceloader, ru.rejail.limneosos
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./Deb/AnhDuy.bioprotectxs_4.5-17_iphoneos-arm.deb
-Size: 829898
-MD5sum: fe547fdbac8ce8c196b81a7e8345999b
-SHA1: 06320a5ad9c3f1b1f0b4becf314757ce3c0ef631
-SHA256: d300d0c6282de7864ab2f11a6cadcb6213e45980e1cb6518be0f2c3dbb132ede
-SHA512: 877b05c91343931c7a12afd838c57dc8f43505686c20859466f7941121fe3c0915c13f47ae1d8b6c27d12e486a4f6b8df4f791c21ff9e4f1b41b65d892ce4528
+Size: 828478
+MD5sum: df50f9c2fd19b4fe23b293084df09a59
+SHA1: 3cff26afb70a52e4a7eaaa8183aa9a71f8f2990a
+SHA256: a59bc0abed8ee3d68440c625b517c6e3878e3795e4a1458f0a6e939a6221376a
+SHA512: 54452e5b413bf655d1eaf6cb3a33b730785ae5a6cae88f60fc547b9dbbc4822a48176f4e029fe5f6de7c0946347c0737785fbd525ee8c060be685c13e7ad2d92
 Description: Bảo vệ ứng dụng của bạn bằng Touch & Face ID
 Name: BioProtect XS (iOS 12/13/14)
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -1343,12 +1343,12 @@ Installed-Size: 756
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
 Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix
 Filename: ./Deb/AnhDuy.swipeselection_1.0~beta9_iphoneos-arm.deb
-Size: 237172
-MD5sum: 7027e80b602d896ca938c9a31402552a
-SHA1: 1fed99c214ac0cfe92231e642a7f96afe02331a9
-SHA256: 58f7d5bb466e8f6c9f650cf53fb659d3b285aabe389ae9eb676b153d764de18c
-SHA512: 2b36c726fd50509fa3f9fb37553e66307a37ef475b46047aa06a1fbce1989973178c4b4e7805c406dfcb6af241ed2477f1f78253fcfd1cefabf8116f7bd7523d
-Description: Select text and move the cursor using gestures on the keyboard.
+Size: 237218
+MD5sum: aa3f88ad73a0839db039713578b0bab7
+SHA1: 4eda293e92e3a906233237ebd66bd47d8892604c
+SHA256: 87ea9241d79c45dfd8299c6608b1f7b65077dcf6421f199048eba56fe4615c7c
+SHA512: cf273a04093f5b4f282e7006d47369328c6c591c6fa6a759414e9f462175c8e4cf04c8f25210fc66cd63d8117d88aba271de8f4f9f92dce747a9b1ed0e933f4d
+Description: Chọn văn bản và di chuyển con trỏ bằng cử chỉ trên bàn phím.
 Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Name: SwipeSelection
 Depiction: http://cydiavn.github.io/info/swipeselection/?p=info
