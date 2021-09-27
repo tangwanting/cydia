@@ -810,6 +810,27 @@ Author: hmodei96
 Depiction: http://cydiavn.github.io/info/appshacks/?p=info
 SileoDepiction: http://cydiavn.github.io/info/appshacks/?p=info
 
+Package: AnhDuy.audiorecorderxs
+Architecture: iphoneos-arm
+Version: 3.7-42
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 22808
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), AnhDuy.limneosos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./Deb/AnhDuy.audiorecorderxs_3.7-42_iphoneos-arm.deb
+Size: 5288230
+MD5sum: 361603686770348fe61f5b0f213f2df9
+SHA1: 6199163884ad664bfbc140949b1803a63bf43043
+SHA256: e53e81c6cc881ca756762b51b7f0902b6a0cb0a37b819a3834fd3eb271fa8fc3
+SHA512: becf24059a569ddbf0f82f221124438a494f69fdb85348aba4057b8eb9287086418794d63cf6303f92e52e57979f2f14a860ade12ee072c5b03175c028a9fe81
+Description: Ghi âm cuộc gọi điện thoại
+Name: AudioRecorder XS (iOS 12/13/14)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
+SileoDepiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
+
 Package: AnhDuy.autounlockx
 Architecture: iphoneos-arm
 Version: 1.0.16
@@ -1153,6 +1174,26 @@ Name: LetMeKnow
 Author: P2KDev <p2kdev@gmail.com>
 Depiction: http://cydiavn.github.io/info/letmeknow/?p=info
 SileoDepiction: http://cydiavn.github.io/info/letmeknow/?p=info
+
+Package: AnhDuy.limneosos
+Architecture: iphoneos-arm
+Version: 2.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.limneosos_2.0.2_iphoneos-arm.deb
+Size: 36138
+MD5sum: deb2ee83ac8e43aacfc865ac790e82aa
+SHA1: cd5472b2b61dc7f2df2fd84dd1dd2e010ab41113
+SHA256: 72725be92b3840cda31cae997c86e86e15d3100aa3e2194d0673ac0d41226cb5
+SHA512: ede511d754a2d6ed7a5ef2362b86af22eb7170e9304d5ce4014dae89a9d805a4c2af00d406b18c0b60923403de2883e1347123f09ad71a47801e2317aee46f7c
+Description: Tên nói cho chính nó
+Name: Limneosos
+Author: ReJail <rejail@rejail.ru>
+Depiction: http://cydiavn.github.io/info/limneosos/?p=info
+SileoDepiction: http://cydiavn.github.io/info/limneosos/?p=info
 
 Package: AnhDuy.loupe
 Architecture: iphoneos-arm
