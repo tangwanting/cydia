@@ -255,6 +255,24 @@ Author: Edit by Anh Duy
 Depiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
 SileoDepiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
 
+Package: AnhDuy.Cydown
+Architecture: iphoneos-arm
+Version: 7.1.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./Deb/AnhDuy.Cydown_7.1.1_iphoneos-arm.deb
+Size: 4303220
+MD5sum: a5de462af9297421d734ae9c37befa35
+SHA1: ace366ecb827b4a9d0700d3e328ece2789aeb716
+SHA256: 453d1c31ae2fee9259ca05156ffc43e757bbb44af4fe7b810f85e33590cec9e5
+SHA512: 58c33ba0108dab5a764153b83791a1b6bce98bd721187c1346adc4c2b6d53df2371d650928518c8c5cfc91436cf72debb89f2eb9fbef5950ffdac2dffd1cae4c
+Description: trình quản lí nâng cao cho cydia
+Name: CyDown VN
+Author: julioverne
+Depiction: http://cydiavn.github.io/info/Cydown/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Cydown/?p=info
+
 Package: AnhDuy.DKTransWeather
 Architecture: iphoneos-arm
 Version: 1.0.1
