@@ -1625,6 +1625,25 @@ Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Depiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
 SileoDepiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
 
+Package: ru.rejail.libiarrays1
+Architecture: iphoneos-arm
+Version: 1.0.15-beta-5
+Section: Development
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 1446
+Conflicts: com.iarrays.libiarrays1
+Filename: ./Deb/ru.rejail.libiarrays1_1.0.15-beta-5_iphoneos-arm.deb
+Size: 464314
+MD5sum: 90d59f4cbe23939dbfa21a9bb8d3d109
+SHA1: 1fb976b3d6d226fb89338afedadcc897e30a2e4e
+SHA256: 01da750ffb53f35deb34041f1b8b5aa298abb645d7d1574fce4c5a058f658d64
+SHA512: 65995eb40cecb49457dc3066efef9352a9712cb91b2c2cf1849d276c2d94b3bb014dfb958ef716917f42956d4ae45d1fed657d4215b6dc13a539220078f5e4cd
+Description: Chỉ nên được sử dụng bởi các sản phẩm của IArrays. Đây là thư viện đã đóng và không có hỗ trợ nào được cung cấp cho gói này.
+Name: libiarrays
+Author: IArrays <support@iarrays.com>
+Depiction: http://cydiavn.github.io/info/libiarrays1/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libiarrays1/?p=info
+
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
 Version: 2.0.2
