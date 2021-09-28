@@ -886,6 +886,26 @@ Author: Nepeta
 Depiction: http://cydiavn.github.io/info/axon/?p=info
 SileoDepiction: http://cydiavn.github.io/info/axon/?p=info
 
+Package: AnhDuy.barmoji
+Architecture: iphoneos-arm
+Version: 2020.5
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 488
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Deb/AnhDuy.barmoji_2020.5_iphoneos-arm.deb
+Size: 108120
+MD5sum: d95f439418a83ad3abb777d7f628dabe
+SHA1: db585b48b3737ddd475b3a417f48a284412b074a
+SHA256: 432a6fb2f0cd5741e3349014f95359b2d72ea81866a192d75ef67125a36674cd
+SHA512: 08091a01dcbb639fe07572289a4b08c47f51d01589e54f446609ff8ea4944d90eed4676ddc42c974861845bb9fb8467d5ca1baba6cea323080e8a39922327e71
+Homepage: https://apt.cpdigitaldarkroom.com/Depiction: http://cydiavn.github.io/info/barmoji/?p=info
+Description: Thanh truy cập biểu tượng cảm xúc nhanh
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Name: Barmoji
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+SileoDepiction: http://cydiavn.github.io/info/barmoji/?p=info
+
 Package: AnhDuy.bigsnooze
 Architecture: iphoneos-arm
 Version: 1.0
