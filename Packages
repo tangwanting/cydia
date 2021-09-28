@@ -1006,11 +1006,11 @@ Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 680
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
 Filename: ./Deb/AnhDuy.colorbanners3_1.1.0_iphoneos-arm.deb
-Size: 262504
-MD5sum: 5bcf070b0a6fc41d642b86f153348b08
-SHA1: 045e8b0311d6afc52f3d91a94d79ed17481ecdb7
-SHA256: 602c663ca75810c3f5c35d59f4a69b6eb777156a0d0c3351e559f6f87073da2d
-SHA512: 29a0c3555ed568c90738a228c938f05f4fecd03a7bd689eef278a117a122024f1b1270c863d7a7baa30fdb80b4723c1149a3842a56b7ed589efc1e409818a947
+Size: 262636
+MD5sum: df4a634d95e00e48bec28873786a7c03
+SHA1: 26eba728bd754ea31b7617a6d57e23e850759ff8
+SHA256: 787cb2293c2c8b9cb705e336c2240fbcfaa46f8cfe8a20a4d1d6278d71b987b3
+SHA512: 6ce792799a56f7d9a2e6437730c0129a60adfeb724044f9db2b74cf95cc57dd97f5e258c84a1d5968b8c3a31d3e48633ec28982edcfa5de4b123c871b03abc47
 Description: Màu thông báo theo màu biểu tượng có thông báo.
 Name: ColorBanners 3
 Author: David Goldman
