@@ -238,6 +238,26 @@ Author: wrussell1989, D-Shin & m37_aga1n
 Depiction: http://cydiavn.github.io/info/Boss/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Boss/?p=info
 
+Package: AnhDuy.CCModules
+Architecture: iphoneos-arm
+Version: 1.5-1
+Section: Addons (ControlCenter)
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 5131
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./Deb/AnhDuy.CCModules_1.5-1_iphoneos-arm.deb
+Size: 1365152
+MD5sum: 0d4963f8132f3362f50517102294b68c
+SHA1: b51886b35c0fb3d7896b66443d99dfda4204cc23
+SHA256: 7afbab7cdc5b28402d731473907cfc1c0e028522202b5dcf6020d7b6f90f08cc
+SHA512: 32f421a7e9c3829a833e488b29e44db0e4bf7876fb6cafd8d65d04ae4b96d29f3857d3122019e09e8decd8fa867fd3365ff4695520ae44756a17d8fd0ba17e94
+Description: Các mô-đun trung tâm điều khiển khác cho iOS 11/12/13/14
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://cydiavn.github.io/info/CCModules/?p=info
+SileoDepiction: http://cydiavn.github.io/info/CCModules/?p=info
+Author: jailbreak365 <jailbreak365@mail.com>
+Name: CCModules
+
 Package: AnhDuy.CosmicTwo
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1352,25 +1372,6 @@ SileoDepiction: http://cydiavn.github.io/info/powercuff/?p=info
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: AnhDuy.prysm
-Architecture: iphoneos-arm
-Version: 1.9.1
-Section: Tweaks
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Installed-Size: 3179
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: ./Deb/AnhDuy.prysm_1.9.1_iphoneos-arm.deb
-Size: 1099618
-MD5sum: 17155853fdadf69e8da2cfa2c489f2bf
-SHA1: ee70360972db73ee6a665c3cd28c0baf9a0954c2
-SHA256: ec9279716a9617b9d6361c46af4c79deb8341974a2d864bee22db018fb1ed5e2
-SHA512: fd5c94bd83d9504c5c67cbe15a3614f32d0649dbacfff69c6593a9f342619817020b475f9ec7082909dc05c3edee05308f048654c7ffdc72fb6a0f2e34b5fdda
-Description: Thiết kế lại trung tâm điều khiển
-Name: Prysm
-Author: LaughingQuoll
-Depiction: http://cydiavn.github.io/info/prysm/?p=info
-SileoDepiction: http://cydiavn.github.io/info/prysm/?p=info
-
 Package: AnhDuy.screenshotx
 Architecture: iphoneos-arm
 Version: 1.2
@@ -1723,27 +1724,6 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: ichitaso
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 
-Package: com.jailbreak365.safeccmodules
-Architecture: iphoneos-arm
-Version: 1.5-1
-Section: Addons (ControlCenter)
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Installed-Size: 5131
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./Deb/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm.deb
-Size: 1365162
-MD5sum: cf651151cf9672edf757b5efb14e3057
-SHA1: 2feb1d016982803e96c1f03a1aeebb7495498f5e
-SHA256: c12f93c733505aa2a56d426ed61361e4ef2c06ab6feb57935f79936b4eec7b42
-SHA512: f5e56f7b815070243cb1cf303fadbe7f584386bd3b2268d9b1374e4af55dbdd2c1b77b05ba4890ddbc2a0a2c1f88655cd737ef83c0ddc90ea4b6e56ea1e0e45a
-Description: Các mô-đun trung tâm điều khiển khác cho iOS 11/12/13/14
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-Depiction: http://cydiavn.github.io/info/CCModules/?p=info
-SileoDepiction: http://cydiavn.github.io/info/CCModules/?p=info
-Author: jailbreak365 <jailbreak365@mail.com>
-Name: CCModules
-dev: jailbreak365
-
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
@@ -1805,4 +1785,23 @@ Name: Limneosos
 Author: ReJail <rejail@rejail.ru>
 Depiction: http://cydiavn.github.io/info/limneosos/?p=info
 SileoDepiction: http://cydiavn.github.io/info/limneosos/?p=info
+
+Package: ru.rejail.prysm
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 3179
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./Deb/ru.rejail.prysm_1.9.1_iphoneos-arm.deb
+Size: 1099632
+MD5sum: 8138f4c1e61e40f183669ce40578b207
+SHA1: a8aeb7bde7d816383006889a8f971ecc97d47210
+SHA256: 34c45217a482748d5232724168b19f8b32e6070717780072fff33b958d5a3f80
+SHA512: 01bcdb1c2473242577f48dc5cab0a119f8ba467fd97cf3148327c98ebc168372e4f4b72fb86997168d83ac68e1fff81971b9cbc9a97a993aacf76f9dbccb2bfb
+Description: Thiết kế lại trung tâm điều khiển
+Name: Prysm
+Author: LaughingQuoll
+Depiction: http://cydiavn.github.io/info/prysm/?p=info
+SileoDepiction: http://cydiavn.github.io/info/prysm/?p=info
 
