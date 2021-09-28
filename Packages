@@ -978,6 +978,25 @@ Author: Edit by Anh Duy
 Depiction: http://cydiavn.github.io/info/chimbay/?p=info
 SileoDepiction: http://cydiavn.github.io/info/chimbay/?p=info
 
+Package: AnhDuy.colorbanners3
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 680
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Filename: ./Deb/AnhDuy.colorbanners3_1.1.0_iphoneos-arm.deb
+Size: 262504
+MD5sum: 5bcf070b0a6fc41d642b86f153348b08
+SHA1: 045e8b0311d6afc52f3d91a94d79ed17481ecdb7
+SHA256: 602c663ca75810c3f5c35d59f4a69b6eb777156a0d0c3351e559f6f87073da2d
+SHA512: 29a0c3555ed568c90738a228c938f05f4fecd03a7bd689eef278a117a122024f1b1270c863d7a7baa30fdb80b4723c1149a3842a56b7ed589efc1e409818a947
+Description: Màu thông báo theo màu biểu tượng có thông báo.
+Name: ColorBanners 3
+Author: David Goldman
+Depiction: http://cydiavn.github.io/info/colorbanners3/?p=info
+SileoDepiction: http://cydiavn.github.io/info/colorbanners3/?p=info
+
 Package: AnhDuy.contactsextended
 Architecture: iphoneos-arm
 Version: 1.3.4
