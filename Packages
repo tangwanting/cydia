@@ -1659,6 +1659,25 @@ Icon: https://repo.menushka.ca/assets/ca.menushka.menushkaprefs/icon.png
 Depiction: http://cydiavn.github.io/info/menushkaprefs/?p=info
 SileoDepiction: http://cydiavn.github.io/info/menushkaprefs/?p=info
 
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm
+Version: 0.1-9
+Section: System
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 204
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./Deb/com.ichitaso.otadisabler_0.1-9_iphoneos-arm.deb
+Size: 35038
+MD5sum: 81a6c20b712de018fdc52cb48e3d031a
+SHA1: ffa467446824ec03319386d1153e74dc957c00c7
+SHA256: 5a83af445118b701de71f082d178ec61ed5ccefa5e0d6ddcb137c06469a5f5af
+SHA512: 561685265c0e600f8b1dbd64c639b8c0fa10ad951cfd8183a294b7a93e194b02486e6bffc1331d8358b8cb22bcd28b29c8e68434bd56eb47866fdbb99e34d705
+Description: Xóa và tắt huy hiệu OTA
+Name: OTADisabler
+Depiction: http://cydiavn.github.io/info/otadisabler/?p=info
+SileoDepiction: http://cydiavn.github.io/info/otadisabler/?p=info
+Author: ichitaso
+
 Package: com.jailbreak365.safeccmodules
 Architecture: iphoneos-arm
 Version: 1.5-1
