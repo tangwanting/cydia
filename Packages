@@ -1314,6 +1314,25 @@ SileoDepiction: http://cydiavn.github.io/info/powercuff/?p=info
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: AnhDuy.prysm
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 3179
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./Deb/AnhDuy.prysm_1.9.1_iphoneos-arm.deb
+Size: 1099618
+MD5sum: 17155853fdadf69e8da2cfa2c489f2bf
+SHA1: ee70360972db73ee6a665c3cd28c0baf9a0954c2
+SHA256: ec9279716a9617b9d6361c46af4c79deb8341974a2d864bee22db018fb1ed5e2
+SHA512: fd5c94bd83d9504c5c67cbe15a3614f32d0649dbacfff69c6593a9f342619817020b475f9ec7082909dc05c3edee05308f048654c7ffdc72fb6a0f2e34b5fdda
+Description: Thiết kế lại trung tâm điều khiển
+Name: Prysm
+Author: LaughingQuoll
+Depiction: http://cydiavn.github.io/info/prysm/?p=info
+SileoDepiction: http://cydiavn.github.io/info/prysm/?p=info
+
 Package: AnhDuy.showtouch
 Architecture: iphoneos-arm
 Version: 1.0.5
