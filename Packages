@@ -1602,6 +1602,27 @@ Depiction: http://cydiavn.github.io/info/otadisabler/?p=info
 SileoDepiction: http://cydiavn.github.io/info/otadisabler/?p=info
 Author: ichitaso
 
+Package: com.jailbreak365.safeccmodules
+Architecture: iphoneos-arm
+Version: 1.5-1
+Section: Addons (ControlCenter)
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 5131
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./Deb/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm.deb
+Size: 1365162
+MD5sum: cf651151cf9672edf757b5efb14e3057
+SHA1: 2feb1d016982803e96c1f03a1aeebb7495498f5e
+SHA256: c12f93c733505aa2a56d426ed61361e4ef2c06ab6feb57935f79936b4eec7b42
+SHA512: f5e56f7b815070243cb1cf303fadbe7f584386bd3b2268d9b1374e4af55dbdd2c1b77b05ba4890ddbc2a0a2c1f88655cd737ef83c0ddc90ea4b6e56ea1e0e45a
+Description: Các mô-đun trung tâm điều khiển khác cho iOS 11/12/13/14
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://cydiavn.github.io/info/CCModules/?p=info
+SileoDepiction: http://cydiavn.github.io/info/CCModules/?p=info
+Author: jailbreak365 <jailbreak365@mail.com>
+Name: CCModules
+dev: jailbreak365
+
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
