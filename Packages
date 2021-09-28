@@ -1333,6 +1333,26 @@ Author: LonestarX
 Depiction: http://cydiavn.github.io/info/showtouch/?p=info
 SileoDepiction: http://cydiavn.github.io/info/showtouch/?p=info
 
+Package: AnhDuy.simplus
+Architecture: iphoneos-arm
+Version: 1.14-beta-2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 1234
+Depends: mobilesubstrate, preferenceloader, ru.rejail.libiarrays1 (>=1.0.13), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
+Filename: ./Deb/AnhDuy.simplus_1.14-beta-2_iphoneos-arm.deb
+Size: 699638
+MD5sum: 8a7248ca890ef1b49a6b713943f99c03
+SHA1: 9a4fb858d5b695ff0e839700c581051bb19b3286
+SHA256: b2c64a62dd8bf626a72361eceb47f4bb5e62249ffc18fac6b074cce311fef896
+SHA512: b6d08d1d0f82268d0741c1759a5dd49808a2768f6c57ead3ab52bdc11fd7cfa4a32113c1587185c88246a2d51cbad312145b687dc65865d4d1533e9fbba35e02
+Description: Cài đặt chi tiết cho eSIM / iPhone có thẻ SIM kép
+Name: eSim+
+Author: IArrays <support@iarrays.com>
+Icon: file:////Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
+Depiction: http://cydiavn.github.io/info/simplus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/simplus/?p=info
+
 Package: AnhDuy.slidecut
 Architecture: iphoneos-arm
 Version: 0.6
