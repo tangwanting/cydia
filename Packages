@@ -1333,6 +1333,24 @@ Author: LaughingQuoll
 Depiction: http://cydiavn.github.io/info/prysm/?p=info
 SileoDepiction: http://cydiavn.github.io/info/prysm/?p=info
 
+Package: AnhDuy.screenshotx
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 30086
+Filename: ./Deb/AnhDuy.screenshotx_1.2_iphoneos-arm.deb
+Size: 35414950
+MD5sum: 0126edcafbf9bc629076ac2f0dd04234
+SHA1: 35bcaa3ab985727da53de5ba3e6188c02e28c8f6
+SHA256: 05d0f543516f0d08df8f63286c3b58cc14f07f924b507e11201fcfb3e1d1fe1b
+SHA512: 676de8ef24acecf6e6870637ec41c3c70544a46c83b13cb16d81ae81f091e939d4e4cbc1bd08c17052f2ec4c03886f90d7ffdd3d026db4ecb7a624a610430611
+Description: Chèn hình ảnh của bạn vào mẫu iPhone
+Name: ScreenshotX
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://cydiavn.github.io/info/screenshotx/?p=info
+SileoDepiction: http://cydiavn.github.io/info/screenshotx/?p=info
+
 Package: AnhDuy.showtouch
 Architecture: iphoneos-arm
 Version: 1.0.5
