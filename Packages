@@ -1121,6 +1121,24 @@ Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: http://cydiavn.github.io/info/cylinder/?p=info
 SileoDepiction: http://cydiavn.github.io/info/cylinder/?p=info
 
+Package: AnhDuy.dodo
+Architecture: iphoneos-arm
+Version: 2.2.3
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.peterdev.libpddokdo
+Filename: ./Deb/AnhDuy.dodo_2.2.3_iphoneos-arm.deb
+Size: 933964
+MD5sum: f43ecd61fd897c8c6c9020ba401815e8
+SHA1: de7b9c8a956205d8f1d166dcea9e71d59e410c01
+SHA256: 131971a6f49664377954b3e5c3b43fbac7e8a53d6bd48a5f83dc7a09e406971f
+SHA512: 531eefb9adc80c3d7deaadb04cb512b3242392c3249effca2f82255617cc23dadcee6300e88fccff6488210c9da34b0e2fbc4b9e4e3b92f6e08159d5a74925eb
+Description: Tinh chỉnh Màn hình khóa hoàn hảo.
+Name: Dodo
+Depiction: http://cydiavn.github.io/info/dodo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/dodo/?p=info
+Author: Ginsu
+
 Package: AnhDuy.exacttime
 Architecture: iphoneos-arm
 Version: 2.0-1
