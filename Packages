@@ -566,6 +566,23 @@ Author: @FAlhmma
 Depiction: http://cydiavn.github.io/info/L363Geminis2/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L363Geminis2/?p=info
 
+Package: AnhDuy.L58
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.L58_1.0_iphoneos-arm.deb
+Size: 211974
+MD5sum: 6ea2d0d2f5d30b280e0377143e20099a
+SHA1: e832bf5394f50958110d7db68dd4aaf2a4cec326
+SHA256: e7c693937dbedce8a4045fd7c404d0e911e4f1fdd3f12e7df72b6c52c00bd5cf
+SHA512: 43fd0ec0ef6632fc945475d7345e205faf3a01f78a73ffaa94ebfcbfd9b2e7572554b5433d962eed06fcdb4ea93389d68436191eacaa14af2a85c23a16a46c6a
+Description: Widget for Xen Html
+Name: L58
+Author: Anh Duy & @_KhalidTech
+Depiction: http://cydiavn.github.io/info/L58/?p=info
+SileoDepiction: http://cydiavn.github.io/info/L58/?p=info
+
 Package: AnhDuy.L78
 Architecture: iphoneos-arm
 Version: 1.0
