@@ -1414,11 +1414,11 @@ Section: Themes
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Depends: firmware (>= 12.0)
 Filename: ./Deb/AnhDuy.ringmasker_1.4-1_iphoneos-arm.deb
-Size: 7887448
-MD5sum: 84792c8bf8ba5228e4f482c09bd31103
-SHA1: 771ad18b7befc229c4a4278da740f0daf3162756
-SHA256: 806cd60a2bc5019d08abc797918a0360511ce9b49a15e2d880acc6b49eb0dce7
-SHA512: 7bb367a577bcfda77436f0aecb3258fad9d4a9d48ea39eed7056f9e3afa606d3f1824ecd5a1aa5b1185689ff0cdad36ab022c4355be44412687953953c251219
+Size: 7937498
+MD5sum: 345af679c16d6224ef618fb6370a7146
+SHA1: d5d742ed76766718e2b1c2cb4e48e6332747bd78
+SHA256: 3e1af82819a314231faa2617e193440d16b156218b2f2a83627e5c1aca91891c
+SHA512: ec6d99d0d9a9feb9b10bf35f176aab5e70549daade540f6a58d7c4eccae92901c5bf7c12cc67ca8743ec8fec23fa26427924d815f0ef12ff2c5422449d431b94
 Description: Chào mừng bạn đến với RingMasker mới!
 Name: RingMasker (iOS 12+)
 Depiction: http://cydiavn.github.io/info/ringmasker/?p=info
@@ -1839,4 +1839,23 @@ Name: Limneosos
 Author: ReJail <rejail@rejail.ru>
 Depiction: http://cydiavn.github.io/info/limneosos/?p=info
 SileoDepiction: http://cydiavn.github.io/info/limneosos/?p=info
+
+Package: ru.rejail.prysm
+Architecture: iphoneos-arm
+Version: 1.9.1-1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 3179
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./Deb/ru.rejail.prysm_1.9.1-1_iphoneos-arm.deb
+Size: 1099638
+MD5sum: 1427326b8432a8445fe0a106b4b487fe
+SHA1: 1cdcbcbae5f584866aa0cd375b3ffa35d0a4b7e7
+SHA256: 7cd55d5216a383d279eb57bad4c0a52eb2714602ef785edc89f034aec727bd61
+SHA512: d6d01d54f98210488e4bab2bd054dfeeecb9fbf50ec192810b336f1b42b2dd22080c2430bd57866a959905e1d702f4898df4e12688e36d9dacea5c1b7894bd2e
+Description: Thiết kế lại trung tâm điều khiển
+Name: Prysm
+Author: LaughingQuoll
+Depiction: http://cydiavn.github.io/info/prysm/?p=info
+SileoDepiction: http://cydiavn.github.io/info/prysm/?p=info
 
