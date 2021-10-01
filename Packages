@@ -651,6 +651,31 @@ Author: @gearofwarsJlam
 Depiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 SileoDepiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 
+Package: AnhDuy.SemiRestore
+Architecture: iphoneos-arm
+Version: 1.1.6
+Section: Utilities
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.SemiRestore_1.1.6_iphoneos-arm.deb
+Size: 54860
+MD5sum: ea9be3dea039985452636b5916dac634
+SHA1: 501db411c6250896a0d0ef3860e09586c21235e9
+SHA256: a07bc9e8f1897a9590169f5fa4cc83955d41d43ab48e19109229842a7bbfc6ae
+SHA512: b8a555dd022cea2b231636baa7362a554a88bcfcfea32c77199fd7272379c5d33393b907e7bb12a8ed8b7cfedb8aa55d28c0a2a04f56670644537c672c47c34f
+Description: Công cụ gỡ jailbreak sạch 100%
+ - Hỗ trợ tất cả các thiết bị từ iOS 11.3 tới iOS 14.7
+ - Chạy ứng dụng này sẽ xoá sạch 100% tất cả dữ liệu và khôi phục lại máy về như lúc xuất xưởng
+ - Yêu cầu sao lưu lại tài liệu trong máy trước khi chạy
+ - Ứng dụng khá đơn giản. Chỉ có một nút nhấn Unjailbreak. Nó sẽ bắt đầu chạy khi bạn xác nhận
+ - Thiết bị sẽ khởi động với một thanh tiến trình gỡ dữ liệu và khôi phục lại toàn bộ hệ thống. Bạn chỉ việc chờ cho đến khi xong
+ - Nếu bị treo Táo trên 5 phút, vui lòng nhấn tổ hợp phím cứng để cho quá trình khôi phục được tiếp tục
+ - Lưu ý! Tắt công Tắc bên dưới là bảo vệ thông tin. Bật công Tắc là để xóa tất cả các thông tin của bạn
+Name: SemiRestore 11-14
+Author: Pwn20wnd
+Depiction: http://cydiavn.github.io/info/SemiRestore/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SemiRestore/?p=info
+Icon: file:///Applications/Cydia.app/Sections/a.png
+
 Package: AnhDuy.Side
 Architecture: iphoneos-arm
 Version: 1.0
