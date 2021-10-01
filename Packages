@@ -1840,22 +1840,3 @@ Author: ReJail <rejail@rejail.ru>
 Depiction: http://cydiavn.github.io/info/limneosos/?p=info
 SileoDepiction: http://cydiavn.github.io/info/limneosos/?p=info
 
-Package: ru.rejail.prysm
-Architecture: iphoneos-arm
-Version: 1.9.1-1
-Section: Tweaks
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Installed-Size: 3179
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: ./Deb/ru.rejail.prysm_1.9.1-1_iphoneos-arm.deb
-Size: 1099638
-MD5sum: 1427326b8432a8445fe0a106b4b487fe
-SHA1: 1cdcbcbae5f584866aa0cd375b3ffa35d0a4b7e7
-SHA256: 7cd55d5216a383d279eb57bad4c0a52eb2714602ef785edc89f034aec727bd61
-SHA512: d6d01d54f98210488e4bab2bd054dfeeecb9fbf50ec192810b336f1b42b2dd22080c2430bd57866a959905e1d702f4898df4e12688e36d9dacea5c1b7894bd2e
-Description: Thiết kế lại trung tâm điều khiển
-Name: Prysm
-Author: LaughingQuoll
-Depiction: http://cydiavn.github.io/info/prysm/?p=info
-SileoDepiction: http://cydiavn.github.io/info/prysm/?p=info
-
