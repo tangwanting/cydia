@@ -1803,6 +1803,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: ichitaso
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 
+Package: com.peterdev.libpddokdo
+Architecture: iphoneos-arm
+Version: 1.3
+Section: System
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/com.peterdev.libpddokdo_1.3_iphoneos-arm.deb
+Size: 10872
+MD5sum: c9879495ac369ef5b1dc03b87f64638b
+SHA1: 9429dfef3191d3274c08f8b842812fc3c7c16d83
+SHA256: aebccb6a72084f4f00f9035402c7721184c8b53bc3b5048c10b86aee07664f7b
+SHA512: ec4164199aad03146d69c6f00fe35156fb9d1e84ce6860a37ee63eca66df41fce4dcd5219a8b00aa2d87b31abcc88749beff7b0326e317950b9b475b107d11a9
+Description: Một thư viện tuyệt vời để có được thời tiết hiện tại do iOS Weater.app cung cấp một cách dễ dàng.
+Tag: role::developer
+Name: libPDDokdo
+Depiction: http://cydiavn.github.io/info/libpddokdo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libpddokdo/?p=info
+Author: Soongyu Kwon
+
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
