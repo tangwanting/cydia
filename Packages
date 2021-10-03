@@ -1163,6 +1163,24 @@ Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: http://cydiavn.github.io/info/cylinder/?p=info
 SileoDepiction: http://cydiavn.github.io/info/cylinder/?p=info
 
+Package: AnhDuy.docksearch
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./Deb/AnhDuy.docksearch_1.0.3_iphoneos-arm.deb
+Size: 208692
+MD5sum: e5a83322af883cd5ad9ce33326670e44
+SHA1: e8d5c0fe7bdf676043ebe2a6ab61c6dd35b65a5b
+SHA256: 69e1e31ab63f7ad7cbd84c1a8d8e33f9d860893b9aee59d6d765ee8d13139e5f
+SHA512: 335ac094e326c14e3c38f0311a74aa96d0c0b87a69d4a84a7bf4d54ecdeda850036a447f787152f2e72c56d329a4228dadb2302f2d03b11cb913f48bac1cb325
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Name: DockSearch
+Depiction: http://cydiavn.github.io/info/docksearch/?p=info
+SileoDepiction: http://cydiavn.github.io/info/docksearch/?p=info
+Author: Ginsu
+
 Package: AnhDuy.dodo
 Architecture: iphoneos-arm
 Version: 2.2.3
