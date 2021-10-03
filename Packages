@@ -1199,6 +1199,25 @@ Depiction: http://cydiavn.github.io/info/dodo/?p=info
 SileoDepiction: http://cydiavn.github.io/info/dodo/?p=info
 Author: Ginsu
 
+Package: AnhDuy.eneko
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./Deb/AnhDuy.eneko_1.1.2_iphoneos-arm.deb
+Size: 305328
+MD5sum: ad6b78c11c75ddb6b370632fb9aaa130
+SHA1: 22ab65d8d64d5eb16a2e4ae9abc2cbd02b8b69f8
+SHA256: 1d6c1b314073446e439f2a61e4b378188be9c85ac01fedc92e981b222e604a6f
+SHA512: c0af2523b156f9ca49abfe04f24c69862ecce2233b978a8e2481bf922c290e0abd9aead9a48a4f6e3efe64751ae9c83096d998b1ac265f238845121cb1a9a148
+Description: Chọn video làm hình nền trên iPhone.
+Name: Eneko
+Author: Litten
+Depiction: http://cydiavn.github.io/info/eneko/?p=info
+SileoDepiction: http://cydiavn.github.io/info/eneko/?p=info
+
 Package: AnhDuy.exacttime
 Architecture: iphoneos-arm
 Version: 2.0-1
@@ -1820,6 +1839,26 @@ SileoDepiction: http://cydiavn.github.io/info/powerselector11/?p=info
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: ichitaso
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+
+Package: com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm
+Version: 1.4.3
+Section: System
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 336
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: ./Deb/com.mrgcgamer.libgcuniversal_1.4.3_iphoneos-arm.deb
+Size: 91182
+MD5sum: 4ccc8b53688dd25737d227714dea7eba
+SHA1: 0e6f36cd46359f8d5789f0cde7d17d616720e888
+SHA256: 1e65c7db6ad9d307388b0149dd75ccb8b989c6d887ca824441f596bd9f867a74
+SHA512: c2aed8df2b118de4323c06c6a312627dec1961dd65ebc4f9e8fa20eb8fdc325d2a5e5845af2542fccedff7c86584e5bd251f3a529b63abbf80c1703cfa0e4d04
+Description: Một thư viện tuyệt vời của một số loại !!
+Name: LibGcUniversal
+Author: MrGcGamer
+Depiction: http://cydiavn.github.io/info/libgcuniversal/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libgcuniversal/?p=info
 
 Package: com.peterdev.libpddokdo
 Architecture: iphoneos-arm
