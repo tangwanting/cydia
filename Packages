@@ -836,6 +836,23 @@ Author: AnhDuy & Hilaria
 Depiction: http://cydiavn.github.io/info/UniawDark/?p=info
 SileoDepiction: http://cydiavn.github.io/info/UniawDark/?p=info
 
+Package: AnhDuy.WatchOS5
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.WatchOS5_1.0_iphoneos-arm.deb
+Size: 605320
+MD5sum: a4ad4a2e12bdaa5af83d1c5e8f332cab
+SHA1: a0a41b8ee4af246ae61f02b0c995bc2a005025f5
+SHA256: 7dcaa38a85ed70c9614ac5077dbc6eb482e533a4993b5546afbf90d5687b4127
+SHA512: 8ec6735c88c43c3f07659eb1db60b2411aff297c6c93122165d6d3ec146acce70e31bd10ff9a5867929f4755b0aa8fce745c8b92269d33a76bdb40d73272467a
+Description: Tiện ích cho Xen Html
+Name: WatchOS5
+Author: AussieAppz
+Depiction: http://cydiavn.github.io/info/WatchOS5/?p=info
+SileoDepiction: http://cydiavn.github.io/info/WatchOS5/?p=info
+
 Package: AnhDuy.Weathericon
 Architecture: iphoneos-arm
 Version: 1.0
