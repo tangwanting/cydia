@@ -1198,6 +1198,24 @@ Depiction: http://cydiavn.github.io/info/docksearch/?p=info
 SileoDepiction: http://cydiavn.github.io/info/docksearch/?p=info
 Author: Ginsu
 
+Package: AnhDuy.docksearch
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./Deb/AnhDuy.docksearch_1.0.4_iphoneos-arm.deb
+Size: 208712
+MD5sum: b8d60f45682f2caaa8ea6f3201425c64
+SHA1: 55d0b7829960ce32183b72fdd77d127cb81ce703
+SHA256: ddb31910b86651ae69e2a15bfd8891aada4276af240ab3240a856d7fcee80998
+SHA512: 7a54dd8b4e8c7ce26db4174bf44a8c7168868b0e96a4e69da480358fd2457fc5810859fef27fb91581e7ba685381f73388bba47aecb5fe8a867a4fb483d75ea2
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Name: DockSearch
+Depiction: http://cydiavn.github.io/info/docksearch/?p=info
+SileoDepiction: http://cydiavn.github.io/info/docksearch/?p=info
+Author: Ginsu
+
 Package: AnhDuy.dodo
 Architecture: iphoneos-arm
 Version: 2.2.3
