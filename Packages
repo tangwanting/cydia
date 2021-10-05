@@ -72,11 +72,11 @@ Version: 1.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.ArKo_1.2_iphoneos-arm.deb
-Size: 18246288
-MD5sum: ab6d196bae45fab1406fe9933c61aee0
-SHA1: 44161dfd0771aceb72beb71432e62bb7847ba159
-SHA256: cde8e8c1cf034d8d582d913f9702295595f65855cabc78d9cde3058b79ff1cde
-SHA512: 32b589a6f80ff4fd6d3c6757888ba38173554819df228264210a8c91d37e42e9b3315f9608388dcd9f5f0e3e50001d83a10009b22e0b06d6c4e3bc101344203c
+Size: 18246252
+MD5sum: 3b60f0821774e80fd2766b4edc6ecf68
+SHA1: 740434f30d525e1ae6fccfd022abe74db64dfeff
+SHA256: 82e3cd36b3e32d0a1ddb9524b1f3635c8ec273293334d71eeeca23e621e9c609
+SHA512: 6e01d9c5b20da425ac4482f2feecb9c5a97c295c25618a8ef3f616577405b29c32b696c60081b35b6adb22aaa88fe93c7dc2a3b64b7e40d08af15b7b39dac555
 Description: Widget for Xen Html
 Name: ArKo
 Author: alimaulana
