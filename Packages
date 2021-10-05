@@ -1664,16 +1664,16 @@ SileoDepiction: http://cydiavn.github.io/info/tweakcount/?p=info
 
 Package: AnhDuy.vertical
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.vertical_1.0_iphoneos-arm.deb
-Size: 4021734
-MD5sum: 1776cab68689cc9d47e27756b455bf27
-SHA1: b7ab4276d9fe0d890b147ff3f36f7ad1966a18f7
-SHA256: b84eac702cb6d0321834fb741d4c04ef7a6474062169f3ddee800e789fd5247e
-SHA512: 601b1210b4d729887bb2120b73b8cc15d2c3cb30c7f8434e530f10b061006f026f59b799429874816619ec569cd058000be57e1288f9cc0ac2e8833b8826587e
-Description: Widget for Xen Html
+Filename: ./Deb/AnhDuy.vertical_1.1_iphoneos-arm.deb
+Size: 3650418
+MD5sum: bd499d35e4eb7a1693c2cf0a26f82c0b
+SHA1: 62334e05dbbde8e4af48b16e57b6c74a3f8fcea1
+SHA256: 8b83b1c9e7fa518b3d6d291cfdeb5919f0a69af3096c16b7e037b4a5419308e8
+SHA512: 4859ea24388696034f56eaf9cdecef9fa62aaafd3211d615458bdc911451bdb37acb649cf1ad8a3867087d08c4614f525f66dc0e20aa108549a71083a89f11e6
+Description: Tiện ích cho Xen Html
 Name: vertical
 Author: AnhDuy & Jesse0166
 Depiction: http://cydiavn.github.io/info/vertical/?p=info
