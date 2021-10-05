@@ -1349,6 +1349,24 @@ SileoDepiction: http://cydiavn.github.io/info/ider/?p=info
 Name: iDer
 Author: Le0n <iphonele0n@icloud.com>
 
+Package: AnhDuy.jellylockreborn
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,ws.hbang.alderis (>= 1.1),com.spark.libsparkapplist
+Filename: ./Deb/AnhDuy.jellylockreborn_1.1_iphoneos-arm.deb
+Size: 2105846
+MD5sum: 5646018643f6861d757acddc7576638a
+SHA1: cc19300641ea714d0d090ff0b4efbd0bf0242800
+SHA256: 04a850ae41d2b8a97136c3c218094ad43c6d05ffe34c265d173b868d8007a03a
+SHA512: 1a64d96dfee95951c38a0378c487f1149f7c849e36adcb45a23abff188eb0040d4896bc9dc6a70732493e2f127094583cc34f8a564fa9aa0852037f78027b0c6
+Description: Trình khởi chạy ứng dụng màn hình khóa đơn giản đẹp mắt dành cho iOS 14.
+Name: JellyLock Reborn
+Depiction: http://cydiavn.github.io/info/jellylockreborn/?p=info
+SileoDepiction: http://cydiavn.github.io/info/jellylockreborn/?p=info
+Author: MegaDev
+
 Package: AnhDuy.laetus
 Architecture: iphoneos-arm
 Version: 3.3.1
