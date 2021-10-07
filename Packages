@@ -657,11 +657,11 @@ Version: 1.1.6
 Section: Utilities
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.SemiRestore_1.1.6_iphoneos-arm.deb
-Size: 54826
-MD5sum: cb2d7c7c3181a50723230e47ebc8d6f6
-SHA1: 2b3b522edeb0054d3a5eb6d8709379729feb5615
-SHA256: c359d23738202319b715d1b891757a180312371b37e0af595a3aca394ad87c0a
-SHA512: 528da03eae4b254d3e0d457dec93eade8b73472b5d64e4a0c6cb9765292d47902d3402b51948f4fd20c9dd4a4a741a79928dbc911ff70983c6da893c41af84b4
+Size: 54796
+MD5sum: d01ff8f6728d8c96f7043569b657f8fd
+SHA1: 7c6337e151a809df9cdb7ae60d3cc1723e07670e
+SHA256: beba0b31a2019ba7a307141af94612698fd226f4f2df009f71968db703acdbd2
+SHA512: d1d4284fbce8c990a4b3b146faed57156932b2df632d8841b032f962f1348966562348da9fae775e14f706112f8692b2e6e6b9161dd28c6aa071f380f3b2539d
 Description: Công cụ gỡ jailbreak sạch 100% mà vẫn giữ nguyên ios cũ của thiết bị
  - Hỗ trợ tất cả các thiết bị từ iOS 11.3 tới iOS 14.7
  - nó chỉ hoạt động ở chế độ jailbreak
@@ -674,7 +674,6 @@ Name: SemiRestore 11-14
 Author: Pwn20wnd
 Depiction: http://cydiavn.github.io/info/SemiRestore/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SemiRestore/?p=info
-Icon: file:///Applications/Cydia.app/Sections/a.png
 
 Package: AnhDuy.Side
 Architecture: iphoneos-arm
