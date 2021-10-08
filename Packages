@@ -117,6 +117,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
 SileoDepiction: http://cydiavn.github.io/info/AurosspinweatherDK/?p=info
 
+Package: AnhDuy.B30
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.B30_1.0_iphoneos-arm.deb
+Size: 302534
+MD5sum: 969f09faceb72d71bda23143616f2928
+SHA1: dedcc4fcfd071ddfaacbba5bbc6b8ea7ced49530
+SHA256: 60300b7c014517e8662839ea54975c25ca241dd8e3c22f1b64f4ab36a8278028
+SHA512: c56389f0cf3e0a33e84a4198acc7e896185e0166c51e2e1ed02f4b1fefd8150bbc27870b780d5ed4399763cf5c1c1422e0bb114833bf152e11f5d74268e646e0
+Description: Widget for Xen Html
+Name: B30
+Author: Anh Duy & @_KhalidTech
+Depiction: http://cydiavn.github.io/info/B30/?p=info
+SileoDepiction: http://cydiavn.github.io/info/B30/?p=info
+
 Package: AnhDuy.BAWDarkGoddess
 Architecture: iphoneos-arm
 Version: 1.0
@@ -736,11 +753,11 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./Deb/AnhDuy.SnowBoard_1.4.20~Beta4_iphoneos-arm.deb
-Size: 3938698
-MD5sum: 2a79a171db43bf360b4a383605b2e06b
-SHA1: 7d6b239de4fb2388b4cbbeca0d0f80cb7e6a2198
-SHA256: 92b432cb0d27350cab92c6add585d0c26c2715cbe14498061b51d543431bf394
-SHA512: dece8cb0f09d15d1894081bd86649d5dae5eb0e20f4892eb2b25966482c1028f1b029f552bd1ce18b0e37f67b69c4856fbcc8b1d866a2679df368a99cb520398
+Size: 3938706
+MD5sum: 2664d13523b15a686a43d42444b662a5
+SHA1: f14a249ce22dfc6c82f7737dac7dc827b86b5547
+SHA256: 867b022be622c5a48eddb147277c105e55e57faad4bd2ae31aea2bcba61857c4
+SHA512: bc5aaee306723d31e0361d55637d325d7f6628f84a9d14b9a0ab53f804332c739a98c1e4f2a786372d4983b13a6cbf89f3f6b7b48b6e8e9adb082f542a8384de
 Description: Ứng dụng thay đổi chủ đề
  - Bạn đã nhàm chán với những biểu tượng mặc định? Hãy dùng ứng dụng này để thay đổi nó.
  + Cập nhật thêm tính năng mới. Nâng cấp tính ổn định hơn cho iOS 14
