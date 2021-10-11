@@ -1575,6 +1575,25 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://cydiavn.github.io/info/screenshotx/?p=info
 SileoDepiction: http://cydiavn.github.io/info/screenshotx/?p=info
 
+Package: AnhDuy.searchy
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./Deb/AnhDuy.searchy_1.0.1_iphoneos-arm.deb
+Size: 10860
+MD5sum: a42e6d9199dc3a94fab2989ee0009b2a
+SHA1: 1d5f3c8bedfd6fd3a42e0eebe36d4d09bef57be8
+SHA256: 0d50f4ec291285f03ee53cc8e83949d26782484338806944b331e562bfeb3a92
+SHA512: 8fb7e07cb5bd419400e6789e36b9e2f96cbc0c2a73fc48acfb47866876595ccd723dc5b7af6e402cec649bd7cd7ea761789c7c6521284e1efb0d92b03e3e3438
+Description: Thêm thanh tìm kiếm vào tab "Gần đây" trong ứng dụng Điện thoại.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Searchy
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: http://cydiavn.github.io/info/searchy/?p=info
+SileoDepiction: http://cydiavn.github.io/info/searchy/?p=info
+
 Package: AnhDuy.showtouch
 Architecture: iphoneos-arm
 Version: 1.0.5
