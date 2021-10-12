@@ -1329,6 +1329,23 @@ Author: MTAC <mtactheming@gmail.com>
 Depiction: http://cydiavn.github.io/info/fingerlock/?p=info
 SileoDepiction: http://cydiavn.github.io/info/fingerlock/?p=info
 
+Package: AnhDuy.forecast5days
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.forecast5days_1.0_iphoneos-arm.deb
+Size: 5641950
+MD5sum: c8e68b6cdfddb021d57ee5cdb9312241
+SHA1: 7335f48712081cbad943c9ade1df77bceb49595e
+SHA256: 2e7b56927e870e1db324bfca3c5f3290a10b671987d63fac2eb6c1527ef3b91d
+SHA512: 25286eec55f3ee88ee0570ffea8538d54fa9859f2c7b056e791e2025668380b4548cf26545829710ce732c21de97922e361fe8902f0a6c91f654e2e1e52f91db
+Description: Tiện ích cho Xen Html
+Name: forecast5days
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/forecast5days/?p=info
+SileoDepiction: http://cydiavn.github.io/info/forecast5days/?p=info
+
 Package: AnhDuy.homepluspro
 Architecture: iphoneos-arm
 Version: 2.4.0-alpha3
