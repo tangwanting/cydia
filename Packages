@@ -277,18 +277,18 @@ Name: CCModules
 
 Package: AnhDuy.CosmicTwo
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: Widgets
 Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.CosmicTwo_1.0_iphoneos-arm.deb
-Size: 927392
-MD5sum: da55f639be8b59bb04f51ba67ae56acc
-SHA1: 93b5d83b99da1017e653194cab63462a08fac163
-SHA256: db6780059d85359e3a79d0a5d53efd0583a9ec7651d71af77ac2ffa3f426311d
-SHA512: 195c3a8668433787875d8aadedec22bdf43a4b2b9467155431373e4e93851c85e4aa3fe08aa0671a777439331321cf2928dc2ab72c74550c7fe27160b881595a
+Filename: ./Deb/AnhDuy.CosmicTwo_1.1_iphoneos-arm.deb
+Size: 3380782
+MD5sum: a0910906ff05d9b35c704406b9f3837c
+SHA1: 9ad2104187a81a0599010698b807a9f731ef7bd4
+SHA256: 359a6f2d78143c92ff6c6438295a53fd4d47e70a733c9f6af5da30efd314e726
+SHA512: 6fc60c1291a3f0687e1d87d9ae766758d0e878dbdc90bfc5dcc2c83468af62481a5ac801c8bca6474670dca4094b2e529197130e1704648a23627c0faa06fad3
 Description: Widget for Xen Html
 Name: Cosmic Two
-Author: Edit by Anh Duy
+Author: @luis9_49
 Depiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
 SileoDepiction: http://cydiavn.github.io/info/CosmicTwo/?p=info
 
