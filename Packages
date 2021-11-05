@@ -310,6 +310,24 @@ Author: julioverne
 Depiction: http://cydiavn.github.io/info/Cydown/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Cydown/?p=info
 
+Package: AnhDuy.Cydown
+Architecture: iphoneos-arm
+Version: 7.1.2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./Deb/AnhDuy.Cydown_7.1.2_iphoneos-arm.deb
+Size: 4340382
+MD5sum: 4117482b403ec7c268ac56701112bac6
+SHA1: eecc855e446faeb9c81cfc599cd21ec0c87fda22
+SHA256: 685ba25cba459b0b9eec05d6acc596d0c8fe17c0609eed131a9d09aa6eea59cc
+SHA512: ea97cc6b233315d180149727bcf643ec21539fdebb0dab12a3c00be1cfa830448cab7e9476e4c38dc7cfa6a6a41734d63d84d9a18c62b3e53742254994001190
+Description: trình quản lí nâng cao cho cydia
+Name: CyDown VN
+Author: julioverne
+Depiction: http://cydiavn.github.io/info/Cydown/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Cydown/?p=info
+
 Package: AnhDuy.DKTransWeather
 Architecture: iphoneos-arm
 Version: 1.0.1
