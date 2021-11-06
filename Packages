@@ -1310,11 +1310,11 @@ Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.peterdev.libpddokdo
 Filename: ./Deb/AnhDuy.dodo_2.4.1_iphoneos-arm.deb
-Size: 428132
-MD5sum: d5d086d524d05ff3ed91af47b1d8a0ca
-SHA1: a20165dbbc338e48c0976849a7dc300c97c5e7ca
-SHA256: bc2267370e781181e879c65d7a37abb32a3273966efadf306704eab2cbdd67d5
-SHA512: 0ce334c7eb3a6b7cfce3465b38ad903fb45be350dfca351aaed77339af9ff50a183c1a8fdb01b08cdb11906d3162b34c7bb97e2ac48c518cc2de99afcd48ba83
+Size: 428126
+MD5sum: 000d26068c9f72562cdfc89c26d63c30
+SHA1: 2b190933c3f797be9c961fe7136c6e4e7d3bc9c4
+SHA256: 50859e80a8fa8727515e4de7f78741f81e7a7962b6c158193d5511acc64f5577
+SHA512: a6a240a6d8752f28e22c6df4bc2b671f84e8788d2a86c2b20e2796b4e8f8669ec6f3b9dd7b9f30571200e830c901fbf136032333e18497de121fde73cf81f9e7
 Description: Tinh chỉnh Màn hình khóa hoàn hảo.
 Name: Dodo
 Depiction: http://cydiavn.github.io/info/dodo/?p=info
