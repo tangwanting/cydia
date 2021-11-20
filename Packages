@@ -1546,6 +1546,23 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.loupe/icon/icon.pn
 Depiction: http://cydiavn.github.io/info/loupe/?p=info
 SileoDepiction: http://cydiavn.github.io/info/loupe/?p=info
 
+Package: AnhDuy.muffin
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.muffin_1.0_iphoneos-arm.deb
+Size: 41155990
+MD5sum: 28108fc1ceef4801f32ff780654cab4a
+SHA1: 82641eef5dd811fdf4ceed62f6e5e7dc9776381a
+SHA256: 5bef5a1912ca1a1fd2e712df952f57cbb728e4319de9dff3ebbdde8f9ab1cb38
+SHA512: bf49ece35644109c6b74431fe0d8b9befd8e40b91d8f219cbea1b97916c7aeb28f5b3e21edb78f12b3faa70b1a0fcd3a94ce6af676208f97b962c25cb6fe20c5
+Description: iDer Theme for IOS8 - IOS15.x
+Depiction: http://cydiavn.github.io/info/ider/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ider/?p=info
+Name: muffin dark
+Author: @OuniDesigns
+
 Package: AnhDuy.onenotify
 Architecture: iphoneos-arm
 Version: 1.3.2
