@@ -55,11 +55,11 @@ Version: 1.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.Apon2_1.2_iphoneos-arm.deb
-Size: 789924
-MD5sum: a64a04526eb0134233a08d6d06c2f25b
-SHA1: ec009f50429f12c9a53d92af848790a0d8b5723f
-SHA256: 6a364f2c8fde148ab6e19e57a9bf5f8bca32989976d9d24f29f1b809f5b2c92f
-SHA512: 2ea2b7cd57893b307d013f497178a70e6ec8266bced896b8c9c579deaad9f52befdb94e7b70eebad70495cded925ede1d3d778042f57d2d9e17912d799143510
+Size: 882994
+MD5sum: aa7a7bbdab0e6f82e456e0a8d179028d
+SHA1: ee98e4b3cef1e2af30996fe9315bfbf9cad12e11
+SHA256: 34addf129d5ef2603717c7bfafcea3f1b0a1572a02216db607cbd1dd5a4d5c73
+SHA512: afbc70962d454fa9287383dba1f81678d8d408c60f342ffcf3fb29b882fd99c403173974f443754cf10fbe612ae8ea88f8ef8c8e4402c6ef70fa6f652fead987
 Description: Widget cho Xen Html
 Name: Apon 2
 Author: Alimaulana
