@@ -1890,6 +1890,24 @@ Author: @psprrom<rromero-mosso@hotmail.com>
 Depiction: http://cydiavn.github.io/info/vintage-keyboard-pack/?p=info
 SileoDepiction: http://cydiavn.github.io/info/vintage-keyboard-pack/?p=info
 
+Package: AnhDuy.weatherls
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.weatherls_1.0.4_iphoneos-arm.deb
+Size: 18614
+MD5sum: b020259e09e97d8dece866899e2dec23
+SHA1: 0aa6e01ade03e2183a654817da090a424f0c6645
+SHA256: f9c5b2b23182ac71f821c77ef1500cbd29ea264172ead58fce8429c8ea2a70b9
+SHA512: a93421f3921c77b05abf4f9afad52670021f32ed00a429ecefd90b59f682259dab491f03e8bf26e8d9846f6d9dc50f65faf90549869fd54ef7493be1af823d41
+Description: Thêm thời tiết và lịch âm vào màn hình khóa của bạn!
+Name: WeatherLS
+Author: nqt1195
+Depiction: http://cydiavn.github.io/info/weatherls/?p=info
+SileoDepiction: http://cydiavn.github.io/info/weatherls/?p=info
+
 Package: AnhDuy.youpip
 Architecture: iphoneos-arm
 Version: 1.5.10
