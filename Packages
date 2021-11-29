@@ -1266,6 +1266,25 @@ Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: http://cydiavn.github.io/info/cylinder/?p=info
 SileoDepiction: http://cydiavn.github.io/info/cylinder/?p=info
 
+Package: AnhDuy.dockroll
+Architecture: iphoneos-arm
+Version: 0.0.2-20
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Deb/AnhDuy.dockroll_0.0.2-20_iphoneos-arm.deb
+Size: 150086
+MD5sum: aeb7313d2c414ca18252add1ae2deda7
+SHA1: 637ab47e04b6291b2241a375e8484bd25feedf8f
+SHA256: f0c0adb6c1700a1977f01f577c6b55ada47d984bee5bb77932b3e63178fe705f
+SHA512: 7e9f111481cde65d336dd6348f33009d961b403431517ab39b3a27e77fd7220a3ab3f50ce9ec59bb534d96c9ebada791558ca97ae8c3e6c7e9ecca71a1994684
+Description: Thanh Dock theo kiểu hoàn toàn mới!
+Name: Dock & Roll
+Author: freeappl3
+Depiction: http://cydiavn.github.io/info/dockroll/?p=info
+SileoDepiction: http://cydiavn.github.io/info/dockroll/?p=info
+
 Package: AnhDuy.docksearch
 Architecture: iphoneos-arm
 Version: 1.0.3
