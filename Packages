@@ -927,11 +927,11 @@ Version: 1.0.1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.WeatherCute_1.0.1_iphoneos-arm.deb
-Size: 13168588
-MD5sum: 540ebb505a9fdbc1bc2be9b965004f4d
-SHA1: 90a2fded9e49161dbc1f2bd9c16ce2d57278031a
-SHA256: 72aae96f420837ffbdb9e049e15eefb7ee56e06525634f27de4a0857f2474bf2
-SHA512: 2f579f76684d22aa823083be729dc85623d32b26937090176d7e83c287332dfda1dd06f7e046f3e169406c4102f3cbb1aa533ed6756e29a435e92a146735223f
+Size: 13168598
+MD5sum: ead216e093337b30553475546acb0177
+SHA1: b15deee2797deb461789c348ca56aa5233c3d7e2
+SHA256: 8b6c22a7c8b24755a1f52c6630303233eaa6df7493dc9265916650edf66b5f38
+SHA512: 6a1c9802b1fc1533f213fb8a3efd8bb69b718e63a24b2ca043612e78ffa3ff9180492cdf111bd8411e40abf671f01dff136528e83363e8fc8fcce403ea1f9dc2
 Description: Widget cho Xen Html
 Name: WeatherCute
 Author: Anh Duy
@@ -944,11 +944,11 @@ Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.WeatherCute_1.0_iphoneos-arm.deb
-Size: 13152964
-MD5sum: fc961b437d6635b7799da03eaad47e3e
-SHA1: db4fbb304619981dd2a7fdf73ea9c17d99121789
-SHA256: 2b7ba6c06e204f66d250ac71e18327ade6961ea593ef6586e2ddcc6fcca30537
-SHA512: 8a603180a9b4976afaab8677f26f35a5473299a7c9253013ade1805e1bb50247b6fd352d07e1698c031fdb352f553a013e26b0ce39fcd2b2cd0560f1cea9a5fd
+Size: 13152982
+MD5sum: e844fdc4058b08a414a2ec3764fcf091
+SHA1: d6633258992d7783bc20bf969b334c86eb855fbe
+SHA256: 2b2498654b31b8cee36eba856c3a49e1fa95a9c23b0320cf36697e8ad0a98a77
+SHA512: 7fe2a41f6611063987839274df9e44fae38f237b9e811c85e561aceb135af8814c69625a2815a264724f130424206d9285cd27bb91efe2af152395cd3d88856d
 Description: Widget cho Xen Html
 Name: WeatherCute
 Author: Anh Duy
