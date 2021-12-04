@@ -923,6 +923,23 @@ SileoDepiction: http://cydiavn.github.io/info/WatchOS5/?p=info
 
 Package: AnhDuy.WeatherCute
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.WeatherCute_1.0.1_iphoneos-arm.deb
+Size: 13168588
+MD5sum: 540ebb505a9fdbc1bc2be9b965004f4d
+SHA1: 90a2fded9e49161dbc1f2bd9c16ce2d57278031a
+SHA256: 72aae96f420837ffbdb9e049e15eefb7ee56e06525634f27de4a0857f2474bf2
+SHA512: 2f579f76684d22aa823083be729dc85623d32b26937090176d7e83c287332dfda1dd06f7e046f3e169406c4102f3cbb1aa533ed6756e29a435e92a146735223f
+Description: Widget cho Xen Html
+Name: WeatherCute
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/WeatherCute/?p=info
+SileoDepiction: http://cydiavn.github.io/info/WeatherCute/?p=info
+
+Package: AnhDuy.WeatherCute
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
