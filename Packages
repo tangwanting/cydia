@@ -72,13 +72,13 @@ Version: 2.0.1
 Section: Tweaks
 Maintainer: Anh Duy
 Installed-Size: 410
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./Deb/AnhDuy.April_2.0.1_iphoneos-arm.deb
-Size: 410850
-MD5sum: 0a2a5bf147944cb9c127e7cb1c0303e7
-SHA1: a6f3bb5de546b2e4625ed397df4c8966dd20d1d4
-SHA256: 4cc4632ac7671d5822e41e1d6fa23ad7b73ae0793ba127cca5d4149cf92e5508
-SHA512: 9b84713f4877b47424fe7e73a42e562e27b94caae5661d4726cb8844bd4dea7273acb7bd558b5abb0fba3fa9c8292388855dc1fab9d82cb68b4d9fe6915d089b
+Size: 410874
+MD5sum: 484facced6b1cdee16e49c9a02ee3295
+SHA1: 08f89dc341d00c591cc8298611b080356abef654
+SHA256: eeb183eca4a94450b2dde507239409aed1b6201ea91ae463eda1ca033e74baec
+SHA512: a97e036fb62055376cbb74c91a03b715d365c8fdd9afb254674fc0bf3916c546ee97c460600372516ebeb9463cd0861ca69407a8fbfc93e930a12ca79b416636
 Description: Chèn ảnh vào cài đặt và hơn thế nữa
 Name: April
 Author: Luki
