@@ -1656,15 +1656,15 @@ SileoDepiction: http://cydiavn.github.io/info/loupe/?p=info
 
 Package: AnhDuy.muffin
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.1
 Section: Themes
 Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.muffin_1.0_iphoneos-arm.deb
-Size: 41156014
-MD5sum: f73392762d1493d75647ba0b18aa32e7
-SHA1: 24120a35b21fc044e66ddbe49f7e2163c767137c
-SHA256: 02cb9b8bb501ccf307737bd538f625f9124f3813e8a9d680c43c7c657d12450e
-SHA512: 6d5fc50232a58e0adcc8de2f26ece92adf80827a17ee0bf5c8eb9d02ab45fe75092956c8116accc3cce7996be04b5ac51f38fae8bf8a8a4b0933dc3fac889e5e
+Filename: ./Deb/AnhDuy.muffin_1.0.1_iphoneos-arm.deb
+Size: 47803420
+MD5sum: 973bc62fe0a1833c497b23f6e14a2391
+SHA1: d15a9965d21ca0a544ba1010028481b2b128a4f8
+SHA256: ce585235f5f4a45f140b9d029bb281392ef32f3d20ef00bfe2bc8cd1bc13b2dd
+SHA512: f3d139cad42f59f8426e5826f0df81205c83f13b8d4bff0b700a2f5b3df84f8ef338d72433eefc4de4bf058cc2cd7ce3c179d0dd94354580144f7b061655f76f
 Description: Chủ đề Muffin cho IOS8 - IOS14.x
 Depiction: http://cydiavn.github.io/info/ider/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ider/?p=info
