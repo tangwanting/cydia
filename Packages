@@ -1410,6 +1410,25 @@ Depiction: http://cydiavn.github.io/info/dodo/?p=info
 SileoDepiction: http://cydiavn.github.io/info/dodo/?p=info
 Author: Ginsu
 
+Package: AnhDuy.dualclock2
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.libgscommon
+Conflicts: com.exodia9610.dualclock
+Filename: ./Deb/AnhDuy.dualclock2_1.0.2_iphoneos-arm.deb
+Size: 416458
+MD5sum: 9512242edc00cb355ac22c08cb13fcac
+SHA1: 4db4fe90b5bd4b381402a811bda03c3bee1bc5bf
+SHA256: 81c6a7c2d84c9fcb07d19b3a77a531f139fcc098ad76d43210f1dc1a1ff78808
+SHA512: a4622fe361ebb1061335f0eb7b00441b315d20e802473bf711711ce414b8b3e6aa9e4bcdfe05484362a67bbde757358a65c9c79c279df4f2fec89b8266506ee6
+Description: Hai múi giờ trên toàn hệ thống
+Name: DualClock 2
+Depiction: http://cydiavn.github.io/info/dualclock2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/dualclock2/?p=info
+Author: Ginsu
+
 Package: AnhDuy.eneko
 Architecture: iphoneos-arm
 Version: 1.1.2
