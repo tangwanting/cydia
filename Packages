@@ -1846,6 +1846,26 @@ Icon: file:////Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.pn
 Depiction: http://cydiavn.github.io/info/simplus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/simplus/?p=info
 
+Package: AnhDuy.sleepizy2
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 787
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 14.2)
+Conflicts: com.anthopak.sleepizy
+Filename: ./Deb/AnhDuy.sleepizy2_1.1_iphoneos-arm.deb
+Size: 297756
+MD5sum: 3ea4951f6fc88cabaf98ca45049ab9d1
+SHA1: f30fdcdbefe1bf78816018cf42cf05d1bd56cc10
+SHA256: c872770d9120751c26ceacac8e73e9b04c9641e249b7175d0f02b39ac3b66261
+SHA512: 42fa6201d30080d8226067bcecbcc3831ba61b2902adc7b0baaa85af21e45f30c1c9d40673591d8feba111fbed360a77ec8c91c0812609623836b5d715a7eada
+Description: hẹn giờ tắt nhạc
+Name: Sleepizy 2
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: http://cydiavn.github.io/info/sleepizy2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/sleepizy2/?p=info
+
 Package: AnhDuy.slidecut
 Architecture: iphoneos-arm
 Version: 0.6
