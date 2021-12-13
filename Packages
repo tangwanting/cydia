@@ -335,13 +335,13 @@ Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./Deb/AnhDuy.Cydown_7.1.1_iphoneos-arm.deb
-Size: 4303220
-MD5sum: a5de462af9297421d734ae9c37befa35
-SHA1: ace366ecb827b4a9d0700d3e328ece2789aeb716
-SHA256: 453d1c31ae2fee9259ca05156ffc43e757bbb44af4fe7b810f85e33590cec9e5
-SHA512: 58c33ba0108dab5a764153b83791a1b6bce98bd721187c1346adc4c2b6d53df2371d650928518c8c5cfc91436cf72debb89f2eb9fbef5950ffdac2dffd1cae4c
+Size: 4303216
+MD5sum: 98fa520b0c865637d33cf0d3a191acdc
+SHA1: afc4de735595cffce0bf941d4871a504cdf74ec1
+SHA256: fe1733e8ba466e82f09e54bbe7227a889e8de9c6dd4d112e7666eb2d0a93302b
+SHA512: b20783eee2d4570c3ff3237043b53d82cb0a2bd364db325a6665e7f470d2edeff33f9a6712e8f21f799906e1dda8ba8fa82092157161ebcce70c2ab17ebbf65e
 Description: trình quản lí nâng cao cho cydia
-Name: CyDown VN
+Name: CyDown
 Author: julioverne
 Depiction: http://cydiavn.github.io/info/Cydown/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Cydown/?p=info
@@ -353,13 +353,13 @@ Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./Deb/AnhDuy.Cydown_7.1.2_iphoneos-arm.deb
-Size: 4340382
-MD5sum: 4117482b403ec7c268ac56701112bac6
-SHA1: eecc855e446faeb9c81cfc599cd21ec0c87fda22
-SHA256: 685ba25cba459b0b9eec05d6acc596d0c8fe17c0609eed131a9d09aa6eea59cc
-SHA512: ea97cc6b233315d180149727bcf643ec21539fdebb0dab12a3c00be1cfa830448cab7e9476e4c38dc7cfa6a6a41734d63d84d9a18c62b3e53742254994001190
+Size: 4340394
+MD5sum: f901f32abb20505c64ba13ff98a22d53
+SHA1: 25d4ea3e1c1884f7edc221011a99911600d2fedd
+SHA256: 07587e654cad923011e8e1b6f9f87738b2f3dbacee1ab107a423fff0b8c73987
+SHA512: 3efbef6a2256499b59ac0be872ffae069262017df7e584eff004af407b82f05845cb2106bc05fdead23115aa9d98bd784e124a2d32a6550bbe524c1437d9d144
 Description: trình quản lí nâng cao cho cydia
-Name: CyDown VN
+Name: CyDown
 Author: julioverne
 Depiction: http://cydiavn.github.io/info/Cydown/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Cydown/?p=info
