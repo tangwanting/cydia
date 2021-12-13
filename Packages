@@ -1748,6 +1748,24 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://cydiavn.github.io/info/Orion/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
 
+Package: AnhDuy.peepreborn
+Architecture: iphoneos-arm
+Version: 1.1
+Maintainer: Anh Duy
+Installed-Size: 388
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./Deb/AnhDuy.peepreborn_1.1_iphoneos-arm.deb
+Size: 47054
+MD5sum: 5c19e1d0f913d82b931ad4fbba11af3f
+SHA1: 1d1485d506896f489570881823624daa17722fa4
+SHA256: 5fc4e0f9c10f81916ae5108bc23d0267bd89b50b330cc6b9edecaf54535f360c
+SHA512: 122b2ea4376c647f546cafb9510667528ac0fea19da55fb1ac201580558836d4aff15b486c34840c6f82979c90ff4a2b29f7f455abd62ec470c48e1af15dfb36
+Description: Ẩn thanh trạng thái bằng một lần nhấn
+Name: Peep Reborn
+Author: Paisseon
+Depiction: http://cydiavn.github.io/info/peepreborn/?p=info
+SileoDepiction: http://cydiavn.github.io/info/peepreborn/?p=info
+
 Package: AnhDuy.perfectcalc
 Architecture: iphoneos-arm
 Version: 1.0
