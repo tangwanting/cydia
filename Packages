@@ -1319,6 +1319,25 @@ Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: http://cydiavn.github.io/info/cylinder/?p=info
 SileoDepiction: http://cydiavn.github.io/info/cylinder/?p=info
 
+Package: AnhDuy.diskprobe
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Utilities
+Maintainer: Anh Duy
+Installed-Size: 8072
+Conflicts: com.creaturecoding.diskprobe
+Filename: ./Deb/AnhDuy.diskprobe_1.0.8_iphoneos-arm.deb
+Size: 4978836
+MD5sum: c63ebda064d754b297fe7523f2c95d51
+SHA1: 0f87a3c87495c1e6d6f67ea5dcfedcc341be0364
+SHA256: 56fe5c179c3bac64515b5c35a8bcb5bc5b4b7d1dcd29fef6838fa79398cb7603
+SHA512: 3c86fd70f7ae2b4c4504bbac038ca343e19d482e269437db3cf55b872c61ad4c2f328bdf31adce008631ba435d1f398659a75254ac63f046342c7b668857c508
+Description: Quản lý bộ nhớ thiết bị của bạn và duyệt các tệp.
+Name: DiskProbe
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: http://cydiavn.github.io/info/diskprobe/?p=info
+SileoDepiction: http://cydiavn.github.io/info/diskprobe/?p=info
+
 Package: AnhDuy.dockroll
 Architecture: iphoneos-arm
 Version: 0.0.2-20
