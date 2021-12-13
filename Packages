@@ -1298,6 +1298,25 @@ ModernDepiction: https://revulate.dev/depiction/native/com.spark.crash-reporter.
 Icon: https://revulate.dev/assets/com.spark.crash-reporter/icon.png
 Author: Revulate <revulate1@gmail.com>
 
+Package: AnhDuy.cydown
+Architecture: iphoneos-arm
+Version: 7.1.6
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: ./Deb/AnhDuy.cydown_7.1.6_iphoneos-arm.deb
+Size: 4495118
+MD5sum: 6bd2c8c2a31ce23f6f42ea4453fb36bc
+SHA1: 04dc84b763d356b9026fe8097d2f8c4c8a24da65
+SHA256: 87d88ed0e89a1ad451b9d2f5ba6171f0207d17a5121220162a6ada85bbeabbef
+SHA512: 4b8b0f0db4fcfcf1fd1a9f7e0ef5fa406a1236955f6c595c962777d37ea77beefb6824561118dcd854ea47fc9fecaa01438cced2824d6e4f2a64e0435f3dd7cf
+Description: Tải xuống các chỉnh sửa miễn phí
+Name: CyDown++
+Author: Julioverne & CyPwn
+Depiction: http://cydiavn.github.io/info/Cydown/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Cydown/?p=info
+
 Package: AnhDuy.cylinder
 Architecture: iphoneos-arm
 Version: 1.0.4-1
