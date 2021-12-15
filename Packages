@@ -705,6 +705,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/MiClock/?p=info
 SileoDepiction: http://cydiavn.github.io/info/MiClocl/?p=info
 
+Package: AnhDuy.NiceBarX
+Architecture: iphoneos-arm
+Version: 1.0.1.3-16
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.NiceBarX_1.0.1.3-16_iphoneos-arm.deb
+Size: 19490
+MD5sum: 0c83f2a040be94c321d3f16390bd8add
+SHA1: fe9520161872bbe805e576eb5b282ec4a3d77220
+SHA256: ea577e4f2c0605dc35300b9a6567d7f7b71dec8076ea79276b038c6534ba4739
+SHA512: 513090f4f560d583c6839e0e81d928758d0f7a25dc131fcbc26425396c06d3a92368181a8a93ed7fe166d220a54cfbbbcdd7b6c064a95eff1a6099906b1610e2
+Description: gói tiếng việt dành cho tinh chỉnh NiceBarX
+Name: NiceBarX(ios14) gói tiếng việt
+Depiction: http://cydiavn.github.io/info/NiceBarX/?p=info
+SileoDepiction: http://cydiavn.github.io/info/NiceBarX/?p=info
+Author: Anh Duy <kiemphapngami@gmail.com>
+
 Package: AnhDuy.OdysseusHTC
 Architecture: iphoneos-arm
 Version: 1.0
