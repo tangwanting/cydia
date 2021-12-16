@@ -1711,6 +1711,26 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.loupe/icon/icon.pn
 Depiction: http://cydiavn.github.io/info/loupe/?p=info
 SileoDepiction: http://cydiavn.github.io/info/loupe/?p=info
 
+Package: AnhDuy.marie
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 944
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./Deb/AnhDuy.marie_1.0.3_iphoneos-arm.deb
+Size: 572638
+MD5sum: 110cbe96f19588092d7f8d92d0eca025
+SHA1: 38d1f86da93acc54c06ea4f7b80dc43e192310ea
+SHA256: 7b9a45c07e26c4d215d671d02a7a01253a553845e25f476afa360d226dbdbcd4
+SHA512: c76539d4fe1ecf88da0307c5de75e15d630d106025f6ef895cc82f2478f981001e41059c3e9cf4d00eb44f93f56fabe2831e5580fd2b6ddae0b328539f463c16
+Description: Đặt hình ảnh cho trình quay số, mật mã hoặc nền bảng chia sẻ một cách nhanh chóng
+Name: Marie
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
+Depiction: http://cydiavn.github.io/info/marie/?p=info
+SileoDepiction: http://cydiavn.github.io/info/marie/?p=infodepiction.json
+
 Package: AnhDuy.muffin
 Architecture: iphoneos-arm
 Version: 1.0.1
