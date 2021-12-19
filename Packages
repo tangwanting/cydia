@@ -1181,6 +1181,27 @@ Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
 Depiction: http://cydiavn.github.io/info/bioprotectxs/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bioprotectxs/?p=info
 
+Package: AnhDuy.boxy4
+Architecture: iphoneos-arm
+Version: 4.4.2
+Section: Tweaks
+Maintainer: Anh duy
+Installed-Size: 3636
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Filename: ./Deb/AnhDuy.boxy4_4.4.2_iphoneos-arm.deb
+Size: 3025260
+MD5sum: 9fd73da3744c519df83372ea766695c4
+SHA1: b53197906e952bd3e344e6ece370c08b5dd0f173
+SHA256: c8ac210e077c050dbfeaea27bc2ce2e872372adfa47a491e3f5a58cc3b634e4d
+SHA512: 2d6688678c749e26abca89a8b3a39407f4159d29a38631919371d79954ae0143f28803d13bb06894a0df4b8eb9cd195b75acf888209d077db3457b0fb437a27b
+Homepage: https://repo.packix.com/package/com.irepo.boxy4/
+Description: Điều chỉnh bố cục trên màn hình chính
+Name: Boxy 4 (iOS 13 - 14)
+Author: William Vabrinskas
+Depiction: http://cydiavn.github.io/info/boxy4/?p=info
+SileoDepiction: http://cydiavn.github.io/info/boxy4/?p=info
+
 Package: AnhDuy.bugslifewidgetmod
 Architecture: iphoneos-arm
 Version: 1.0
