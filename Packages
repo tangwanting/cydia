@@ -671,6 +671,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
+Package: AnhDuy.LStet
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.LStet_1.0_iphoneos-arm.deb
+Size: 13073860
+MD5sum: a85e937392c8dc09e44b7bf6cda931b7
+SHA1: 306e8523f1e60ae8ecbc3eeb273938f3c6dfe24d
+SHA256: dfbae4a25c50b1f456beb9285ab33d44bb9792e6e455a7a51de0cefde3a9d838
+SHA512: 296ae4b743239df88bf2437549372d133d12eb52fe1c67036e402432c4f3cc4e4baf0a15e8d72267018a1d1b666f586226cc9b2e6024db253216327ff106f4f7
+Description: Widget for Xen Html
+Name: LS tết
+Author: AnhDuy & vothimynhu
+Depiction: http://cydiavn.github.io/info/LStet/?p=info
+SileoDepiction: http://cydiavn.github.io/info/LStet/?p=info
+
 Package: AnhDuy.MeanGreenMachine
 Architecture: iphoneos-arm
 Version: 1.0
