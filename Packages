@@ -673,15 +673,15 @@ SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
 Package: AnhDuy.LStet12pm
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.LStet12pm_1.0_iphoneos-arm.deb
-Size: 13074136
-MD5sum: eb464d683be37100d200f48d97743223
-SHA1: 9a1e7b615202599929e0f98a3a62501c23384495
-SHA256: b0d53101d359563608e434b00a163693a29a1b67e97d9e7e04b38ac8a5d2993a
-SHA512: 604306168b3be70ea0af9beb4faeec3cc2f1ca60dfe324fdb316d75759643f5cbe0418c13a5815c3a4bddd60fa4d0dd420d993ef4bef3a79842f4a2b225bd167
+Filename: ./Deb/AnhDuy.LStet12pm_1.0.1_iphoneos-arm.deb
+Size: 28185050
+MD5sum: 5e10f5f0c38b34f9f2cbef0fd7f9538c
+SHA1: 29177aad80b261d9fa969e7df91978db495eba64
+SHA256: 93ed612a029ac277c7ed99a95bfe9ccde5ed5404dab8e4463c24a97794928606
+SHA512: f7a2d845c45b10a9ff269f5d2a15637e777bfbda531bce8202b6ec7852ad20c50bcef36b40b7ed35c12eb2d31d17a993136d79c969e8fc389a9f49bf2337c33f
 Description: Tiện ích cho Xen Html
 Name: LS tết 12pm
 Author: AnhDuy & vothimynhu
