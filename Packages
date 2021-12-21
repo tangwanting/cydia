@@ -671,6 +671,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
+Package: AnhDuy.LStet12pm
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.LStet12pm_1.0_iphoneos-arm.deb
+Size: 13074136
+MD5sum: eb464d683be37100d200f48d97743223
+SHA1: 9a1e7b615202599929e0f98a3a62501c23384495
+SHA256: b0d53101d359563608e434b00a163693a29a1b67e97d9e7e04b38ac8a5d2993a
+SHA512: 604306168b3be70ea0af9beb4faeec3cc2f1ca60dfe324fdb316d75759643f5cbe0418c13a5815c3a4bddd60fa4d0dd420d993ef4bef3a79842f4a2b225bd167
+Description: Tiện ích cho Xen Html
+Name: LS tết 12pm
+Author: AnhDuy & vothimynhu
+Depiction: http://cydiavn.github.io/info/LStet12pm/?p=info
+SileoDepiction: http://cydiavn.github.io/info/LStet12pm/?p=info
+
 Package: AnhDuy.LStet
 Architecture: iphoneos-arm
 Version: 1.0
