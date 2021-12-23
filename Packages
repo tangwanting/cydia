@@ -433,6 +433,22 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ErwinLSDO/?p=info
 
+Package: AnhDuy.ExtraSL33kChristmas
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.ExtraSL33kChristmas_1.0_iphoneos-arm.deb
+Size: 35027154
+MD5sum: 872dc1bb3fd771eb1281e463d7053c64
+SHA1: 80abb741ecf171a512e42e3cb870ea526a019e49
+SHA256: 1b4e24f7c84bbaac9dff72005e38e06d2774bce03aac8774f351a3b20fc7f5ee
+SHA512: 251f2e284d6860542787db18ff23b2563091f379a99538dadfbbc9e9943512195c359bf550ce3e294c07ee28d73bef86e063aeea878b63aae1a46fdcf3ae17ff
+Description: Gói phụ bổ sung cho chủ để SL33k Christmas
+ - Gói này là phần bổ sung biểu tượng còn thiếu cho theme SL33k Christmas
+Name: ExtraSL33kChristmas
+Author: Ther Giver
+
 Package: AnhDuy.F311SB
 Architecture: iphoneos-arm
 Version: 1.0
@@ -806,6 +822,27 @@ Name: Odysseus HTC
 Author: @gearofwarsJlam
 Depiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 SileoDepiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
+
+Package: AnhDuy.SL33kChristmas
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh duy
+Depends: AnhDuy.ExtraSL33kChristmas
+Filename: ./Deb/AnhDuy.SL33kChristmas_1.0_iphoneos-arm.deb
+Size: 39057422
+MD5sum: e5ae3006652ef6250cc5bac065efffd5
+SHA1: 158d963e01b9ef13d321285172c960af38ba621e
+SHA256: 0c3a74ae7fb4c3ef96aec860ff57cf01095f6a6705911da4194a63f8e6f963b3
+SHA512: 964cae803d9ef677fe9312a9e6b5e046f8c575052e56abc9e600f25f6b9e52b44d861d13ec09f6b96c7972e74577ae5e4cbbf6125630a3125bff8a4060f39d94
+Description: Chủ đề màu sắc
+ - Hoạt động trên SnowBoard. iThemer. Anemone. Iconomatic
+ - Gói bao gồm: 280 biểu tượng, 6 AE, 3 Badge, 1 chấm trang, 1 dock, bàn phím gọi và pass, v.v...
+ + Lần đầu phát hành
+Name: SL33k Christmas
+Author: Ther Giver
+Depiction: http://cydiavn.github.io/info/SL33kChristmas/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SL33kChristmas/?p=info
 
 Package: AnhDuy.SemiRestore
 Architecture: iphoneos-arm
@@ -2109,23 +2146,6 @@ Author: IArrays <support@iarrays.com>
 Icon: file:////Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
 Depiction: http://cydiavn.github.io/info/simplus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/simplus/?p=info
-
-Package: AnhDuy.sl33k
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Themes
-Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.sl33k_1.0_iphoneos-arm.deb
-Size: 74082224
-MD5sum: e9ff1f090808ec66da08aaf21a554f11
-SHA1: 504f7b126e738c2e14df9dbd2fc0802c605e2dd4
-SHA256: 91322a6136ee615b74384d44927ecc45571f1d9ddecd5e827ebe5f3d00b59eaf
-SHA512: 86cc05fe52778057ef38a8196273255a04ae3c5cc79d2f544ac87cbf68f03c90274cafce6961a5a5bec8ba5091a2df1329f6a0e4b4fe4bfa4c19b63394503705
-Description: sl33k Theme for IOS8 - IOS15.x
-Depiction: http://cydiavn.github.io/info/sl33k/?p=info
-SileoDepiction: http://cydiavn.github.io/info/sl33k/?p=info
-Name: iDer
-Author: The Giver
 
 Package: AnhDuy.sleepizy2
 Architecture: iphoneos-arm
