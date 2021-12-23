@@ -2110,6 +2110,23 @@ Icon: file:////Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.pn
 Depiction: http://cydiavn.github.io/info/simplus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/simplus/?p=info
 
+Package: AnhDuy.sl33k
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.sl33k_1.0_iphoneos-arm.deb
+Size: 74082224
+MD5sum: e9ff1f090808ec66da08aaf21a554f11
+SHA1: 504f7b126e738c2e14df9dbd2fc0802c605e2dd4
+SHA256: 91322a6136ee615b74384d44927ecc45571f1d9ddecd5e827ebe5f3d00b59eaf
+SHA512: 86cc05fe52778057ef38a8196273255a04ae3c5cc79d2f544ac87cbf68f03c90274cafce6961a5a5bec8ba5091a2df1329f6a0e4b4fe4bfa4c19b63394503705
+Description: sl33k Theme for IOS8 - IOS15.x
+Depiction: http://cydiavn.github.io/info/sl33k/?p=info
+SileoDepiction: http://cydiavn.github.io/info/sl33k/?p=info
+Name: iDer
+Author: The Giver
+
 Package: AnhDuy.sleepizy2
 Architecture: iphoneos-arm
 Version: 1.1
