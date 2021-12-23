@@ -1711,6 +1711,29 @@ SileoDepiction: http://cydiavn.github.io/info/hideserialnumber/?p=info
 dev: ichitaso
 Icon: file:///Library/PreferenceBundles/HideSerialSettings.bundle/icon@2x.png
 
+Package: AnhDuy.hideserialnumber
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 352
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./Deb/AnhDuy.hideserialnumber_0.0.2_iphoneos-arm.deb
+Size: 71358
+MD5sum: 188288224a17c97960f0e02b6f78b8e8
+SHA1: 9109c70dcd7020a94e4996fdf305b244ecd1a637
+SHA256: 95297c0994f34b75d3a58601b3d4618320696047c00aa7a270b1c4192819516c
+SHA512: 344c52362097b36fa3ed441876f8a4ba227bcbb6778706dec0926c3447815f79810743650d76bf78ea7892fc4c2ed8209a84f703a8e9c2bf7ed75d79cd477b17
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+Description: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: HideSerialNumber
+Depiction: http://cydiavn.github.io/info/hideserialnumber/?p=info
+SileoDepiction: http://cydiavn.github.io/info/hideserialnumber/?p=info
+dev: ichitaso
+Icon: file:///Library/PreferenceBundles/HideSerialSettings.bundle/icon@2x.png
+
 Package: AnhDuy.homepluspro
 Architecture: iphoneos-arm
 Version: 2.4.0-alpha3
