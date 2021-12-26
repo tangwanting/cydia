@@ -398,6 +398,23 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/DubsiWModernHTC/?p=info
 SileoDepiction: http://cydiavn.github.io/info/DubsiWModernHTC/?p=info
 
+Package: AnhDuy.EliseAtt57
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.EliseAtt57_1.0_iphoneos-arm.deb
+Size: 11541426
+MD5sum: 9c5d7f6d81ed85c07101fa27f391dcc4
+SHA1: 38799234cd008fa500f1c3869cdefd97afbab32c
+SHA256: 0f8344a2928c19bbf20db71c97dff0a0f5a1277f20d00d15f781028e310bcd55
+SHA512: 410ebbb52f635021377f0a6cee3346fcb0289e600f79b5f80ab562bc35ccd9de6bb57b857e1a57e5583923420904ce4dca7d3ca6739ee2b77d23ea421ca74846
+Description: Widget for Xen Html
+Name: EliseAtt57_HS_UniAW_BAW
+Author: Att57
+Depiction: http://cydiavn.github.io/info/EliseAtt57/?p=info
+SileoDepiction: http://cydiavn.github.io/info/EliseAtt57/?p=info
+
 Package: AnhDuy.EraWhiteflatSBwidget
 Architecture: iphoneos-arm
 Version: 1.1-1
