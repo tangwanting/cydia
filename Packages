@@ -823,6 +823,23 @@ Author: @gearofwarsJlam
 Depiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 SileoDepiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 
+Package: AnhDuy.SB22NR
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.SB22NR_1.0_iphoneos-arm.deb
+Size: 1481996
+MD5sum: fca5e1d7921aa82a01af6b07fda801a4
+SHA1: 4a53763b0733dc75b67be9d9c08c446b521a1bc5
+SHA256: c37ab829da748d30bcc42ad9bab6a55c8e754c23c420294740fa99e91f9c2be4
+SHA512: 05302b5fa3eb4be068469170aab089a9e675727f5f1990d686609abd9efb40b3e14c5f6b1433a2c530fc6647ca873c8e90be5a705daa0b89dcb1440a529d5853
+Description: tiện cho Xen Html
+Name: SB22 NR
+Author: Shefumaster
+Depiction: http://cydiavn.github.io/info/SB22NR/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SB22NR/?p=info
+
 Package: AnhDuy.SL33kChristmas
 Architecture: iphoneos-arm
 Version: 1.0
