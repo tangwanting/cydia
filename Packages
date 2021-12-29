@@ -2044,6 +2044,23 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: http://cydiavn.github.io/info/Orion/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Orion/?p=info
 
+Package: AnhDuy.owl
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.owl_1.0_iphoneos-arm.deb
+Size: 1580928
+MD5sum: 0ece97425ba432137a3e4d088eb449c0
+SHA1: 724bb96fa6a76bafe157b894ec3405e74a1457f7
+SHA256: b8ebb5ae462a36a0c537af5935f9a15cb2d208648440efee97c389dc37393c80
+SHA512: 96bff3a959502af96817b440955880563984b4d18659a78be9a507bfad6f8522d41968218db786b27046cd526f9ca08b63098594f07de48effb52b0712d6d944
+Description: Widget cho Xen Html
+Name: owl
+Author: AboAbdullah
+Depiction: http://cydiavn.github.io/info/owl/?p=info
+SileoDepiction: http://cydiavn.github.io/info/owl/?p=info
+
 Package: AnhDuy.peepreborn
 Architecture: iphoneos-arm
 Version: 1.1
