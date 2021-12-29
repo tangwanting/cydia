@@ -1934,15 +1934,15 @@ SileoDepiction: http://cydiavn.github.io/info/letmeknow/?p=info
 
 Package: AnhDuy.lotus
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: Themes
 Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.lotus_1.0_iphoneos-arm.deb
-Size: 4730494
-MD5sum: 994bdbfc1d42720dceb3d04f2c1e3e89
-SHA1: 1ac30499aa106f8f94c2bbf328abdbcbbddd2afa
-SHA256: 2f2c1418d62189457eae6ee52145425e851feb5639f7f7f1c939f35bd37136a0
-SHA512: d4ab449a587bdf4db6ede291e972f23c1230ab9276cb76d607da995c22225d8667b86b8741d0f7d73845450296f4c7cf8d0572ff5291a144ccb8d7ea7c88b051
+Filename: ./Deb/AnhDuy.lotus_1.1_iphoneos-arm.deb
+Size: 5707262
+MD5sum: 7f869c08036f7164acadee59e95935ce
+SHA1: dd774de18510c5bb19b645c3321bd0984ae65bca
+SHA256: f5771336e0041b1baf3528710109cb6bb19d2958006574b57aa9c94db593918e
+SHA512: fb7b5f91b38dfd4b457f59176e2a66a6520ea2a6c9c87c0634a3d46eb255e163894abab0d17ca0a4304ce23861f27a13129384773e369ee8c5274dd90e72528e
 Description: Chủ đề lotus cho IOS8 - IOS14.x
 Depiction: http://cydiavn.github.io/info/lotus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/lotus/?p=info
