@@ -1699,6 +1699,28 @@ Author: Litten
 Depiction: http://cydiavn.github.io/info/eneko/?p=info
 SileoDepiction: http://cydiavn.github.io/info/eneko/?p=info
 
+Package: AnhDuy.eqe
+Architecture: iphoneos-arm
+Version: 2.2.2-1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 16615
+Depends: firmware (<< 16), mobilesubstrate, coreutils
+Filename: ./Deb/AnhDuy.eqe_2.2.2-1_iphoneos-arm.deb
+Size: 7947884
+MD5sum: 7db04f6c5c8269f67fee302dfdad3210
+SHA1: d61b4399656668814abf46935858e6e85189fe25
+SHA256: b35a1f752dd621035e25c1915bc2fe74b338d4a607c91735dfd045df30629cf8
+SHA512: d070dc3ad801a4c496c476d216af31204004f715ffb1f95730ec1423c09311d3d7d90a93f49693e47e41083b72428760e9be5705f17e643d90d73804525d1b4c
+Description: Bộ cân bằng tham số âm nhạc
+Tag: purpose::extension
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Name: EQE
+Depiction: http://cydiavn.github.io/info/eqe/?p=info
+SileoDepiction: http://cydiavn.github.io/info/eqe/?p=info
+dev: rweichler
+Icon: file:///Library/Activator/Listeners/com.r333d.eqe.popup/icon-small@2x.png
+
 Package: AnhDuy.exacttime
 Architecture: iphoneos-arm
 Version: 2.0-1
