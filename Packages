@@ -1938,11 +1938,11 @@ Version: 1.1
 Section: Themes
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.lotus_1.1_iphoneos-arm.deb
-Size: 5707262
-MD5sum: 7f869c08036f7164acadee59e95935ce
-SHA1: dd774de18510c5bb19b645c3321bd0984ae65bca
-SHA256: f5771336e0041b1baf3528710109cb6bb19d2958006574b57aa9c94db593918e
-SHA512: fb7b5f91b38dfd4b457f59176e2a66a6520ea2a6c9c87c0634a3d46eb255e163894abab0d17ca0a4304ce23861f27a13129384773e369ee8c5274dd90e72528e
+Size: 5585150
+MD5sum: f551f06107ba00492cad141598efdeeb
+SHA1: 5c1b8fd67e6194d13ff910c3eb641bbce7ba702f
+SHA256: e6ddb4cecad34f9e796886ab232770cacaa7810b63deca23a361df39c872dbf6
+SHA512: 908340625dd985fb2c4161270ab3b76ae9791924b423bbb9806c3ee54ec98f4804140af8eab6681456942ced1ad8f76061bc97c60db3ab47be7487140f57d5ae
 Description: Chủ đề lotus cho IOS8 - IOS14.x
 Depiction: http://cydiavn.github.io/info/lotus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/lotus/?p=info
