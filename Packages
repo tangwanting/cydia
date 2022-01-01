@@ -1998,35 +1998,16 @@ Version: 1.2
 Section: Themes
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.lotus_1.2_iphoneos-arm.deb
-Size: 7984292
-MD5sum: e5f7bd0ffa813d1a680a06ad0524cf8f
-SHA1: a06d77868fb7c29f60a64fafb55764eefbed5fae
-SHA256: 6d7b32b5c1342aaf802591f7f16b56fb6064d53954717e1cca2b7f9bbc0eb63b
-SHA512: 2c80d3df14049abd839ac98ce35e5a9d50693f4f0c099283d37791801b1c7e9b50e7536d69c00424e7ce8ad8e50ec0b81fcc6e2e869cea5b169d409a2d61a01d
+Size: 7984462
+MD5sum: f8577f80f4863d30394070b01fdfab74
+SHA1: 9b9724f7ac5b3c91788c7216f88230464858c0a0
+SHA256: 094023f0aa63e631c3eb29698c6fb079a13f07d4c36861712dd43289da702c5b
+SHA512: 94c47677e37fb01a33b42453ceb55e0b86c370ae4c58a6c5ff4e86cca6e58f1d3a91426707613d8b6b556974d5949a0206e2412452f9054f43cd5a3bc931489a
 Description: Chủ đề lotus cho IOS8 - IOS14.x
 Depiction: http://cydiavn.github.io/info/lotus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/lotus/?p=info
 Name: lotus
 Author: @XaBdooox
-
-Package: AnhDuy.loupe
-Architecture: iphoneos-arm
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=13.0), com.opa334.altlist
-Filename: ./Deb/AnhDuy.loupe_1.2.1_iphoneos-arm.deb
-Size: 69288
-MD5sum: 5a5a908b13db332a6df772e97c692526
-SHA1: c27f0f470008be4519c7ddd87488f371b3ccf1b9
-SHA256: dcdbe3d17dbe8ff1815aaaae1fedc921bd83f043e708f964ee453f4081e013fe
-SHA512: 1355127a1379bf58b949b9c43c57f90f6a37057b79b2e3832f5a3a4f71c4f67059258bdee46df8b48075b25991b3df5546c56f8bb6f8cbeda286befd6eb64b12
-Description: Kính lúp cho các trường văn bản
-Name: Loupe
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.loupe/icon/icon.png
-Depiction: http://cydiavn.github.io/info/loupe/?p=info
-SileoDepiction: http://cydiavn.github.io/info/loupe/?p=info
 
 Package: AnhDuy.marie
 Architecture: iphoneos-arm
