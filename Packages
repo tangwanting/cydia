@@ -1992,6 +1992,23 @@ SileoDepiction: http://cydiavn.github.io/info/lotus/?p=info
 Name: lotus
 Author: @XaBdooox
 
+Package: AnhDuy.lotus
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.lotus_1.2_iphoneos-arm.deb
+Size: 7984292
+MD5sum: e5f7bd0ffa813d1a680a06ad0524cf8f
+SHA1: a06d77868fb7c29f60a64fafb55764eefbed5fae
+SHA256: 6d7b32b5c1342aaf802591f7f16b56fb6064d53954717e1cca2b7f9bbc0eb63b
+SHA512: 2c80d3df14049abd839ac98ce35e5a9d50693f4f0c099283d37791801b1c7e9b50e7536d69c00424e7ce8ad8e50ec0b81fcc6e2e869cea5b169d409a2d61a01d
+Description: Chủ đề lotus cho IOS8 - IOS14.x
+Depiction: http://cydiavn.github.io/info/lotus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/lotus/?p=info
+Name: lotus
+Author: @XaBdooox
+
 Package: AnhDuy.loupe
 Architecture: iphoneos-arm
 Version: 1.2.1
