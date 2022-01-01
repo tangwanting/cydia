@@ -1553,6 +1553,26 @@ Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: http://cydiavn.github.io/info/cylinder/?p=info
 SileoDepiction: http://cydiavn.github.io/info/cylinder/?p=info
 
+Package: AnhDuy.cyrch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 168
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./Deb/AnhDuy.cyrch_1.0_iphoneos-arm.deb
+Size: 15342
+MD5sum: 777e4ab8cabfddbc1cedcafd09582771
+SHA1: ff300b4ad796ffa58fd54bf3a89eb1e0efa3d766
+SHA256: e3f3ee03d306dcbab94e563331c1f7e30d86a67d4caa680e1a56edd8f8dae264
+SHA512: 9efdbd7ef1d2e3e86a2f273291444fe85a68b91390700d82b9273bf3fdc22c0aaf0df0ef5a548baa4b59ee119058babcfdaed6b28603f89844dd2861820aea8f
+Description: Thêm thanh tìm kiếm vào tab Nguồn của Cydia.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: Cyrch
+Depiction: http://cydiavn.github.io/info/cyrch/?p=info
+SileoDepiction: http://cydiavn.github.io/info/cyrch/?p=info
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: AnhDuy.diskprobe
 Architecture: iphoneos-arm
 Version: 1.0.8
