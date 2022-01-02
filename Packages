@@ -1346,11 +1346,11 @@ Installed-Size: 2027
 Depends: mobilesubstrate, preferenceloader, ru.rejail.limneosos
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./Deb/AnhDuy.bioprotectxs_4.5-19_iphoneos-arm.deb
-Size: 829400
-MD5sum: 7df003ca223e4ee3c04e3c97e9579c8b
-SHA1: 19275f1f3fd9fad54fdbe021bdc96206900aa9a2
-SHA256: ec9323d08308217ce96110d2a2b557f0c377a0e091f5d377d7ed240f286b6293
-SHA512: 6e32ad9667b6cf2adf35800b63f5b6ae757e58b563ab7cc76a271511504330905b0849087b9908a948dd7342207c75f19151ea986a7151366c9448163d8189b6
+Size: 833646
+MD5sum: fe5f0012c9ceb161923d5709eb37dd66
+SHA1: a7a3fea5e15e032bb3e4b506a78c167ede84596a
+SHA256: 9eb6e7b0fd3ac7313d1f6d62e82aa483458c554eefecc0c009ecc3e87f94a68d
+SHA512: 7c53fe58380f6a85b9aa1fbcc74a1bf5d7adb867a5c942cc56dac4e8f180f55bff1517a3611742af6d29ead11a100c9a7fcc3ddc51c7b1791df5787133787bd5
 Description: Bảo vệ ứng dụng của bạn bằng Touch & Face ID
 Name: BioProtect XS (iOS 12/13/14)
 Author: Elias Limneos <limneoselias@gmail.com>
