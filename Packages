@@ -1232,11 +1232,11 @@ Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions,
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Filename: ./Deb/AnhDuy.audiorecorderxs_3.7-43_iphoneos-arm.deb
-Size: 1755824
-MD5sum: 3f5e32f5e77f9b2795f2b80000ed6a84
-SHA1: aa89a929d55e8e75f0106ae293dc14808c3a2f7f
-SHA256: d773a2f8a2e888d956fe2e70b5456f3daad2b10347fed6e6bb1ffc67f3a1ac0a
-SHA512: 0772fdd243447bc3d2917556348e5cca334f8cf0ba306c200a192ba89fbf1e66fded96639ae11692d0705c33305e2b3ce76df6c3c1aa5782874d7e3b5fa325c9
+Size: 5278712
+MD5sum: 463b6fe0d6a8e19858f3619983474b66
+SHA1: 657d4e1e1396793b20b835a4cf0d51ba5be5e0d7
+SHA256: 11134ad9d128b8aba7134771de3e996c284dd6e55363bdbe8dfe5f62cdfb11f1
+SHA512: 55342eb7d0c14adbc91b906475b405289f97e893b7fa621d7ed482253d90d494f386d75b7e56c135c8b963957b4ede686b234caff7423de71dc9525d0028cb7c
 Description: Ghi âm tất cả các cuộc gọi thoại của bạn
 Name: AudioRecorder XS (iOS 12/13/14)
 Author: Elias Limneos <limneoselias@gmail.com>
