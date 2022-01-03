@@ -2815,6 +2815,26 @@ Author: sugiuta
 Depiction: http://cydiavn.github.io/info/libkuromi/?p=info
 SileoDepiction: http://cydiavn.github.io/info/libkuromi/?p=info
 
+Package: com.sugiuta.nanobanners
+Architecture: iphoneos-arm
+Version: 0.2.1-1+debug
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0), ws.hbang.alderis, com.sugiuta.libkuromi
+Filename: ./Deb/com.sugiuta.nanobanners_0.2.1-1+debug_iphoneos-arm.deb
+Size: 91472
+MD5sum: 34e8f1defefc4f523bd6abf718d21eb2
+SHA1: 1bd74d044e72d6c47f8e0e716bc338d95a05279b
+SHA256: 27a2d9337bc15e563394f585b80b13ce4c8009a8ed37029418b357355364fde6
+SHA512: 42e2d26ad746f0f999c01f060c96b4a7d78c6806b7c1940e68067c3d72af098737402c61b2e48edaf03b217547b93dee381a9a87adad518d3bbe1809612ceaea
+Description: Biểu ngữ thông báo nhỏ cho iOS 14
+Name: Nanobanners (Sugiuta)
+Depiction: http://cydiavn.github.io/info/nanobanners/?p=info
+SileoDepiction: http://cydiavn.github.io/info/nanobanners/?p=info
+Author: Nepeta & Sugiuta
+Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
+
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
