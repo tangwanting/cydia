@@ -1802,6 +1802,26 @@ Depiction: http://cydiavn.github.io/info/fancyselection/?p=info
 SileoDepiction: http://cydiavn.github.io/info/fancyselection/?p=infodepictions/?p=com.miro.tranzlo
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: AnhDuy.fbfreeze
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 1176
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.15), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11)
+Filename: ./Deb/AnhDuy.fbfreeze_2.0_iphoneos-arm.deb
+Size: 416154
+MD5sum: 9fc04f1f031c7a2dc4ae104f9d767263
+SHA1: 24e8be479408ca36f5f3ca9390d4fe5a13527b28
+SHA256: 6eb287b1f5ca1824aeadcd3122240bdaf67699fa698fd2be5d54d3077755b942
+SHA512: f5ef03ae736a5b7c2cdfb144a7b5152a948fc7faa4523057e24176ae94b08eb5f6c9a028e2255b4ddad338e8b26404da6e483cb7c6a72d30e6fa7213aef74e7f
+Description: Tắt đã xem cho tin nhắn trên ứng dụng Facebook Messenger.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: FBFreeze
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: http://cydiavn.github.io/info/fbfreeze/?p=info
+SileoDepiction: http://cydiavn.github.io/info/fbfreeze/?p=info
+
 Package: AnhDuy.fingerlock
 Architecture: iphoneos-arm
 Version: 2.0.3
