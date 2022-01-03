@@ -2094,13 +2094,13 @@ Maintainer: Anh Duy
 Installed-Size: 444
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0), ws.hbang.alderis, com.sugiuta.libkuromi
 Filename: ./Deb/AnhDuy.nanobanners_0.2.1-1_iphoneos-arm.deb
-Size: 91440
-MD5sum: 31110651b90f30724537932409c9123e
-SHA1: a4fc7eb207f4a719eaf8f3152056a59a8eea435a
-SHA256: cf310fd8ed0931706417c74690a8720df1e281349e9bdf623ebd3a650d05f81c
-SHA512: 6390e2e22c50d3b326e4ab27989737c8fa3c31fcdca65b79192032a07973e43168e1538d2a4bef7f51263ee016e95e68a9729ec3736dfb910362cba8f78669a0
+Size: 91446
+MD5sum: 2f40761b4b3d2a3ea34df1e65103e96e
+SHA1: 6af0e0c5fd15c9af6ec4a649138942406fd8c8a2
+SHA256: 2f7eb7ab46feceeccb2f13055849b7216012c9048bb491d473002c247445a8d2
+SHA512: ca2745aa3032000818670920d622398d8e6d7d81fcf8eadc2984e2c304605d62f035f336cf0bd6852b9729d659942a370cf70cffd5df608c9c42ff664b645df9
 Description: Thu nhỏ biểu ngữ thông báo cho iOS 14.
-Name: Nanobanners
+Name: Nanobanners việt nam
 Author: Nepeta & Sugiuta
 Depiction: http://cydiavn.github.io/info/nanobanners/?p=info
 SileoDepiction: http://cydiavn.github.io/info/nanobanners/?p=info
