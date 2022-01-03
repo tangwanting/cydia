@@ -2086,6 +2086,25 @@ SileoDepiction: http://cydiavn.github.io/info/muffin/?p=info
 Name: muffin dark
 Author: @OuniDesigns
 
+Package: AnhDuy.nanobanners
+Architecture: iphoneos-arm
+Version: 0.2.1-1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 14.0), ws.hbang.alderis, com.sugiuta.libkuromi
+Filename: ./Deb/AnhDuy.nanobanners_0.2.1-1_iphoneos-arm.deb
+Size: 91440
+MD5sum: 31110651b90f30724537932409c9123e
+SHA1: a4fc7eb207f4a719eaf8f3152056a59a8eea435a
+SHA256: cf310fd8ed0931706417c74690a8720df1e281349e9bdf623ebd3a650d05f81c
+SHA512: 6390e2e22c50d3b326e4ab27989737c8fa3c31fcdca65b79192032a07973e43168e1538d2a4bef7f51263ee016e95e68a9729ec3736dfb910362cba8f78669a0
+Description: Thu nhỏ biểu ngữ thông báo cho iOS 14.
+Name: Nanobanners
+Author: Nepeta & Sugiuta
+Depiction: http://cydiavn.github.io/info/nanobanners/?p=info
+SileoDepiction: http://cydiavn.github.io/info/nanobanners/?p=info
+
 Package: AnhDuy.onenotify
 Architecture: iphoneos-arm
 Version: 1.3.2
@@ -2795,6 +2814,25 @@ Name: libPDDokdo
 Depiction: http://cydiavn.github.io/info/libpddokdo/?p=info
 SileoDepiction: http://cydiavn.github.io/info/libpddokdo/?p=info
 Author: Soongyu Kwon
+
+Package: com.sugiuta.libkuromi
+Architecture: iphoneos-arm
+Version: 0.0.9
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 280
+Filename: ./Deb/com.sugiuta.libkuromi_0.0.9_iphoneos-arm.deb
+Size: 27612
+MD5sum: 84bba7a181b96f887b18d53f9b6f8eb5
+SHA1: 0b5811c3e499ef8be64d14d3374a07ff78d52abc
+SHA256: 064952b617a109dfa34c80a37ea100bd1febc5925afff55783409ef16aa44bee
+SHA512: 86e55fa2d091d31fad9d01a15d362a45c87109d39e1495dcb85ef3dab5d21c0713865aa2ecd938aa9f3d76b4233ac6b3b7b45999ee87358b33e1298738440b53
+Description: Sugiuta's library.
+Tag: role::developer
+Name: libKuromi
+Author: sugiuta
+Depiction: http://cydiavn.github.io/info/libkuromi/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libkuromi/?p=info
 
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
