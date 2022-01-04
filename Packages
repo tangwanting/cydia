@@ -1165,6 +1165,25 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/Weathericon/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Weathericon/?p=info
 
+Package: AnhDuy.afsound
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 1256
+Depends: mobilesubstrate, co.azozzalfiras.azflibrary (>= 3.2)
+Filename: ./Deb/AnhDuy.afsound_1.0_iphoneos-arm.deb
+Size: 374390
+MD5sum: 2d87bb737586608930506a8cbbcc7da7
+SHA1: 57ac455dcd9af088a92b613c8f1dd8b8b575e4c7
+SHA256: 8a48cbddda18b5d9bdb2e76d6db8fabda8365071f557300c29c32129102fa56d
+SHA512: 3f1c145207d90e50509459aa8b0f973e43908edee57442de9c5dac1be7cfa3ba34d11e4b6eca0ae800fee963c7c29d21401e66e0f8aa186bc44396924e52dc4d
+Description: Tải về và nhập âm nhạc làm nhạc chuông!
+Name: AFSound
+Author: Azozz ALFiras
+Depiction: http://cydiavn.github.io/info/afsound/?p=info
+SileoDepiction: http://cydiavn.github.io/info/afsound/?p=info
+
 Package: AnhDuy.animations
 Architecture: iphoneos-arm
 Version: 1.0
