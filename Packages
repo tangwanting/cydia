@@ -1184,6 +1184,24 @@ Author: Azozz ALFiras
 Depiction: http://cydiavn.github.io/info/afsound/?p=info
 SileoDepiction: http://cydiavn.github.io/info/afsound/?p=info
 
+Package: AnhDuy.amthanhzalo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 1256
+Filename: ./Deb/AnhDuy.amthanhzalo_1.0_iphoneos-arm.deb
+Size: 42386
+MD5sum: 428fb7aba36fd568f4b752e750c584bb
+SHA1: 5d2ffbf382a869459ef438fb82cc2fd4e6c6f1db
+SHA256: 04114806e85ccc4301a6fbefe811086aa600e635e7b0bf35a31deb03eafedfd2
+SHA512: cdc5e7ad385d4814556f62baf402bd26b6fa30386ce510a7ab46d9eb9762480a382bae5640f974e3a00bfa15de569ad9855c84d41db0361865c3b5af334f0c0d
+Description: thay đổi âm thanh tin nhắn zalo
+Name: ChatSound
+Author: unknown
+Depiction: http://cydiavn.github.io/info/amthanhzalo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/amthanhzalo/?p=info
+
 Package: AnhDuy.animations
 Architecture: iphoneos-arm
 Version: 1.0
