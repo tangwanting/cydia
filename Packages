@@ -2731,6 +2731,25 @@ Icon: https://repo.menushka.ca/assets/ca.menushka.menushkaprefs/icon.png
 Depiction: http://cydiavn.github.io/info/menushkaprefs/?p=info
 SileoDepiction: http://cydiavn.github.io/info/menushkaprefs/?p=info
 
+Package: co.azozzalfiras.azflibrary
+Architecture: iphoneos-arm
+Version: 3.2
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 1652
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Deb/co.azozzalfiras.azflibrary_3.2_iphoneos-arm.deb
+Size: 540756
+MD5sum: c7bd4bbbea49fa518ba88b19a1294b4f
+SHA1: 056cf27d1f0f4a1408497b633ff29fb4e418f286
+SHA256: 36b26214787be91f011446a56c8eb080adba72a3b45f0350a8a7e1f18e55f4cd
+SHA512: a87fbcfe714b955c7d476ff5c56011bfbd9d0618854c3036857ae3d07108d88720ac7ed3074dababf435da5f9ebf6446ff0c2eaeb409a958e445e56eff4a9bdb
+Description: Azozz ALFiras
+Name: azfLibrary
+Author: Azozz ALFiras
+Depiction: http://cydiavn.github.io/info/azflibrary/?p=info
+SileoDepiction: http://cydiavn.github.io/info/azflibrary/?p=info
+
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm
 Version: 0.1-9
