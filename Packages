@@ -1333,6 +1333,24 @@ Name: Barmoji
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 SileoDepiction: http://cydiavn.github.io/info/barmoji/?p=info
 
+Package: AnhDuy.batteryinfo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.batteryinfo_1.0_iphoneos-arm.deb
+Size: 28706
+MD5sum: dd095378545efcb7a07ee97bffb181bb
+SHA1: 29f5a50e8fbf0c9a76502f852f048212ea2171ab
+SHA256: 4c2018baf8eddd6675df43a444abd2d69416805fcfc15e2f9c8019a7f12f8b48
+SHA512: 4a21502c8c6e0c5fc8724432d17a201eb58195f9bdf49e0ba739932d18c377f3494e68ee2c735b7e88988a26d994aefd850d6ab7b45ae619836cf3daacc5412b
+Description: Nhấn vào biểu tượng pin để hiện thông tin pin!
+Name: BatteryInfo
+Author: nqt1195
+Depiction: http://cydiavn.github.io/info/batteryinfo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/batteryinfo/?p=info
+
 Package: AnhDuy.bigsnooze
 Architecture: iphoneos-arm
 Version: 1.0
