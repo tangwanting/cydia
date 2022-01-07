@@ -1258,6 +1258,27 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
 SileoDepiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
 
+Package: AnhDuy.audiorecorderxs
+Architecture: iphoneos-arm
+Version: 3.8-12
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 22808
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), ru.rejail.limneosos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./Deb/AnhDuy.audiorecorderxs_3.8-12_iphoneos-arm.deb
+Size: 1760288
+MD5sum: 3c743721f66921bd4d1c21f466e52385
+SHA1: 3e4ef48c1a385691d3737f7fa430f83e63183337
+SHA256: 1a1548b5f3e4c12fcd95dc74d998c776af3cdce79dc97a8c079d6b04e807a28c
+SHA512: 01ca5d9950b805bff0cacf2d4a59366b45baa46a56a6b8bde5a7a4c8e0e7a9501656669784430bcb8b359cec548745fcfea68e782307b8a28594ac62d79edb41
+Description: Ghi âm tất cả các cuộc gọi thoại của bạn
+Name: AudioRecorder XS (iOS 12/13/14)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
+SileoDepiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
+
 Package: AnhDuy.autounlockx
 Architecture: iphoneos-arm
 Version: 1.0.16
