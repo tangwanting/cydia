@@ -256,6 +256,23 @@ Author: @moondr1 <moondr1@gmail.com>
 Depiction: http://cydiavn.github.io/info/BeamPurple/?p=info
 SileoDepiction: http://cydiavn.github.io/info/BeamPurple/?p=info
 
+Package: AnhDuy.BlackOrange
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.BlackOrange_1.0_iphoneos-arm.deb
+Size: 235908
+MD5sum: 900d0663e67ca75fa25e6722e600e058
+SHA1: 967b9f8dc0bb8e22876e2b456cdc40e43cff8ebc
+SHA256: dc848c5148af10773558ad137bcf4fc2870f0a539b7e435f57283730b289f6f3
+SHA512: 8583b250cd942c564ab3fea6041bc5d9f6ecc64fbc0e7ca7652fd9bdcf257c4d1c2bce96ebefe02d0fd53243c4e683efe48c5493cb10dad06244691872ec0b97
+Description: tiện ích cho Xen Html
+Name: BlackOrange
+Author: @alirizk2020
+Depiction: http://cydiavn.github.io/info/BlackOrange/?p=info
+SileoDepiction: http://cydiavn.github.io/info/BlackOrange/?p=info
+
 Package: AnhDuy.Border
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -846,12 +863,12 @@ Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.SB22NR_1.0_iphoneos-arm.deb
-Size: 1481960
-MD5sum: fea04fd08e7901147a8b73e2bd4f42a3
-SHA1: 766a30c1c0db9ad3a0d18150a3d18d357c18ba32
-SHA256: 2372b83e84f933ed01f48a9091a95116f69977c3a1b80c63a2245f498b3fb1e8
-SHA512: d55a4be8f3ee0fc03d27e2e2e0d61e7f2c16b7b934d7927495a7a84d34fb2f868c8f6b230387ed80946fb0073fa11b0636250c81256fe675f1860a246e8c698f
-Description: tiện cho Xen Html
+Size: 1481974
+MD5sum: 43fbe178c12c9ccc19cfa47f7e311253
+SHA1: 5191cacd011ee0823a5f1e76d5b23a08a8168d10
+SHA256: 7b691857b184e7b372ef3353cf53805d351381743e4a9601c2120acc3f4baf8e
+SHA512: aed84aa5ab2e93413d5fb2635ee873d9273a6934eec004c553daec7006848161c5b2abf29f9c3a5b6b0d997357f47ca6c8a7ed167b067bfdf34bb7d81b098b48
+Description: tiện ích cho Xen Html
 Name: SB22 NR
 Author: Shefumaster
 Depiction: http://cydiavn.github.io/info/SB22NR/?p=info
