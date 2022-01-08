@@ -1450,6 +1450,24 @@ Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
 Depiction: http://cydiavn.github.io/info/bioprotectxs/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bioprotectxs/?p=info
 
+Package: AnhDuy.bootsound
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./Deb/AnhDuy.bootsound_1.0.0_iphoneos-arm.deb
+Size: 198668
+MD5sum: ea2e9393a3a954dcae27becf5af60919
+SHA1: 5c3b5a3b02b52dbc0e48a961db36ee0a37d7196c
+SHA256: 8f563e7c1780c9c941740074404fbd3f676524a7ca6b2bebf849faea709fda4d
+SHA512: 566bf25c95a21c48e0739023018fb448c2da8b1dd252a58d6770490e228469d15eb8c3da686f5b20532d447ba9499ea58447f104b37c151da074f0b49c2191b4
+Description: Phát âm thanh khi khởi động! Thay thế tệp âm thanh trong / Library / BootSound / bằng tệp của riêng bạn.
+Name: BootSound
+Author: Ginsu
+Depiction: http://cydiavn.github.io/info/bootsound/?p=info
+SileoDepiction: http://cydiavn.github.io/info/bootsound/?p=info
+
 Package: AnhDuy.boxy4
 Architecture: iphoneos-arm
 Version: 4.4.2
