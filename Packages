@@ -2247,6 +2247,23 @@ SileoDepiction: http://cydiavn.github.io/info/muffindark/?p=info
 Name: muffin dark
 Author: @OuniDesigns
 
+Package: AnhDuy.muffindark
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.muffindark_1.0.2_iphoneos-arm.deb
+Size: 48275696
+MD5sum: 16de1fafb0f851a99c9b8f6f4b3d0a71
+SHA1: b632f9bf3216f3f96f043c20d5d29f7dfe560cb2
+SHA256: adb5925916e18bda77c97b3fecb9f4dda95d9129d225ce325eb88b71c5641333
+SHA512: 44188726d9ea0ebb38eda529799a53990799eaeb1dd65db6ec1c3b9d46f7bd10c516061bf0e0fa251dc46d8bfb45292915da9509a3ece4e16850e99c11b8b14e
+Description: Chủ đề Muffin cho IOS8 - IOS14.x
+Depiction: http://cydiavn.github.io/info/muffindark/?p=info
+SileoDepiction: http://cydiavn.github.io/info/muffindark/?p=info
+Name: muffin dark
+Author: @OuniDesigns
+
 Package: AnhDuy.onenotify
 Architecture: iphoneos-arm
 Version: 1.3.2
