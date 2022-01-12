@@ -2215,18 +2215,35 @@ SileoDepiction: http://cydiavn.github.io/info/marie/?p=infodepiction.json
 
 Package: AnhDuy.muffin
 Architecture: iphoneos-arm
-Version: 1.0.1
+Version: 2.0.1
 Section: Themes
 Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.muffin_1.0.1_iphoneos-arm.deb
-Size: 47803434
-MD5sum: 3e8edaaf54c33d35854ea7b63d6524cf
-SHA1: 30c0dad2cc1478ad8e0b7ac1c98a92b05718110c
-SHA256: 2971e61c3b6d2f5142d15c5202256bd466e4a9d938ab836b35ab58a8e7561f4b
-SHA512: 8a8ae351b1fdebae25b572ee2c39003a728de5e59c14befc83170e0a4cb64986c7c370642ef2d06c96212f4df512be627c10f947f98f853e3775546134cddb7f
+Filename: ./Deb/AnhDuy.muffin_2.0.1_iphoneos-arm.deb
+Size: 47723590
+MD5sum: b2a9889bd1eaa1d8a729087318911a76
+SHA1: 6c3168627861a6db11c34dfff49805ff16dd7f79
+SHA256: 353a4caff93138d66a5d57be14621bbaee60b979ba710812cc44bab75bd63ce7
+SHA512: d6f96285de549ac2d2948faa19cdf15b5c049d61e95c1c2b1f95fe0e43474a79938a705ef8eb97024c6ab04acf77a7a64075b2f650c87dca94c6ef9222ff1de6
 Description: Chủ đề Muffin cho IOS8 - IOS14.x
 Depiction: http://cydiavn.github.io/info/muffin/?p=info
 SileoDepiction: http://cydiavn.github.io/info/muffin/?p=info
+Name: muffin
+Author: @OuniDesigns
+
+Package: AnhDuy.muffindark
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.muffindark_1.0.1_iphoneos-arm.deb
+Size: 47803472
+MD5sum: 2f7e42a994331b9e6bf4ea734fbdbce5
+SHA1: 3fdcbc3142132c1511de7af353eeebfbc76a21ac
+SHA256: 9f772cbb6a2a33f08d4cc09af9e704f9fb9c75f74e8ac93783cda2ca816edbe3
+SHA512: 3356255e919a7655dd6983110a9ccc2ba59cb0e7d815ea1d65a7e36161d4a1244ef64bff96b147dba881f3e024961dc8b0377bf0b89eb8dbba29b949bbd9e456
+Description: Chủ đề Muffin cho IOS8 - IOS14.x
+Depiction: http://cydiavn.github.io/info/muffindark/?p=info
+SileoDepiction: http://cydiavn.github.io/info/muffindark/?p=info
 Name: muffin dark
 Author: @OuniDesigns
 
