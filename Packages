@@ -1216,6 +1216,23 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/Weathericon/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Weathericon/?p=info
 
+Package: AnhDuy.Widgy
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.Widgy_1.0_iphoneos-arm.deb
+Size: 6559874
+MD5sum: a9695f98d8b627c40d893484219096ab
+SHA1: 1cde448c7bfc51357394ca16d1822f5d996e3911
+SHA256: 20564c48df1a42e90fcb2c7616daae582d29855af85d4ee04f06503b2a451344
+SHA512: aac581b98b491e021141dbcacd78196ac89a3e3b67810577afdd84c6e693ad2a89d75d91b00748d6704724ce491d5a5397fe005e4937018e398fee7b4ba4e751
+Description: tiện ích cho Xen Html
+Name: Widgy
+Author: @Dr_iph0ne
+Depiction: http://cydiavn.github.io/info/Widgy/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Widgy/?p=info
+
 Package: AnhDuy.afsound
 Architecture: iphoneos-arm
 Version: 1.0
