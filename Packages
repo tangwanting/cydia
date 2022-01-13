@@ -2955,6 +2955,26 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: ichitaso
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 
+Package: com.laughingquoll.prefixui
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: System
+Maintainer: Anh Duy
+Depends: firmware (<< 12.0) | ws.hbang.alderis (>= 1.1), firmware (>= 12.0) | org.thebigboss.libcolorpicker, com.spark.libsparkapplist
+Filename: ./Deb/com.laughingquoll.prefixui_1.3.1_iphoneos-arm.deb
+Size: 41882
+MD5sum: c01dae2b7b484e7c586db0456b0f6cde
+SHA1: ea27630523b7f62bab54300a02ccbd326264195c
+SHA256: 1f2b2b16c28b490e37ff7e6b8538f5fd4da5ec872164f0db95f649c30f6c63ad
+SHA512: 4077c223b5195192675b6ddaff93a83f81ae39a9596e3d4d980e7689aa5e2db815818e60e88c7f592cf7bb030f4a4ca2bcd26ceb9caf8cbba5d088c0cde26b4d
+Description: An awesome framework of some sort!
+Tag: role::developer, compatible_min::ios11.0
+Name: PrefixUI
+Author: LaughingQuoll <me@laughingquoll.net>
+Icon: https://chariz.com/cdn/icon/prefixui/icon@3x.png
+Depiction: http://cydiavn.github.io/info/prefixui/?p=info
+SileoDepiction: http://cydiavn.github.io/info/prefixui/?p=info
+
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm
 Version: 1.4.3
@@ -2974,6 +2994,30 @@ Name: LibGcUniversal
 Author: MrGcGamer
 Depiction: http://cydiavn.github.io/info/libgcuniversal/?p=info
 SileoDepiction: http://cydiavn.github.io/info/libgcuniversal/?p=info
+
+Package: com.opa334.ccsupport
+Architecture: iphoneos-arm
+Version: 1.3.7
+Section: Tweaks
+Maintainer: Anh duy
+Installed-Size: 387
+Provides: com.ioscreatix.silo
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./Deb/com.opa334.ccsupport_1.3.7_iphoneos-arm.deb
+Size: 88908
+MD5sum: 89bc0137050234aef0fc23a6f272853a
+SHA1: f02df6df87dc85e77756ec563d27fa88164b5853
+SHA256: f497ff33383fc571eb14fce75ed74b33446c92a4282dc4bd66d0158e48afcf28
+SHA512: 98f256f5677f069fe112933e4ff385493fd0a0d9bba6a9728c60c613c37f6529f9016a0d23b158444e2430b4219fbb466259c9fcdee920d69dc2854a6ab1e255
+Description: Hỗ trợ tuỳ chỉnh cho các mô-đun CC!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: CCSupport
+Depiction: http://cydiavn.github.io/info/ccsupport/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ccsupport/?p=info
+dev: opa334
 
 Package: com.peterdev.libpddokdo
 Architecture: iphoneos-arm
