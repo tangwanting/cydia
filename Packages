@@ -1992,11 +1992,11 @@ Version: 1.2.5
 Section: Themes
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.flavor_1.2.5_iphoneos-arm.deb
-Size: 46740982
-MD5sum: 2aecba34858e93f86381a0eb03f6f0ec
-SHA1: b382a923a08409e0cb820d77ab7b18fac8e528d0
-SHA256: d4a5ef59c220fe1f436da22bed9808fb4111c2beffc6b1499632ee1b56a00808
-SHA512: 51657b606a22aba8af472b9f151fdd370ae59039e013fb5e6a03e32415e69afc98595e18908e9534f89f8c99b5ab1d8e2106b7c8caa52b7c274940d39fbbe1ba
+Size: 47143100
+MD5sum: 0fbdd585cae611f5f5882dc72f50721a
+SHA1: c6f4aa7cfa75fff2baafa5eb40d7b012d52cdf21
+SHA256: 7abf59eaabaf4e1e1a7c2c2c84258741005e8b8889f57984c770cd57f76f5425
+SHA512: 18067f58027bb077b544e8097666e35950b3bb00d60a86ea54d6689c2ef9c6d4f1a2fddb99b2586bdc6b05271ffd4a45734537efb638c8e5b4e4fe71be30ebea
 Description: thay đổi chủ đề của bạn
 Depiction: http://cydiavn.github.io/info/flavor/?p=info
 SileoDepiction: http://cydiavn.github.io/info/flavor/?p=info
