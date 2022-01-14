@@ -891,6 +891,23 @@ Author: Shefumaster
 Depiction: http://cydiavn.github.io/info/SB22NR/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SB22NR/?p=info
 
+Package: AnhDuy.SB29NR
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.SB29NR_1.0_iphoneos-arm.deb
+Size: 3562600
+MD5sum: 24a196152a790bc6851e685aec57e4bc
+SHA1: 7afa8a851c068eb8386242518ae8491fda2db4a3
+SHA256: 329df460943119bbade97512354bafdfc3182f391de0d121db87c3bb4be5cd1d
+SHA512: ff0da29793e377896db7ef11e8e23f9acae2c6f609f66a803b2c7ed0c040fb301baa6df9809d10b91dce67229258b1307f47d619edebe87bd26d9bb60bc8a2b3
+Description: tiện ích cho Xen Html
+Name: SB29 NR
+Author: Shefumaster
+Depiction: http://cydiavn.github.io/info/SB29NR/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SB29NR/?p=info
+
 Package: AnhDuy.SL33kChristmas
 Architecture: iphoneos-arm
 Version: 1.0
