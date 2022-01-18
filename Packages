@@ -897,11 +897,11 @@ Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.SB29NR_1.0_iphoneos-arm.deb
-Size: 3563078
-MD5sum: 9b065fe7670d08a45b788f075743b528
-SHA1: 053892149e98e44118a126d556fe9794c10afdaf
-SHA256: a0f855105eb7e3024aee09367bb557e73a7753b47fdbb6671fffd728892d390f
-SHA512: e62d0d909438537526c7c01e246ec3364d7b57d62b91a35d2a3c0a5ba7fa14de940fe57ae543250f46004ea6c7e4e266dd391badd2c04ddff4a9d2eae47891ca
+Size: 3565520
+MD5sum: b3892582dd148a63122958ff47c7ef89
+SHA1: b1666c5d4c5c198e5abf652e342573ad72685132
+SHA256: d66a45d19d12c247fea4f428d6d6a5b0ef441e9169790e481ab131a89ac7f6b1
+SHA512: ba8c0c869e137b520cfb611ee7a5c3eb596d2e064f516988fbeeb5c3c96e5ccf05f85e21588307faa80be0e8f86e9f6ab03c99df93585da2d3a8b91a0ebd1359
 Description: tiện ích cho Xen Html
 Name: SB29 NR
 Author: Shefumaster
@@ -2216,11 +2216,11 @@ Version: 1.2
 Section: Themes
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.lotus_1.2_iphoneos-arm.deb
-Size: 7536250
-MD5sum: 5343a618af50dcbab79358951268fb03
-SHA1: e7af7aefde08dc051e75c57c696b1ed1d96646ae
-SHA256: 463e07e07886efefff3241710964d7a0f8cdc647ae65599beba96965a7e3666b
-SHA512: 644a6a666a3f366157d41565fb828b1f516d486a1461334165149cb3d8e45b0e89935263d90e52b3c2b0b705c9fc47da235519d592516b5ad83c598d6f983ad1
+Size: 7626870
+MD5sum: 9dcc8ef21200fa096585a30798d1ff05
+SHA1: 971aa0a9ed5201b03653558cee709cce20a27a1c
+SHA256: 22b7b9a7fe1f8dd0c336188aff35e900b3574634cb94128b74e78d50a6dcc97c
+SHA512: b38929cd0850a956872afbaee8cae10d4d3aa7b87bffd661a2755a8cc545fa050fc3b20d8ceaeed9cefb11b1944493506dfe0d703ecf0ab74341f4163604c6c2
 Description: Chủ đề lotus cho IOS8 - IOS14.x
 Depiction: http://cydiavn.github.io/info/lotus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/lotus/?p=info
