@@ -893,15 +893,15 @@ SileoDepiction: http://cydiavn.github.io/info/SB22NR/?p=info
 
 Package: AnhDuy.SB29NR
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.1
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.SB29NR_1.0_iphoneos-arm.deb
-Size: 3565520
-MD5sum: b3892582dd148a63122958ff47c7ef89
-SHA1: b1666c5d4c5c198e5abf652e342573ad72685132
-SHA256: d66a45d19d12c247fea4f428d6d6a5b0ef441e9169790e481ab131a89ac7f6b1
-SHA512: ba8c0c869e137b520cfb611ee7a5c3eb596d2e064f516988fbeeb5c3c96e5ccf05f85e21588307faa80be0e8f86e9f6ab03c99df93585da2d3a8b91a0ebd1359
+Filename: ./Deb/AnhDuy.SB29NR_1.0.1_iphoneos-arm.deb
+Size: 3567434
+MD5sum: 93875633d235c61a6878466f2e3667a0
+SHA1: 74dbe26c4495caee21963c108d64bd6b658a39b9
+SHA256: b1f1c853cfea97ef96edc64fec80501c61821919dcb1a3407a54cc2b8f6fe313
+SHA512: f0fb7c4d4fa647a488b003fb461edbfdaefc9a611a9b578e0d2703c31901e01389e9ac29750eb2d8c8b25a1349dda9e85284670ff261f811b4a57191d85b423c
 Description: tiện ích cho Xen Html
 Name: SB29 NR
 Author: Shefumaster
