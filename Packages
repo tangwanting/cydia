@@ -897,11 +897,11 @@ Version: 1.0.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Filename: ./Deb/AnhDuy.SB29NR_1.0.2_iphoneos-arm.deb
-Size: 7133076
-MD5sum: 48759a879b6b2932ef44dbac302e63e2
-SHA1: 59885efc658e82a0eb5ffbb41b1dc0f74476e639
-SHA256: 5f0911aec0d2b923f21f2d95a2ea0cdc84dc0a545acf302450843e33e6725e69
-SHA512: fc4e206d67b4e5d67fae600c11a3ef9a3627dd39036b1107c8b862da3dc2cf2904ab1bfe173ef3b2926c1bac9f4b0045abda6722164d60e14990784b1f7e911f
+Size: 7133094
+MD5sum: 24121a0c12621a6e94580ebcfe3d1efb
+SHA1: aaf49e543891ee7f0e623fe54596e958d559a639
+SHA256: ad06711caafd93ab1ac8e3824b90a265d2108e43a784ac4274a714e5a1f0da34
+SHA512: 15e2077f9cc6ba355095174a7744c9d29902ab7d74bf9ee3e210495d8ea10be36ec84d720646375e9e47d2dedd8c7b8d7a27de16fe59abedbdeae9ada345b177
 Description: tiện ích cho Xen Html
 Name: SB29 NR
 Author: Shefumaster
