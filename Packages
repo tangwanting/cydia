@@ -517,6 +517,23 @@ Author: @FAlhmma
 Depiction: http://cydiavn.github.io/info/F376Color/?p=info
 SileoDepiction: http://cydiavn.github.io/info/F376Color/?p=info
 
+Package: AnhDuy.F407SBGlass
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.F407SBGlass_1.0_iphoneos-arm.deb
+Size: 3023294
+MD5sum: 88263febde92faf7c83e0765d0babc71
+SHA1: 8f3fa3f04e26df6d8096d19eabf4c463725a7f5c
+SHA256: 2974694d8c9eda736b014a763b1e2362d3ba8dba5d4fd78e1a92aa169970d37f
+SHA512: 18ce6011f95fc415307981630ab7d07a7b69e8d7d56094885aa97737953c18e7a357410154b25248efd294fb17a2bf00d4f7573fab045d998118bdcea86742d0
+Description: tiện ích cho Xen Html
+Name: F-407_SB_Glass
+Author: @FAlhmma
+Depiction: http://cydiavn.github.io/info/F407SBGlass/?p=info
+SileoDepiction: http://cydiavn.github.io/info/F407SBGlass/?p=info
+
 Package: AnhDuy.FL373Green
 Architecture: iphoneos-arm
 Version: 1.0.4
