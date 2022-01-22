@@ -2227,6 +2227,24 @@ SileoDepiction: http://cydiavn.github.io/info/lotus/?p=info
 Name: lotus
 Author: @XaBdooox
 
+Package: AnhDuy.lynxtwo
+Architecture: iphoneos-arm
+Version: 2.3.1
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common
+Filename: ./Deb/AnhDuy.lynxtwo_2.3.1_iphoneos-arm.deb
+Size: 1413498
+MD5sum: fe7a45451ab63d7b63cb62c071a2e3e8
+SHA1: 0772de8d9d72b045e7e09e102d1e2b74c1fd6f8c
+SHA256: 9daad34935485d246912582a8dfd8da9244460a0b71daee26b3d492a74ab2fd2
+SHA512: 72c75922a757ced530c49edb6e997e1ae77a840a8d9df8d7636b8c2fe788cbb77b12c560c8e27ef782493216d5df661049bdebc101b74969449d754410d1264b
+Description: Cấu hình thiết bị theo cách của bạn!
+Name: Lynx 2
+Depiction: http://cydiavn.github.io/info/lynxtwo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/lynxtwo/?p=info
+Author: MTAC
+
 Package: AnhDuy.marie
 Architecture: iphoneos-arm
 Version: 1.0.3
