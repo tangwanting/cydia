@@ -2088,6 +2088,26 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/forecast5days/?p=info
 SileoDepiction: http://cydiavn.github.io/info/forecast5days/?p=info
 
+Package: AnhDuy.frameSB
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widget
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.frameSB_1.0_iphoneos-arm.deb
+Size: 35552894
+MD5sum: bc75b2ff1d69d445bb30fe5b2d6186e2
+SHA1: 9d5d127f4435058aa5f76f36c459f0333d631a17
+SHA256: a569813ca4f1153e55be35ef8df341666c82e7ceb1cf6fd1354b5af7ec359981
+SHA512: 568d38a9a1959d32d5db1af392f3c19e2abcec3e7c40faa0ca82fe05bf58c036120c9dce1d5fed9df226905c958e097be52e6abf0223c9311aee2aa4ccb28577
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt
+ + 1.0: Lần đầu phát hành
+Name: frameSB
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/frameSB/?p=info
+SileoDepiction: http://cydiavn.github.io/info/frameSB/?p=info
+
 Package: AnhDuy.hideserialnumber
 Architecture: iphoneos-arm
 Version: 0.0.1
