@@ -2091,14 +2091,14 @@ SileoDepiction: http://cydiavn.github.io/info/forecast5days/?p=info
 Package: AnhDuy.frameSB
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.frameSB_1.0_iphoneos-arm.deb
-Size: 36533474
-MD5sum: f2bf7bb5d112a580fd3ec149baf75857
-SHA1: dd2969bc643c6ae38c7b3fc5bea0ab1b001b61ae
-SHA256: e011ad042d646aee6afcfc81ca4cc00b6d185f6e426362e319276d30e7f896b3
-SHA512: dc5f8bf284895a08b5bb0fe4393c85f4b179b0a506e1ff1733240fa4070d76bbb5521d236ac5d6e5babf130151d26197ee2ab1617985b88d4ef79416f58529de
+Size: 36533462
+MD5sum: 6e34f7a6eb65ea013f1e2277c7f8e373
+SHA1: 37156621f095fb96b940a61e17cd1c9bfae6ac41
+SHA256: d0e3f48ae67e37e130162691add79c9a4cb21994d1c7fcc38ee33133934f5412
+SHA512: dfae737bfb24793877846b014e46804e11a56bec8155e739282c0f1ea0216fc6100447beff96562aacce0e56ed0888a24039c15f163edb0b8ab50eb2832ddf49
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Các thiết lập tuỳ chỉnh trong cài đặt
