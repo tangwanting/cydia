@@ -1113,6 +1113,26 @@ Author: Edit by Anh Duy
 Depiction: http://cydiavn.github.io/info/StarDockider/?p=info
 SileoDepiction: http://cydiavn.github.io/info/StarDockider/?p=info
 
+Package: AnhDuy.SunsetSBWidget
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.SunsetSBWidget_1.0_iphoneos-arm.deb
+Size: 25468152
+MD5sum: 943edf707cdab93c1d61c66a1e7adcac
+SHA1: 518679c5d78d00b1169d5784dc2e47985f6b4408
+SHA256: e8ad7a57ce08b1fca18ee90e922c59a999ac81333e38aaf37d60f6cebc0c160a
+SHA512: b1d0b25e14a58931538ec88f95baaa82a0479d9500a5711d51e9e1488348f1dab861d64117b230cb361e3c6c2474e1ab996c37643b4b17d1ac67dea0e8e4db0d
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt
+ + 1.0: Lần đầu phát hành
+Name: Sunset-SB-Widget
+Author: Coccco28
+Depiction: http://cydiavn.github.io/info/SunsetSBWidget/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SunsetSBWidget/?p=info
+
 Package: AnhDuy.TransWeather
 Architecture: iphoneos-arm
 Version: 1.0
