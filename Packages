@@ -2094,11 +2094,11 @@ Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.frameSB_1.0_iphoneos-arm.deb
-Size: 36532220
-MD5sum: 54098c9dee6a54bc354694c32a98f08c
-SHA1: 410c3ac85ec3995d3d9fe13d2f20a96a729c2a48
-SHA256: 8b5a72a2524b8168615b0c4993136e7bf9c2b735bbd9618a2a184ac0ccdb036c
-SHA512: f9a5777b1d1f58a1d50a0e2ada40423a006fa7f10bda788e79dba673c176e69e7993f7370e105beba32da7baf331cc026fa2215698cb97671220e8e5b4e04eaf
+Size: 36532212
+MD5sum: 051e272c049a384dca1387f603bb7bd3
+SHA1: bdca1d0702ac0cfdbf9149b0127f10c6283914aa
+SHA256: d184690a14f7df0e11ecad694d85d2eda404fa55bceacdd2d567ee9f1ba4ed3a
+SHA512: 36693e8f0d3a044748951c9685caf86e2a4feaf151b7bdedfc77a67b1b707651e85891287ec52f2b53c9a799c68f9b3bfa4b894f9452b5bd7838bada871eb033
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Các thiết lập tuỳ chỉnh trong cài đặt
