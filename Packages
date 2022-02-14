@@ -2110,15 +2110,35 @@ SileoDepiction: http://cydiavn.github.io/info/forecast5days/?p=info
 
 Package: AnhDuy.frameSB
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.frameSB_1.0.1_iphoneos-arm.deb
+Size: 36532346
+MD5sum: 53888eba8312b3c6f1857f18b39752d2
+SHA1: 25c279107203b1380343238fac7a6d694c946b38
+SHA256: fb41e06e5a55c0fdd20404c62440707605e783a6a4ab4f37e4649920b9fcaf78
+SHA512: 9a55efbff762ed053038f728927c6330ea1461ca373d2022f98868816a88599c219100e3480286eb209bb4733f5c77046420dce03a0818d75f0fe9eab838fbb6
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt
+ + 1.0.1: cải tiến và sửa lỗi
+Name: frameSB
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/frameSB/?p=info
+SileoDepiction: http://cydiavn.github.io/info/frameSB/?p=info
+
+Package: AnhDuy.frameSB
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.frameSB_1.0_iphoneos-arm.deb
-Size: 36532212
-MD5sum: 051e272c049a384dca1387f603bb7bd3
-SHA1: bdca1d0702ac0cfdbf9149b0127f10c6283914aa
-SHA256: d184690a14f7df0e11ecad694d85d2eda404fa55bceacdd2d567ee9f1ba4ed3a
-SHA512: 36693e8f0d3a044748951c9685caf86e2a4feaf151b7bdedfc77a67b1b707651e85891287ec52f2b53c9a799c68f9b3bfa4b894f9452b5bd7838bada871eb033
+Size: 36532236
+MD5sum: 2ac2c35e88ecda6571a98563497a1878
+SHA1: 41ea3b253fe1b50e31bb0ca8f840da8131dfdfc1
+SHA256: 772774c2b85090417a155dca1043c628eba40c4fc9624ab0f03f2120233669e1
+SHA512: 9b5a57f74bd9fe6717471874bb316c8cfdf208e421612d8bd2198fd6aef6f2ac3f9619bc53f874f1649aa97a17f9f1fd56c2b91e9af1752b2f50e4f5b0f54988
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Các thiết lập tuỳ chỉnh trong cài đặt
