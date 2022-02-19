@@ -3027,6 +3027,25 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
 
+Package: Anhduy.flexcracktweak
+Architecture: iphoneos-arm
+Version: 1.2-1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 3996
+Depends: mobilesubstrate
+Filename: ./Deb/Anhduy.flexcracktweak_1.2-1_iphoneos-arm.deb
+Size: 1412116
+MD5sum: b1a5ed9ea33845e3de44a047b4f403cc
+SHA1: 078508b5092c9bfc91ca0b7144116a976b6eba30
+SHA256: 3c077bf8f49ad1e4e0a9027efc18f19353132cd2ba1f1a72306de57ebdbb726a
+SHA512: fd3872c79bd6bcb5fed462c243cffc190c3377648618afab9e9acbbe326537e4dccf29d56fbf65fce5feec58d7a1a6b0fe5958b3c3ef36aebecb327d31ac86b7
+Description: Flexcrack là một công cụ cho phép bạn crack các ứng dụng iOS được cài đặt trên thiết bị của mình. Sau khi khởi chạy ứng dụng, bạn sẽ thấy danh sách tất cả các ứng dụng được liệt kê trên thiết bị của mình. Nhấp vào tên ứng dụng muốn crack để crack. Quá trình crack ứng dụng sẽ mất vài giây.<br><br><b>Tính năng:</b><ul><li>Đặt BundleID tuỳ ý(Có thể cài song song với ứng dụng gốc sau khi crack)</li><li>Đặt tên ứng dụng trước khi crack</li><li>Đặt tên file ipa</li><li>Hỗ trợ crack nhanh bằng 3D Touch</li><li>Đặt phiên bản iOS tối thiểu hỗ trợ mặc định là iOS 10.0</li></ul>
+Name: FlexCrack
+Author: @CrazyMind90
+Depiction: http://cydiavn.github.io/info/flexcracktweak/?p=info
+SileoDepiction: http://cydiavn.github.io/info/flexcracktweak/?p=info
+
 Package: anhduy.shuffle
 Architecture: iphoneos-arm
 Version: 1.5.2
