@@ -3177,6 +3177,26 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: ichitaso
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 
+Package: com.ikilledappl3.sareth
+Architecture: iphoneos-arm
+Version: 1.16-1
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), ws.hbang.common
+Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Filename: ./Deb/com.ikilledappl3.sareth_1.16-1_iphoneos-arm.deb
+Size: 2919398
+MD5sum: f292db58d18588349f705799dd0dffa3
+SHA1: 6915ca99d5ccb948d973699a5f5e9bef5b78c81a
+SHA256: e58023895358db1fcd934ae1bcde522027d7c12ef323aec1bd1e5b5fdd0f5df3
+SHA512: 34ff8bb92e9e5086934d286737853d1e3299c343f7d0f2bcabf72d9408140692801872ae8e8a6faac34a4e789e5c0f0791f2f09a587e002375f9fb7cff0a13d6
+Description: Chèn ảnh vào Trung tâm điều khiển của bạn.
+Name: Sareth
+Depiction: http://cydiavn.github.io/info/sareth/?p=info
+SileoDepiction: http://cydiavn.github.io/info/sareth/?p=info
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+
 Package: com.laughingquoll.prefixui
 Architecture: iphoneos-arm
 Version: 1.3.1
