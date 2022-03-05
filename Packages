@@ -3217,6 +3217,28 @@ Icon: https://chariz.com/cdn/icon/prefixui/icon@3x.png
 Depiction: http://cydiavn.github.io/info/prefixui/?p=info
 SileoDepiction: http://cydiavn.github.io/info/prefixui/?p=info
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.2~release
+Priority: optional
+Section: Tweaks
+Maintainer: Anh Duy
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Filename: ./Deb/com.matchstic.xenhtml_2.0.2~release_iphoneos-arm.deb
+Size: 8428454
+MD5sum: d88f58d800b27b0caaa9efa047e41f64
+SHA1: 137483d9a078cac6537ce1c90f80ed5fa88461c7
+SHA256: 0a752994ad0f83623faea839ff0fb197372b64272bf2ca6556710b3d35785b7f
+SHA512: c707aaf8fbea43a55a35244c1500cf81cb2d681838e0390de75552e50638aa70a93f38fa791601d7f66f1886b9ad197286d788be63769f8a26a5e3b1f6674993
+Description: Chạy tiện ích HTML trên Màn hình khóa và Màn hình chính
+Name: ♥︵Xen HTML࿐
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Depiction: http://cydiavn.github.io/info/xenhtml/?p=info
+SileoDepiction: http://cydiavn.github.io/info/xenhtml/?p=info
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/IconPackageManager.png
+
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm
 Version: 1.4.3
