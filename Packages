@@ -3179,18 +3179,18 @@ Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 
 Package: com.ikilledappl3.sareth
 Architecture: iphoneos-arm
-Version: 1.16-1
+Version: 1.16-2
 Section: Tweaks
 Maintainer: Anh Duy
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), ws.hbang.common
 Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
 Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Filename: ./Deb/com.ikilledappl3.sareth_1.16-1_iphoneos-arm.deb
-Size: 2919398
-MD5sum: f292db58d18588349f705799dd0dffa3
-SHA1: 6915ca99d5ccb948d973699a5f5e9bef5b78c81a
-SHA256: e58023895358db1fcd934ae1bcde522027d7c12ef323aec1bd1e5b5fdd0f5df3
-SHA512: 34ff8bb92e9e5086934d286737853d1e3299c343f7d0f2bcabf72d9408140692801872ae8e8a6faac34a4e789e5c0f0791f2f09a587e002375f9fb7cff0a13d6
+Filename: ./Deb/com.ikilledappl3.sareth_1.16-2_iphoneos-arm.deb
+Size: 2919396
+MD5sum: 929bf3fb89e47264aa812f4e584c9226
+SHA1: 5e343bd07cd912d03a2cedf9f217adbd352a2134
+SHA256: 38a8347002aa9aa1febd7e8f5163d6e52bc06e960eeab01e4a330b4041a2f862
+SHA512: 4598abf3215a91ebf5ae34fa420dbb07214ae5d104e37cc54da5c37b030025bd5265f21e67c1fb84b5336714e71429d856482778de600d9c69bb0f46f939c1d9
 Description: Chèn ảnh vào Trung tâm điều khiển của bạn.
 Name: Sareth
 Depiction: http://cydiavn.github.io/info/sareth/?p=info
@@ -3226,11 +3226,11 @@ Maintainer: Anh Duy
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Filename: ./Deb/com.matchstic.xenhtml_2.0.2~release_iphoneos-arm.deb
-Size: 8428436
-MD5sum: 49194a83f491a905852c7b2e629243d1
-SHA1: bef6c849908bcfd0027190e49d1313074062de69
-SHA256: 27564e0a6630f2b78608739fb564afe0b14d6d45e166a819046af8455b06c3a6
-SHA512: 83d0d23e34996357db06d9f15837a2c6466cca5990c7a139e24039ce8eba8221a24449b5bcd6551b94c8ba06ef5f25e106188656e064623e478a0240fac372de
+Size: 8428434
+MD5sum: eecb30cab233b115f9228d0f57595b47
+SHA1: 320e9f3d978d2a956924c381c6dee66e11cced52
+SHA256: 7ceca511fb575186f401c5ccaee49d4bcee79a1401bef16682d6818da11fcc1c
+SHA512: 3bb6abe4af1d0c5f7437da197835ac8e8f12c893b42b2036b396fdb3789a746293b1d3da8f1f5f309ee6d3c2e4a1f3bb6742a06945080c3052d2beb3612b19c0
 Description: Chạy tiện ích HTML trên Màn hình khóa và Màn hình chính
 Name: Xen HTML
 Author: Matt Clarke <matt@incendo.ws>
