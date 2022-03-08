@@ -3226,11 +3226,11 @@ Maintainer: Anh Duy
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Filename: ./Deb/com.matchstic.xenhtml_2.0.2~release_iphoneos-arm.deb
-Size: 8428434
-MD5sum: eecb30cab233b115f9228d0f57595b47
-SHA1: 320e9f3d978d2a956924c381c6dee66e11cced52
-SHA256: 7ceca511fb575186f401c5ccaee49d4bcee79a1401bef16682d6818da11fcc1c
-SHA512: 3bb6abe4af1d0c5f7437da197835ac8e8f12c893b42b2036b396fdb3789a746293b1d3da8f1f5f309ee6d3c2e4a1f3bb6742a06945080c3052d2beb3612b19c0
+Size: 8428430
+MD5sum: 092d6e41007a9f78b7e9c7c109462ab3
+SHA1: feb04bde44be4f8b101f5c2481b88fa55b0e0001
+SHA256: c8b73a96ed6f18d7f2285d774f7bb56c25803aec3c5fa5eb9b2d35ca781aa2fc
+SHA512: 3e1d5e8d02720b8d6ed8dba89089c57e1f64ca38286c977c37f710dacf0ebde57b47bf4b5e6796560e058bec116776e6eebc8b7d17b44287437b8542bc27e69f
 Description: Chạy tiện ích HTML trên Màn hình khóa và Màn hình chính
 Name: Xen HTML
 Author: Matt Clarke <matt@incendo.ws>
