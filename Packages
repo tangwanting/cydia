@@ -1391,6 +1391,27 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/animations/?p=info
 SileoDepiction: http://cydiavn.github.io/info/animations/?p=info
 
+Package: AnhDuy.appaze2
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 1908
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Conflicts: repo.cydiavn.github.appaze2, com.anthopak.appaze2
+Filename: ./Deb/AnhDuy.appaze2_1.4.1_iphoneos-arm.deb
+Size: 954014
+MD5sum: cd6d19fde51c6edbf826042006ca0115
+SHA1: 64bbce0214afccf9af7d181fd462b249f8a896ee
+SHA256: 0e7eab0f7bd37f47c898df5de0673c5554bf93b3b4d9497c941f4008bf412b90
+SHA512: 05759e7bbf96211152cbc08ca03bdd5df4464e8b515de40617180df89e47a97b3b208ab756c4db22751703fec54eeae6316a7a3e148b9a3e5ea7f2643c270875
+Homepage: https://repo.packix.com/package/com.anthopak.appaze2/
+Description: Tuỳ chỉnh riêng cho từng ứng dụng của bạn.
+Name: Appaze 2
+Author: AnthoPak
+Depiction: http://cydiavn.github.io/info/appaze2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/appaze2/?p=info
+
 Package: AnhDuy.appshacks
 Architecture: iphoneos-arm
 Version: 4.5-3
@@ -3279,11 +3300,11 @@ Maintainer: Anh Duy
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Filename: ./Deb/com.matchstic.xenhtml_2.0.22~release_iphoneos-arm.deb
-Size: 8261220
-MD5sum: a4c3a0b2981065d5d4b5aa0bb2e14ea0
-SHA1: bd07655c3b2c25ae2cb0fb0ca9ee24aa6e6453af
-SHA256: a13294d3fadd2e4df488f3e596a5e98c73c3adc067f6dccdf8194494307145c7
-SHA512: d725f9d1eb0649c095bf9339729cc9e16a0cbc407af8c300b3992bea50f7fd4c026622e6ff5993a075c0528cc5f3ff01224ac59a58f51a81153a7c7014090b8b
+Size: 8261218
+MD5sum: 9f57d68d4243299c631dd3fe993f542e
+SHA1: 5907e32907a42e271a55c566e1de62b2e79bea3c
+SHA256: 4cd0f497d79792855d6761662f757c36e812a7ea8affa633344a1b542e198469
+SHA512: 504e65f21586eeebf007fced7c0266af32aa1de4eed8139012ac00911267c7da390b6c3cb781fbf26ab6122322a649b3e5011bb39e06a5bee62b013b93254103
 Description: Chạy tiện ích HTML trên Màn hình khóa và Màn hình chính
 Name: Xen HTML
 Author: Matt Clarke <matt@incendo.ws>
