@@ -398,6 +398,26 @@ Author: unclear
 Depiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 SileoDepiction: http://cydiavn.github.io/info/DKTransWeather/?p=info
 
+Package: AnhDuy.DarkDesire2SBwidget
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.DarkDesire2SBwidget_1.1_iphoneos-arm.deb
+Size: 24727246
+MD5sum: a9f97f0fe4e4535cecd32eb7db83ae59
+SHA1: 65189f16ce343ed59ec2e9cf79e9ac05992a42b1
+SHA256: ef143846024b0ae3901417515d26a0d2cb0c8f988ebaf47e9329f7fd760eda95
+SHA512: 48250d1b5e29ce65a2a1f52e0c84de4912f31a109d2c2e838aec8bc62bc63ed367b30d5a42ecb2fc3fbf3f4b06aaa64e872937948ce857927c3392e93baae3c1
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt
+ + 1.01: cải tiến và sửa lỗi
+Name: Dark Desire2 SB widget
+Author: Coccco28
+Depiction: http://cydiavn.github.io/info/DarkDesire2SBwidget/?p=info
+SileoDepiction: http://cydiavn.github.io/info/DarkDesire2SBwidget/?p=info
+
 Package: AnhDuy.DubsiWModernHTC
 Architecture: iphoneos-arm
 Version: 1.0
