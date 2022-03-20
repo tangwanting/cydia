@@ -3117,6 +3117,25 @@ Author: PoomSmart
 Depiction: http://cydiavn.github.io/info/youpip/?p=info
 SileoDepiction: http://cydiavn.github.io/info/youpip/?p=info
 
+Package: AnhDuy.zenith
+Architecture: iphoneos-arm
+Version: 1.2.6-1
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./Deb/AnhDuy.zenith_1.2.6-1_iphoneos-arm.deb
+Size: 286136
+MD5sum: df395843fe9381bbd538d297d03e1d4b
+SHA1: 32e12c45eab69197c7de0b6405643603cd04e8dc
+SHA256: d93ffe0ab01af3b6255332031f375e5f1941ca05bdc14b4b774fbbc872cab5e1
+SHA512: eb32938b58538b25dffb25593873dfebb944cf393d4ba5263ffcfab508144882e1fbc71017b4891390a8055fff35b1fe820931511c3a0885ce761904261cd74e
+Description: vuốt lên hoặc xuống trên biểu tượng ứng dụng để truy cập vào ngăn xếp ứng dụng.
+Name: Zenith
+Depiction: http://cydiavn.github.io/info/zenith/?p=info
+SileoDepiction: http://cydiavn.github.io/info/zenith/?p=info
+Author: Muirey03
+Icon: file:///Library/PreferenceBundles/Zenith.bundle/Icon-Large.png
+
 Package: Anhduy.cthulhu
 Architecture: iphoneos-arm
 Version: 1.0.7
