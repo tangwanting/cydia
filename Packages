@@ -934,11 +934,11 @@ Version: 1.0.1.6-8
 Section: Tweaks
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.NiceBarX14_1.0.1.6-8_iphoneos-arm.deb
-Size: 26488
-MD5sum: 2c4a4a0302abb976fdbad2b8a414d024
-SHA1: 8426aa4b05afdf5c44db143279b56464338798fc
-SHA256: 53798e8f4adca93a76c7971cb9866c83abca7f1bc55fffd53aa5a215b57543c3
-SHA512: e627fd948f043967eb46ab4b10c2f9148c277766d56654c1e7cbdb004dcd9dc32e98f0631808ab095e52a7d1e47d7ec343d1d80d993d53d0cf4bd7fcf6e31283
+Size: 24104
+MD5sum: 5df2d6ef2582aba8d51294bce3642756
+SHA1: 0af12b198df64456d39cef1159d43526cbd1c6fa
+SHA256: fdf113b665399b3dc5021194f5016e1fa016fcbd047dcc8fc68973d86c3bcea7
+SHA512: 9102aef539f63a2b8c349710619051a825fc27284675e84b236cc50449e65fa6b92c25748985e3a8fd3ebfd7a91770d1a4f2631d9d07b9e4b558b8a611008917
 Description: dịch lại tinh chỉnh NiceBarX iOS 14
 Name: NiceBarX(ios14) gói tiếng Việt
 Author: Anh Duy
