@@ -913,66 +913,15 @@ SileoDepiction: http://cydiavn.github.io/info/MiClocl/?p=info
 
 Package: AnhDuy.NiceBarX14
 Architecture: iphoneos-arm
-Version: 1.0.1.3-16
-Section: Tweaks
-Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.NiceBarX14_1.0.1.3-16_iphoneos-arm.deb
-Size: 19312
-MD5sum: 216c7fb0388caf55dc0088961a84e536
-SHA1: 4678141cf22b5c505287edc4319f66dd13dd7a2c
-SHA256: a6e495b27904b4782195803a022904ba285e378831c4146bfa3490974b5161e7
-SHA512: 4f9515701b3731438d94a85d29af0d31b5d57d50dd888d91443da8715adf772f87b9e42c10ae3645cdb209ae9f33e2bbb19471d0057fed8882994475d8c19ddd
-Description: dịch lại tinh chỉnh NiceBarX iOS 14
-Name: NiceBarX(ios14) gói tiếng Việt
-Author: Anh Duy
-Depiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
-SileoDepiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
-
-Package: AnhDuy.NiceBarX14
-Architecture: iphoneos-arm
-Version: 1.0.1.6-8
-Section: Tweaks
-Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.NiceBarX14_1.0.1.6-8_iphoneos-arm.deb
-Size: 24104
-MD5sum: 5df2d6ef2582aba8d51294bce3642756
-SHA1: 0af12b198df64456d39cef1159d43526cbd1c6fa
-SHA256: fdf113b665399b3dc5021194f5016e1fa016fcbd047dcc8fc68973d86c3bcea7
-SHA512: 9102aef539f63a2b8c349710619051a825fc27284675e84b236cc50449e65fa6b92c25748985e3a8fd3ebfd7a91770d1a4f2631d9d07b9e4b558b8a611008917
-Description: dịch lại tinh chỉnh NiceBarX iOS 14
-Name: NiceBarX(ios14) gói tiếng Việt
-Author: Anh Duy
-Depiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
-SileoDepiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
-
-Package: AnhDuy.NiceBarX14
-Architecture: iphoneos-arm
-Version: 1.0.1.6-9X
-Section: Tweaks
-Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.NiceBarX14_1.0.1.6-9X_iphoneos-arm.deb
-Size: 24138
-MD5sum: 50eccae563ee685458e1fefd31c7a12c
-SHA1: 3fc896ab6e339803b0d21d31462b7859d49144ef
-SHA256: 84f5c2f976696346d16a9938a8463385016caaa60aca28de571545c5161f8155
-SHA512: 4feadc45ab3bc6efcefb73ad280b577333ab78167dc85d94d6f70bd4cfa9b407a1c1a3fe8e095126d4b61262d9ab8218bf33960cc21431405301dc4c427d5564
-Description: dịch lại tinh chỉnh NiceBarX cho iOS 14
-Name: NiceBarX(ios14) gói tiếng Việt
-Author: Anh Duy
-Depiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
-SileoDepiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
-
-Package: AnhDuy.NiceBarX14
-Architecture: iphoneos-arm
 Version: 1.0.1.6-9
 Section: Tweaks
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.NiceBarX14_1.0.1.6-9_iphoneos-arm.deb
-Size: 24142
-MD5sum: 79819349ebd8d97164e53bd42b77921d
-SHA1: 0a8ce20d0a9c22f54bd9cf647d51beb1944b48fc
-SHA256: ac738ec223cab50ef8b3f2cb764ba0647a31455f2c977cf1dc3f0fae739f7464
-SHA512: 6d7e0ad949483ce8dfc8071d474846c9cfd20d14e22de5edceb0723658caf222244251ccd10658dfff6312bc9fd24d600346a9be2a21d63020a4f180652412c8
+Size: 24098
+MD5sum: ee1988ad95c75b793c510abb5583c4c0
+SHA1: d809613d6c2634c0525257d5720c9d2aa545e7f7
+SHA256: c9660a6fba933ea68e685ce5ba9b0a528bf0e9bd1c9373db464d0bdf5ecc3cbd
+SHA512: 727e302f6e3aaa5404b24c8750fee2284d5f2c956c2a28ea5150072bd6b30f772d64f65c0dd338e9021b134ea2a243077119fee23cdf0b61f26f246b931e7068
 Description: dịch lại tinh chỉnh NiceBarX cho iOS 14
 Name: NiceBarX(ios14) gói tiếng Việt
 Author: Anh Duy
