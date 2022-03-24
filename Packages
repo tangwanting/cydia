@@ -2828,6 +2828,27 @@ dev: rplus
 Depiction: http://cydiavn.github.io/info/slidecut/?p=info
 SileoDepiction: http://cydiavn.github.io/info/slidecut/?p=info
 
+Package: AnhDuy.smartbattery2
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 2484
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Conflicts: com.idevicelover.smartbattery
+Filename: ./Deb/AnhDuy.smartbattery2_2.1_iphoneos-arm.deb
+Size: 915892
+MD5sum: 7811845de8f7428d52196c7d6e3ba892
+SHA1: 73d195c318a2a0dc966a539b7664d1bdef733813
+SHA256: 5eae39fd5d98da6dd843d2a2716a720dd41ddc11aa3e508f467837889a7c2143
+SHA512: 823587706ff97b3ff21beb46382599bfb90ce7b7e0c2095dbcbacd0e5a8cafeb248e59883735194471681901840e7ffb0a09c601201f7750a4381890a39fd99d
+Homepage: https://repo.packix.com/package/com.idevicelover.smartbattery2/
+Description: Cải tiến chế độ Tiết kiệm pin
+Name: SmartBattery 2
+Author: elias
+Depiction: http://cydiavn.github.io/info/smartbattery2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/smartbattery2/?p=info
+
 Package: AnhDuy.sniper
 Architecture: iphoneos-arm
 Version: 1.1
