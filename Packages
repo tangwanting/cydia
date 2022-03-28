@@ -968,11 +968,11 @@ Version: 1.0.1.8-1
 Section: Tweaks
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.NiceBarX14_1.0.1.8-1_iphoneos-arm.deb
-Size: 24338
-MD5sum: 285ea6de2120d2747723dc3c46f30fa6
-SHA1: c4aae2ea7677368a26e69e81523a21c14d1f96b3
-SHA256: d0e9f8cf144a0b538fc2024b2d6dfd3babf996bd7cd9f859c676cb1e55e6a75c
-SHA512: 8a553f5530bf8c0563e2d89c1cee18160752a061b77ff24b9574f1845d1002ca5a259b579ca7f23a5985c2b90ab5ee7d9d777e33b3c5956fc19d865ff583b20d
+Size: 24336
+MD5sum: 0a2e2b4cb2b31cf3f1c630934b590be2
+SHA1: 8815e797c0c596c42f9537546999091ef945fc4c
+SHA256: cd5900bafb73100c554e46427c47b840788323e20f78364dcae773827c327175
+SHA512: a2297bd3f702e5233dfc9c67137ead3f96d46ac33b0372a4c873238ff27987109865e01584a3bac44f9851e55fe52717e5f3d246841b7b07aa1b9d60d21ef069
 Description: dịch lại tinh chỉnh NiceBarX cho iOS 14
 Name: NiceBarX(ios14) gói tiếng Việt
 Author: Anh Duy
@@ -985,11 +985,11 @@ Version: 1.0.3.5-8
 Section: Tweaks
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.Nicecaller14_1.0.3.5-8_iphoneos-arm.deb
-Size: 30674
-MD5sum: 16955513102fec501278e1f414bfb7b0
-SHA1: 336f4f3c4f0e6b7c15a7efea3c6bf35ad3f09383
-SHA256: 91987ebc1c147e714b38fb16f4768738e0f09763cbf2add173678d3cadcb46a1
-SHA512: ccf353a2dcaa813b3848a70687baa2cc58004a52606c56429ee23d32833ddc47cc8d4ddfa8e61c499b35b46d23133ea0294c337692bd5ae3c0900ba5c96af202
+Size: 30620
+MD5sum: 64e7d6f56ae30165dcc74851aade8d90
+SHA1: 69084f8dfb1f25e5d54cde35cb95e1578af4ab31
+SHA256: 47930d23426df58fdd6ccd8ba8504d2e43a0a0f59bfa94f1eec78ab4d55b62e2
+SHA512: 81bbf09da35c7493a2a6446e9f1dfb2beaffea84caa31fe18f9ef01299c482f238082d8fa0f564ebc012d1543f9117d83d2bbad9adbb07e01abf9546ed4ecd8c
 Description: dịch lại tinh chỉnh Nicecaller cho iOS 14
 Name: Nicecaller(ios14) gói tiếng Việt
 Author: Anh Duy
