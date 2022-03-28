@@ -2785,6 +2785,30 @@ Author: LonestarX
 Depiction: http://cydiavn.github.io/info/showtouch/?p=info
 SileoDepiction: http://cydiavn.github.io/info/showtouch/?p=info
 
+Package: AnhDuy.shuffle
+Architecture: iphoneos-arm
+Version: 1.6.1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 2364
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./Deb/AnhDuy.shuffle_1.6.1_iphoneos-arm.deb
+Size: 573666
+MD5sum: 4d56c1c1b7cad9c713d3652bc98f60c7
+SHA1: a3cf1f851373603914401bc9b5a68b8cd08738c0
+SHA256: b53341063380f31cb7736dbd3d50f5490d6affb17d48825ac70410c0867339c8
+SHA512: 4c72a2dcf6f6db49eeee77f7d43309702b57574099e91ff1b8a16ce8aba3e637cd02ebc1eda9e049dc93867db2cc53b60b76b13f234ca88ec1d16cd1f32a7f41
+Description: Sắp xếp cài đặt của bạn
+Tag: purpose::extension, compatible_min::ios10
+Name: Shuffle
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: http://cydiavn.github.io/info/shuffle/?p=info
+SileoDepiction: http://cydiavn.github.io/info/shuffle/?p=info
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+
 Package: AnhDuy.simplus
 Architecture: iphoneos-arm
 Version: 1.14-beta-2
