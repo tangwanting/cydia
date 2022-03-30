@@ -2890,6 +2890,24 @@ Author: elias
 Depiction: http://cydiavn.github.io/info/smartbattery2/?p=info
 SileoDepiction: http://cydiavn.github.io/info/smartbattery2/?p=info
 
+Package: AnhDuy.sneakycam
+Architecture: iphoneos-arm
+Version: 2.0.6
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Deb/AnhDuy.sneakycam_2.0.6_iphoneos-arm.deb
+Size: 143392
+MD5sum: 67d36e8f16d3e5d4b4344eb7fb62c5b3
+SHA1: f8cf1aff1f864113ed75895b1a375ac03132ae8d
+SHA256: efc16d078a209ca8ae452aaa7eb44e9d2e69d66903739c56783aeb1f81f88908
+SHA512: a12805ed3489a45b25aca17efaddd4753a0e9ecc027188ce3b824cc07d914017a7a8dff39027ca98efb29cf749c4c4a29108b60a277861c08709930e41a364ea
+Description: Chụp ảnh & quay video ngay cả khi khoá màn hình.
+Name: SneakyCam
+Author: Spark
+Depiction: http://cydiavn.github.io/info/sneakycam/?p=info
+SileoDepiction: http://cydiavn.github.io/info/sneakycam/?p=info
+
 Package: AnhDuy.sniper
 Architecture: iphoneos-arm
 Version: 1.1
