@@ -1485,6 +1485,25 @@ Author: hmodei96
 Depiction: http://cydiavn.github.io/info/appshacks/?p=info
 SileoDepiction: http://cydiavn.github.io/info/appshacks/?p=info
 
+Package: AnhDuy.appshacks
+Architecture: iphoneos-arm
+Version: 4.5-4
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 6712
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./Deb/AnhDuy.appshacks_4.5-4_iphoneos-arm.deb
+Size: 3368278
+MD5sum: aa25e217feb8c10fa174222bfc55cc86
+SHA1: 780ee41e2700390d1ed8c7109a898e8ca05fa103
+SHA256: 8167fc325837acc41f619e11e5d944fd22f1fe2dc0b2923a37ed82fee2290299
+SHA512: d9b79d55ee279715e4721d38476a15a656b39c259859525dccb6382cb68d72d3d0013085f95b181d1ffc105b615a394cf96d0e5ba7a15f7824bc0db298426fde
+Description: Kích hoạt bản quyền cho các ứng dụng trả phí.
+Name: Apps Hacks
+Author: hmodei96
+Depiction: http://cydiavn.github.io/info/appshacks/?p=info
+SileoDepiction: http://cydiavn.github.io/info/appshacks/?p=info
+
 Package: AnhDuy.audiorecorderxs
 Architecture: iphoneos-arm
 Version: 3.7-42
