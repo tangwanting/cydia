@@ -2918,11 +2918,11 @@ Installed-Size: 2484
 Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
 Conflicts: com.idevicelover.smartbattery
 Filename: ./Deb/AnhDuy.smartbattery2_2.2_iphoneos-arm.deb
-Size: 915906
-MD5sum: 7919200c386ce39780323c13881b0087
-SHA1: f2a2f5b42cc889b2a875b16bfa6b228c25e75dff
-SHA256: 75e229710951b062254ace5daaf1a2544ded718a4c9ae3849bd474191779dcc6
-SHA512: dfa200714146fe9dc854e6ac8f680e69e45e241d1b393a743b75295ec84c6479370ff01689daa659903cb09d43f72e8d46cc3949dd4a696e4fdccd9572c6789e
+Size: 916228
+MD5sum: a2e5fd0ca2f2befa01ec905716e91d01
+SHA1: 1c961a9b0fa04664a129d4c9ce2df3e61afd0a60
+SHA256: 10b22e81931035c23e66183434831474cf18a55265e658a3337d9411860b1813
+SHA512: 7cceacad3538b7fe2a6840c5b29b5193838c1f360a45c765ef6cea23c376842dd83140cade6cf7882ff101f0ba43a88077bec59dd9e0eba06ef921de672cedd4
 Homepage: https://repo.packix.com/package/com.idevicelover.smartbattery2/
 Description: Cải tiến chế độ Tiết kiệm pin
 Name: SmartBattery 2
