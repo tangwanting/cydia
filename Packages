@@ -979,6 +979,23 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
 SileoDepiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
 
+Package: AnhDuy.NiceBarX14
+Architecture: iphoneos-arm
+Version: 1.0.1.9-16
+Section: Tweaks
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.NiceBarX14_1.0.1.9-16_iphoneos-arm.deb
+Size: 24338
+MD5sum: c9a2b9071cffa85d6ef8c1f2f26f8b1a
+SHA1: 4ee16150bc049d6d29075a532c52a95ffd4806c8
+SHA256: 317e4d46220154aadc51a3dbe0e20441709e4fdfda7794cc1a8c72e8baadab3f
+SHA512: 07856e99b28ca9673303d5a5d7a8373cfe9c136916903b8e1287aa72e00757234ef73cea959905e5990030c804bd618ebda19cc2b5e3d60508641eefbde9456a
+Description: dịch lại tinh chỉnh NiceBarX cho iOS 14
+Name: NiceBarX(ios14) gói tiếng Việt
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
+SileoDepiction: http://cydiavn.github.io/info/NiceBarX14/?p=info
+
 Package: AnhDuy.Nicecaller14
 Architecture: iphoneos-arm
 Version: 1.0.3.5-8
