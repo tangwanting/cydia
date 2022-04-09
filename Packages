@@ -1015,6 +1015,23 @@ SileoDepiction: http://cydiavn.github.io/info/Nicecaller14/?p=info
 
 Package: AnhDuy.Nicecaller14
 Architecture: iphoneos-arm
+Version: 1.0.3.6-14
+Section: Tweaks
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.Nicecaller14_1.0.3.6-14_iphoneos-arm.deb
+Size: 30872
+MD5sum: 6196935123f3037885132a3a1a9cfaae
+SHA1: 1486901e497b49699a5284129a86ec55ff995e23
+SHA256: 891cdce0570b17e1d594fa965fa7555c6fd3cc3b436c744878a97e40c71719bd
+SHA512: bb6302626cd8e66680f2f829569ad053b423c7511674ef92afab080f1e7f6d37bba56d3d56433c9f774b1bcae6d3cc16ef17b03594901c5c262035cba148f19b
+Description: dịch lại tinh chỉnh Nicecaller cho iOS 14
+Name: Nicecaller(ios14) gói tiếng Việt
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/Nicecaller14/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Nicecaller14/?p=info
+
+Package: AnhDuy.Nicecaller14
+Architecture: iphoneos-arm
 Version: 1.0.3.6-1
 Section: Tweaks
 Maintainer: Anh Duy
