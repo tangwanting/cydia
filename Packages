@@ -3090,11 +3090,11 @@ Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
 Filename: ./Deb/AnhDuy.tranzlo_3.5_iphoneos-arm.deb
-Size: 5782
-MD5sum: b3c75f2f43ee86b5e9abff72a3295d74
-SHA1: 992c25e43b8af78a2cd4adec4747304d14b75b58
-SHA256: ea563c6b8e305824956e63042f4d8436f5f11c7efb5a2be3c3760cd91aabb773
-SHA512: 47c803dcab7de631656c834480fbdcd478de177a1e79a7a91b5ed6413a3c01f8ec030dd7a62c6c58270a67e7ce002c1af73ee753e9933b35c238d5669ad80268
+Size: 5864
+MD5sum: 3bbda0c60efd871b0ca5f9dd90aeb728
+SHA1: fbd41adbfaa20cffe51b4cccf3c7b98182543f91
+SHA256: 07516ccb1de6523700dd72e5c6d9e12832193c525a0568c9441963c823d6a181
+SHA512: 5bbd0a64b96a8f168a6d16398e9d4d75982f6061f3fc73ca99f3dfba2059263a15f6c973e25bb1bce6a71d05c1085051f7fab70e43ce508787f01410851a7325
 Description: gói tiếng việt dành cho tinh chỉnh Tranzlo
 Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Name: Tranzlo (gói tiếng việt)
