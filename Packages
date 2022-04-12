@@ -2220,11 +2220,11 @@ Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 2148
 Depends: firmware (>=13.4), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
 Filename: ./Deb/AnhDuy.fancyselection_1.5_iphoneos-arm.deb
-Size: 628656
-MD5sum: 87460179189a569fdbf61de9c0229d55
-SHA1: e01a8dfff2775ea4bda2ddc187c3d5a80974d461
-SHA256: fbee9f9ae38cdbddfd393e1f265d5c7d32669b422eda4107a989130ca5e27c1b
-SHA512: 832bf414ba5fe3758e8530ceb69499cb466310b9acb2d4484d1e4617af9cea747c6a6c1bbf2bf4696993b9dbb8461daec710f421593826ec31a723c14132cf0e
+Size: 629324
+MD5sum: 3f7415da51245e523698e26aa8e91d50
+SHA1: 9e354fdcc355c2cd96d33353acecb5f0cb09b805
+SHA256: 667a0cb115fdaabefb771bcc6ac3b20ac242756626078cea8f38f120a855f1d3
+SHA512: 708fe938921dc07819900533ad89386e4582b2903d945d51f5f0ebdfe05498b62d193dc1b826fd704c97c4ffeecf12d0da884b0ef2b78bc33e9bd7c063d3517f
 Description: Thay đổi menu lựa chọn văn bản của iOS
 Tag: purpose::extension, compatible_min::ios13.4, compatible_max::ios14
 Name: FancySelection
