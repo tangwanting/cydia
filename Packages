@@ -1970,11 +1970,11 @@ Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 1388
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
 Filename: ./Deb/AnhDuy.cylinder_1.0.4-1_iphoneos-arm.deb
-Size: 374856
-MD5sum: 0eb72a135794c41e2bca13333ed24abe
-SHA1: 28905e8fd704571361e105c48215e888c27dec61
-SHA256: 175c2a1b0b32105b29694dd9e0fa1a0f4ddd2cc6b6e8c4abb034d5bb2811d7de
-SHA512: 216149c55e0c6e48907e2e27ef05b0eebfab27cc787ef835bcf8deee2e6c7d130d979fe13c691167a9733688b64c72d79296076582aa488873cc72454928a484
+Size: 374832
+MD5sum: b37d925372e14e15359540cea3d4a49b
+SHA1: cdc1941a40ce5f9e4d673293e21843d11a204ba1
+SHA256: fb9920ecd2fe661eebc7b66505954dc80203f4ec7cd03872e35cbad6faa8af50
+SHA512: 3901899df5d2da50ae3730c9d5c1a004be1b8ef61961dec33587fb6d447b3850fcd7f052071980df3904b1e86ab4a3f05a3d0953c4e0383220f6b1438c0ab609
 Description: Làm cho các biểu tượng của bạn nhảy múa
 Tag: compatible_min::ios11.0
 Name: Cylinder Reborn
@@ -3353,11 +3353,11 @@ Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 518
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./Deb/Anhduy.cthulhu_1.0.7_iphoneos-arm.deb
-Size: 105440
-MD5sum: 45e4f866b03bdf127d90b7be6d845bac
-SHA1: c00653ebc28a8ba3f59b6abf3be47f03dcf1c593
-SHA256: 7c4b75fd6cd60aef6259de348f12bae43b4f087600c4f39e7508f08d99db823f
-SHA512: 3cb3b60fe3e4a3e1aa44b1afd97a3d432c68f61ca7ca1cf791781110006e6566c77c68dfc03923162502174a68bdd9c60bab69d3401642e01e28ddb72cca97d1
+Size: 105418
+MD5sum: 5ba5cde78250ca0d61462292686ce856
+SHA1: 54d15b10c99e8b70f96dbcbcc4cb7a7758efdf00
+SHA256: 149083b35832c083692895a9b00552010db22a77bc70916694a3cb87facd72b9
+SHA512: b27ae945fb8df4d76e3726b61a609740e2b773aead6673074d3c819bf322734dbe92db19c82b3fc27724d9a237560f3df803c6e4ffc1e12b5e37ddaf387ab5a2
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
 Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
