@@ -3022,6 +3022,25 @@ Author: Sniper @DNS_Sys <aeeo@hotmail.com>
 dev: sniper
 Icon: file:///Library/PreferenceBundles/SniperTool.bundle/sniper@2x.png
 
+Package: AnhDuy.springsounds
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 77 kb
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Deb/AnhDuy.springsounds_2.1_iphoneos-arm.deb
+Size: 104384
+MD5sum: cf78e77a363c95f29e72b0bac20872f8
+SHA1: a306091a764b017979904a3e06aa2506f62de873
+SHA256: 375849f851e7d0b7383305ec7d1d27430b8d0673b89bc6f67e4f9629537168d3
+SHA512: 18fd149d4e59939227b60798b9d2c2d5233ee96a8c40b7001b36db4c50ac2a5fe889bc0f7e89761a7c93153190fb1f98fc13e85cd2235bf5c7c66012f3652b48
+Description: Tùy chỉnh âm thanh trên thiết bị của bạn!
+Name: Springsounds
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depiction: http://cydiavn.github.io/info/springsounds/?p=info
+SileoDepiction: http://cydiavn.github.io/info/springsounds/?p=info
+
 Package: AnhDuy.swipeselection
 Architecture: iphoneos-arm
 Version: 1.0~beta9
