@@ -1425,6 +1425,23 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/WeatherCute/?p=info
 SileoDepiction: http://cydiavn.github.io/info/WeatherCute/?p=info
 
+Package: AnhDuy.WeatherRoundLS
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Filename: ./Deb/AnhDuy.WeatherRoundLS_1.0_iphoneos-arm.deb
+Size: 1842978
+MD5sum: fa3a39626956adabe576bf320354e3d8
+SHA1: 9e3fbf9e466fc9686b54f8107d4bfe3fd3511d4f
+SHA256: f7fa258c3dcd6d8d4535d0b82f316c54c2a61463dee2530d98c57cc51ed42656
+SHA512: a6db8f85736f8031815c6d4569b1ebb641848b58451c2d9c0dfc4f70aac0bcf185ec93caa5cf1052c51fa7db015b5bdd20aa07bf7f94140671822d892adc0345
+Description: Widget for Xen Html
+Name: WeatherRound LS
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/WeatherRoundLS/?p=info
+SileoDepiction: http://cydiavn.github.io/info/WeatherRoundLS/?p=info
+
 Package: AnhDuy.Weathericon
 Architecture: iphoneos-arm
 Version: 1.0
