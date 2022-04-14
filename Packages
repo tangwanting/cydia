@@ -3406,6 +3406,25 @@ Author: @CrazyMind90
 Depiction: http://cydiavn.github.io/info/flexcracktweak/?p=info
 SileoDepiction: http://cydiavn.github.io/info/flexcracktweak/?p=info
 
+Package: anhduy.loupe
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.2), firmware (>= 13.0), com.opa334.altlist
+Filename: ./Deb/anhduy.loupe_1.2.1_iphoneos-arm.deb
+Size: 86004
+MD5sum: f658901111cd756db2f8495b236022dc
+SHA1: 08f7a1c518a3d0d52c48d42cb2cfd54b6b64be40
+SHA256: dde2ad8f71ba0c9c9b1d5b0256c184f365b0455964fabbb1ad47f23b16b70531
+SHA512: 83f228958efe7e3b8762d72ad12d44a58ea19597bd2fda2f33f30c6277fa9d5f47c6810467a0772d18565027a223da86876e41f7613542ea8b85acfefaf681f1
+Description: Kính lúp cho các trường văn bản
+Name: Loupe
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.loupe/icon/icon.png
+Depiction: http://cydiavn.github.io/info/loupe/?p=info
+SileoDepiction: http://cydiavn.github.io/info/loupe/?p=info
+
 Package: anhduy.shuffle
 Architecture: iphoneos-arm
 Version: 1.5.2
