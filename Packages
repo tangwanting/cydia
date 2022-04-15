@@ -2816,6 +2816,28 @@ SileoDepiction: http://cydiavn.github.io/info/ringmasker/?p=info
 Author: thazsar & rio-doro <support@rio-doro.eu>
 Icon: file:///Library/PackageFiles/eu.rio-doro.ringmasker/Icon.png
 
+Package: AnhDuy.safariplus
+Architecture: iphoneos-arm
+Version: 1.7.20
+Section: Tweaks
+Maintainer: Anh duy
+Installed-Size: 5421
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>= 1.1.3) | firmware (<< 14.0)
+Filename: ./Deb/AnhDuy.safariplus_1.7.20_iphoneos-arm.deb
+Size: 2007212
+MD5sum: 4f6f0aa875ce5944b7b00e189460ad2a
+SHA1: 235a00a28785cc025553347ce89381fdd62a395c
+SHA256: 67b578e7f94382c07c04d9abfac07acab1a909c0fc75aa6bccf5cb34e2510d83
+SHA512: eb5701eb596152aaca4429b2707a26034fa28cb439ffb97010dceea4a23a8972c6c5f164e68d45aeff8fcd28cfb3c80d0b92e17899ac2d654aabb4359e279ac1
+Description: Nhiều cải tiến khác nhau cho Safari!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Safari Plus
+Depiction: http://cydiavn.github.io/info/safariplus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/safariplus/?p=info
+dev: opa334
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+
 Package: AnhDuy.screenshotx
 Architecture: iphoneos-arm
 Version: 1.2
