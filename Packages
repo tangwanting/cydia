@@ -3738,6 +3738,27 @@ SileoDepiction: http://cydiavn.github.io/info/nanobanners/?p=info
 Author: Nepeta & Sugiuta
 Icon: file:///Library/PreferenceBundles/NanobannersPrefs.bundle/icon@2x.png
 
+Package: com.tr1fecta.akara
+Architecture: iphoneos-arm
+Version: 1.1.0-1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 3288
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=14.0)
+Filename: ./Deb/com.tr1fecta.akara_1.1.0-1_iphoneos-arm.deb
+Size: 1290364
+MD5sum: b0e3216a237d167f8313893385b6cb24
+SHA1: 7795d3c08ad00d7084b00c3076ad8ec222923e69
+SHA256: c76b545a6bdc78223fc8e7207d31591553d01b8d6729ecda4bc331093873539d
+SHA512: 97be1c67d8c12dfe8d978bfc3382a83e1fe8c0f356475fd4b83faf206ef07afc680c0237998e59c93040c26efee58835c9b8bd58d2af9401a0aab946be74ce03
+Description: thiết lập lại trung tâm điều khiển của bạn.
+Tag: cydia::commercial, compatible_min::ios14.0
+Name: Akara
+Author: Tr1Fecta & Kennyroo <piz444@gmail.com>
+Icon: https://cdn.chariz.cloud/icon/akara/icon@3x.png
+Depiction: http://cydiavn.github.io/info/akara/?p=info
+SileoDepiction: http://cydiavn.github.io/info/akara/?p=info
+
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
