@@ -1936,6 +1936,25 @@ Author: 0xkuj
 Depiction: http://cydiavn.github.io/info/contactsextended/?p=info
 SileoDepiction: http://cydiavn.github.io/info/contactsextended/?p=info
 
+Package: AnhDuy.cracktool4
+Architecture: iphoneos-arm
+Version: 4.0~beta10b
+Section: Utilities
+Maintainer: Anh Duy
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./Deb/AnhDuy.cracktool4_4.0~beta10b_iphoneos-arm.deb
+Size: 2957390
+MD5sum: c9bde299f5d623959eadf3d23785404f
+SHA1: 9727ed6c6cf7e5f0dfce2a1b3effb1ee84cc2fc3
+SHA256: 934b82ca8dea69fc49f42f4e69256bc554f1b3cb795286ac1237e8161c977414
+SHA512: 8f09afcb07ed0b16bc0943bfc4d8f80ae885ea669752f5daf04ecb47d14e13ee07dcf285d5ccf950f7ae51fe9b8323fd86e62f97c1c18544e554a96e0eb22142
+Homepage: https://twitter.com/ijulioverne
+Description: kích hoạt bản quyền một số tinh chỉnh
+Name: CrackTool4 (iOS 9 - 14)
+Author: julioverne
+Depiction: http://cydiavn.github.io/info/cracktool4/?p=info
+SileoDepiction: http://cydiavn.github.io/info/cracktool4/?p=info
+
 Package: AnhDuy.crash-reporter
 Architecture: iphoneos-arm
 Version: 1.17.2
