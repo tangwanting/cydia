@@ -3664,18 +3664,18 @@ Maintainer: Anh Duy
 Installed-Size: 5340
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
 Filename: ./Deb/com.miro.tranzlo_3.5_iphoneos-arm.deb
-Size: 2566764
-MD5sum: 718ce3c8e40f17e8ef30c2d6c7793f35
-SHA1: 5fd7e11ee0f893423d38e9c5ec66a2bdf41d7f3a
-SHA256: 46fbffe4eef4c68d017eeacf18aaf78f38524660a9aa5517f27ecba5ca534262
-SHA512: 6e9e3ffea7701461a73bff21fca0456cdd1bc75304196da59e7fd49662dac3cd63662c7fc0b6edebad381a1063d17b1d99023c509b6341cb49feb6bf63eaf623
-Description: Một tinh chỉnh dịch thuật cứu tinh cuộc sống.
+Size: 2566754
+MD5sum: 34098e58335b271816c250ebfb8d8756
+SHA1: b35544d38b8b83bdf13038e11699485bb8af2534
+SHA256: b2e3988e407eb984aeacd4504a1f6bad5aa6f72513baac75bd2425beb68336dd
+SHA512: 0f2b66a18ec19a16a9fd3c061d0ec2c352a50b8848672b58bf3df94516856b919452e40980f49f87ec49d4e7e338a2046eb6f1a26e9f8cbe09dcd9aa69c1a6b7
+Description: Một tinh chỉnh dịch thuật tuyệt vời.
 Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Name: Tranzlo
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
-Depiction: http://cydiavn.github.io/info/Final/?p=info
-SileoDepiction: http://cydiavn.github.io/info/Final/?p=info
+Depiction: http://cydiavn.github.io/info/tranzlo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/tranzlo/?p=info
 
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm
