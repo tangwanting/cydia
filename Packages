@@ -2590,11 +2590,11 @@ Installed-Size: 1292
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
 Conflicts: cydiavn.lastlook
 Filename: ./Deb/AnhDuy.lastlook_3.3.4_iphoneos-arm.deb
-Size: 406536
-MD5sum: 4cf62b051d7ac156b03e26fa48e83ddc
-SHA1: bc51013ae60b5fee12f202375c252f8f820fb377
-SHA256: 5241572d5aef3cb72cb3954e76aa10e50e45acc1e5423663d7c643fc5c8d85c8
-SHA512: 7afb6c06d4ed32caafdc3bae7810a976f6ccefa7a30bfa9a347c83a05a7169720cdae398d2bd6f5966a4bdeeaba504b6fae476dfb7da637d41e97146fc73ae07
+Size: 407108
+MD5sum: ba9cfe5feb7c5af65dce3e31d8ab891f
+SHA1: 47f3aed8025c56d09eb0fdf9933dacd29200ea7d
+SHA256: 5ee2d8b5e54f3b94257432ed4eb5a27d729a88b8cdb65f75bee6e980be27eede
+SHA512: 42aaef513cec9d7abaf50d0a1a4df208ee4517fa1978d010271209b7d9d54390c2b91af1dd0949b8f1c5da1fa4a27c2bb2af18989f5a7c85802b85f85aa8f3fc
 Homepage: https://repo.packix.com/package/com.anthopak.lastlook/
 Description: Hiển thị một màn hình chờ khi bạn khóa thiết bị.
 Name: LastLook
