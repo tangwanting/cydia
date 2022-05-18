@@ -2588,14 +2588,15 @@ Section: Tweaks
 Maintainer: Anh duy
 Installed-Size: 1292
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Conflicts: cydiavn.lastlook
 Filename: ./Deb/AnhDuy.lastlook_3.3.4_iphoneos-arm.deb
-Size: 411566
-MD5sum: fe0ad4ea3f8354be8c61ea0987c2721b
-SHA1: f8d01b50f64cf589ba78d2f3c3bef38d1f5b03a2
-SHA256: bc8cb69c5088264dc38d21276d74a33b19a73f26f12c35a82de70035f5c0bbdf
-SHA512: 924e12a11a5dd43f74d18bad787dbb73663d0c182d4ef29ecafa804e2d1dd02e992156a682b3f447d4d8878841ba1b7d98cd0cfc522a1e3df34768236b23f047
+Size: 406536
+MD5sum: 4cf62b051d7ac156b03e26fa48e83ddc
+SHA1: bc51013ae60b5fee12f202375c252f8f820fb377
+SHA256: 5241572d5aef3cb72cb3954e76aa10e50e45acc1e5423663d7c643fc5c8d85c8
+SHA512: 7afb6c06d4ed32caafdc3bae7810a976f6ccefa7a30bfa9a347c83a05a7169720cdae398d2bd6f5966a4bdeeaba504b6fae476dfb7da637d41e97146fc73ae07
 Homepage: https://repo.packix.com/package/com.anthopak.lastlook/
-Description: Hiển thị một màn hình cuối khi bạn khóa thiết bị.
+Description: Hiển thị một màn hình chờ khi bạn khóa thiết bị.
 Name: LastLook
 Author: AnthoPak
 Depiction: http://cydiavn.github.io/info/lastlook/?p=info
