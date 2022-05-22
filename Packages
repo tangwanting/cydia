@@ -1517,6 +1517,24 @@ Author: @Dr_iph0ne
 Depiction: http://cydiavn.github.io/info/Widgy/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Widgy/?p=info
 
+Package: AnhDuy.a-font
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./Deb/AnhDuy.a-font_1.9.3_iphoneos-arm.deb
+Size: 1083506
+MD5sum: 87348753fea53d212ffe632aee588ce3
+SHA1: 6bb9a7e9c8379141935db20429369b34417576c7
+SHA256: 0c2d1ce132f4738d5df8136ed0f98c49d2e338778673072a9f0fd722decf93b4
+SHA512: 926cdff5a6440d4d9d6b49e7fcfbc3b6a255f351aea4d76014c93cc357d4571336eb3156788193d54b780fbd9aaf0de830fa5820f9ae5f0bf78c07a77b088aff
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: http://cydiavn.github.io/info/a-font/?p=info
+SileoDepiction: http://cydiavn.github.io/info/a-font/?p=info
+
 Package: AnhDuy.afsound
 Architecture: iphoneos-arm
 Version: 1.0
