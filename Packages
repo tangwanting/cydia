@@ -571,6 +571,25 @@ Author: @FAlhmma
 Depiction: http://cydiavn.github.io/info/FL373Green/?p=info
 SileoDepiction: http://cydiavn.github.io/info/FL373Green/?p=info
 
+Package: AnhDuy.Final
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.Final_1.0_iphoneos-arm.deb
+Size: 37622240
+MD5sum: 6f99b96cbc2cde968b140b5d209670a5
+SHA1: a64918b30647a02a2937993142d18ea25b88b52c
+SHA256: 4f46f94487328d0e643b196906c62c354460ecf86cb5f0b1e3b102a085504cdd
+SHA512: 3810b01a3d7f6f9ea5e41499358f90452d67e889fdbbc39028d120a665cfe1137cc8e523e9ab600a549837cc6ec782351d2a9347e71fffd3a57c7a145ad0cd73
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt
+Name: Final
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/Final/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Final/?p=info
+
 Package: AnhDuy.Gion
 Architecture: iphoneos-arm
 Version: 1.0
