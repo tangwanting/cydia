@@ -2618,6 +2618,28 @@ Depiction: http://cydiavn.github.io/info/jellylockreborn/?p=info
 SileoDepiction: http://cydiavn.github.io/info/jellylockreborn/?p=info
 Author: MegaDev
 
+Package: AnhDuy.laetus3
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Themes (Laetus)
+Maintainer: Anh Duy
+Depends: firmware (>=13.0)
+Filename: ./Deb/AnhDuy.laetus3_1.0.3_iphoneos-arm.deb
+Size: 998698
+MD5sum: bf74e7edd867c7417bb12dcfc0fef933
+SHA1: 8c18a55825edf54380b48052c3ba184ec36f15db
+SHA256: 51238e5b31c6e5169730b5979c982cb8981329089a1c849b91e032ccd5c3367d
+SHA512: f0e8db9047ca0616fc5e73dd714078a26b9f97176c1bc8fac1cce8cb51bc16d23afabd77a00a1e8b6d73d4339c18fa2d055f233aed7b9101b89981efe0cacb3f
+Homepage: https://alo.works/
+Description: một chủ đề hiện đại cho laetus.
+Name: HSL Laetus 3
+Depiction: http://cydiavn.github.io/info/laetus3/?p=info
+SileoDepiction: http://cydiavn.github.io/info/laetus3/?p=info
+ModernDepiction: https://alo.works/depiction/native/io.hsl.laetus3.json
+Icon: https://alo.works/assets/io.hsl.laetus3/icon.png
+Tags: compatible_min::ios13.0, compatible_max::ios14.8
+Author: happysolucki <happysolucki@outlook.com>
+
 Package: AnhDuy.laetus
 Architecture: iphoneos-arm
 Version: 3.3.1
