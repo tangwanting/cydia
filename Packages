@@ -3073,6 +3073,26 @@ Depiction: http://cydiavn.github.io/info/shuffle/?p=info
 SileoDepiction: http://cydiavn.github.io/info/shuffle/?p=info
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 
+Package: AnhDuy.siliquapro
+Architecture: iphoneos-arm
+Version: 1.2.4
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 545
+Depends: firmware (>= 11.0), mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./Deb/AnhDuy.siliquapro_1.2.4_iphoneos-arm.deb
+Size: 128634
+MD5sum: ec69d5809f60a3ab693d005013c56bfa
+SHA1: bde8b82a1dd776dab6a7cfa8fc14237973ac9c61
+SHA256: 2bd313f3c4b9ba2372061eb8f5230016eee14eb1998d732b0250cc3937bb780a
+SHA512: 551b173b90ffef9bc1df5371374f8ed218b54a0f11ea1f7dfd20a0e7ebf45b1b0fb499134f762936dfe8357a4e06a8a6d68613d1c5837aa7a3680275c7dcceef
+Description: Cài đặt bổ sung cho AirPods Pro
+Name: Siliqua Pro
+Author: LaughingQuoll <me@laughingquoll.net>
+Icon: https://chariz.com/cdn/icon/siliqua-pro/icon@3x.png
+Depiction: http://cydiavn.github.io/info/siliquapro/?p=info
+SileoDepiction: http://cydiavn.github.io/info/siliquapro/?p=info
+
 Package: AnhDuy.simplus
 Architecture: iphoneos-arm
 Version: 1.14-beta-2
