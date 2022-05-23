@@ -1785,6 +1785,25 @@ Name: Barmoji
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 SileoDepiction: http://cydiavn.github.io/info/barmoji/?p=info
 
+Package: AnhDuy.barrel
+Architecture: iphoneos-arm
+Version: 1.9.0.2
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: firmware(>= 3.1), mobilesubstrate, preferenceloader
+Conflicts: net.limneos.sbrotator (<= 2.1.5)
+Filename: ./Deb/AnhDuy.barrel_1.9.0.2_iphoneos-arm.deb
+Size: 414198
+MD5sum: 85c5d5f28d2c1b8f194f8fbd5e3fe52b
+SHA1: 1aa530f77c294462bb97a866e7d0ddbeb2ec0d0f
+SHA256: 76cdba5370728a05aeaa2e1d600f1a0bb2545237a18b1db66a36248da987ace7
+SHA512: e8dd9681c3a396eb71ef578f603ee15965db7385005f94d885e7ea11f345beaaf9d007ec44be71cd63bb5d0487da854b46e901d509e9f6929ab73f17fa50f912
+Description: hiệu ứng di chuyển trang.
+Name: Barrel
+Author: Aaron Ash
+Depiction: http://cydiavn.github.io/info/barrel/?p=info
+SileoDepiction: http://cydiavn.github.io/info/barrel/?p=info
+
 Package: AnhDuy.batteryinfo
 Architecture: iphoneos-arm
 Version: 1.0
