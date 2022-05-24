@@ -3956,6 +3956,26 @@ Icon: https://cdn.chariz.cloud/icon/akara/icon@3x.png
 Depiction: http://cydiavn.github.io/info/akara/?p=info
 SileoDepiction: http://cydiavn.github.io/info/akara/?p=info
 
+Package: dev.midn1ght.copylog
+Architecture: iphoneos-arm
+Version: 1.5.4-1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 4604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Deb/dev.midn1ght.copylog_1.5.4-1_iphoneos-arm.deb
+Size: 2122836
+MD5sum: fafb09734b25f8a74403fce268d53e27
+SHA1: 7647cbe101f0b0532e701bf09444bc43bc2f879f
+SHA256: 0ff3f2943834b5405eb7aa358296d21281bab10462d578104a81e704937f3e88
+SHA512: a2481b349525bd5f2c516d0a3007c8ceca4de242286d1c266d8ec5a3e7abbabc9f14e14273f8088ba9d04b43c4c16b64c54bbf92c9f2d2c173e63236fafa5018
+Homepage: https://repo.packix.com/package/me.tomt000.copylog/
+Description: Quản lý dữ liệu sao chép & cắt cho iOS.
+Name: CopyLog
+Author: TomT000
+Depiction: http://cydiavn.github.io/info/copylog/?p=info
+SileoDepiction: http://cydiavn.github.io/info/copylog/?p=info
+
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2~release
