@@ -2755,39 +2755,19 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: http://cydiavn.github.io/info/letmeknow/?p=info
 SileoDepiction: http://cydiavn.github.io/info/letmeknow/?p=info
 
-Package: AnhDuy.liblottie
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: System
-Maintainer: Anh Duy
-Installed-Size: 1516
-Depends: firmware (>=11.0)
-Filename: ./Deb/AnhDuy.liblottie_1.0.2_iphoneos-arm.deb
-Size: 447598
-MD5sum: bcd565739bc598ee0e4b815c00f336f3
-SHA1: 33737a3350d21a50ec5f841ab1ad7fc53e0a9a3c
-SHA256: 440c4e994bebb5823a3ece371dabf30c4b8868d046c7defe34ca8998dc1a6f06
-SHA512: 8bc221e6697803174d9606bfbd8e1e089b557a4e4999540c85e53518599e7e3e7a628a371eb6677e5aa317557ce7956b0dbc5f2a0d15ae51108536b0b25e03c2
-Description: Thư viện ảnh động Lottie.
-Tag: role::developer, compatible_min::ios11, compatible_max::ios14
-Name: libLottie
-Depiction: http://cydiavn.github.io/info/liblottie/?p=info
-SileoDepiction: http://cydiavn.github.io/info/liblottie/?p=info
-Author: MiRO <tweaks_support@miro92.com>
-
 Package: AnhDuy.lottielockscreen
 Architecture: iphoneos-arm
 Version: 1.0.5
 Section: Tweaks
 Maintainer: Anh Duy
 Installed-Size: 1256
-Depends: firmware (>=12.0), mobilesubstrate, AnhDuy.liblottie, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.miro.libmiroprefs
+Depends: firmware (>=12.0), mobilesubstrate, com.miro.liblottie, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.miro.libmiroprefs
 Filename: ./Deb/AnhDuy.lottielockscreen_1.0.5_iphoneos-arm.deb
 Size: 392598
-MD5sum: 9dc45ce95f9fe2f6c66840627609f7b2
-SHA1: 48cd0267165494d8d321621920090bf2cf95753c
-SHA256: 3ad2b5d789106dcd55e201f046dc3c3b98dec14d95c0c1badc57472287053789
-SHA512: 01678425b3f4aea3811f727b23808fe2adfd2f8cb3cbcb4b98a10755742ca052ff9b9bca0f12b2f6531d0b4950eb867a757d93286d61c3dfc8c18a484b741e27
+MD5sum: 6754b66d14f9cad46b716c8f852d479f
+SHA1: 617dbc86770635736cf49fdb388b2567710c03ce
+SHA256: 1f30616ec0840ae2498bb40b237deace34a2102c7edb9d6a2671bbb5b6975aa2
+SHA512: ff631ce66a98c60b4add41ff5f626662a6d4effd4fb6bc20993204307d534e49e0f33ba5a65f186a178283059e164b016f8e27323fa07fd1868b015576794930
 Description: Ảnh động cho Màn hình khóa của bạn.
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
 Name: LottieLockscreen
@@ -3853,6 +3833,26 @@ dev: Matt Clarke <matt@incendo.ws>
 Depiction: http://cydiavn.github.io/info/xenhtml/?p=info
 SileoDepiction: http://cydiavn.github.io/info/xenhtml/?p=info
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/IconPackageManager.png
+
+Package: com.miro.liblottie
+Architecture: iphoneos-arm
+Version: 1.0.2-1
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 1516
+Depends: firmware (>=11.0)
+Filename: ./Deb/com.miro.liblottie_1.0.2-1_iphoneos-arm.deb
+Size: 447604
+MD5sum: 18d7d91e8682452b63ddd12f721573f2
+SHA1: 9751b0216f5b6e14f74b1bc568a1e04f1719efee
+SHA256: 8f41fb80cf6e6c8d77c92bc9aac6266fdd46c370a70d206453650c2563ed38b0
+SHA512: 7bca6412d3ef113d52348d3be3d54c4b2f851bfa2cedf280ec4f5c349e9c6c893ae4a123b8f5cd6da3805ab8d993bf0585667ce14390a40f2656537bdd5432d7
+Description: Thư viện ảnh động Lottie.
+Tag: role::developer, compatible_min::ios11, compatible_max::ios14
+Name: libLottie
+Depiction: http://cydiavn.github.io/info/liblottie/?p=info
+SileoDepiction: http://cydiavn.github.io/info/liblottie/?p=info
+Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.miro.libmiroprefs
 Architecture: iphoneos-arm
