@@ -2776,6 +2776,27 @@ SileoDepiction: http://cydiavn.github.io/info/lottielockscreen/?p=info
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/LottieLockscreen.bundle/Header.png
 
+Package: AnhDuy.lottienotifications
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Anh duy
+Installed-Size: 916
+Depends: firmware (>=12.0), mobilesubstrate, com.miro.liblottie (>=1.0.2), preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.miro.libmiroprefs
+Filename: ./Deb/AnhDuy.lottienotifications_1.0.3_iphoneos-arm.deb
+Size: 320096
+MD5sum: 7883e3d7d31b5747182e20231a71e1ac
+SHA1: da039d2d3dd87ce338ad7ef14d3272486df84254
+SHA256: faeab43c70963727ab01a6ca2074f4479c086e72b5e8a1ef3835d33ad527c02f
+SHA512: b581f61b338b7a22cbff6378d158e224ec4379a10f84d766a8cccaa6e3c0997f5f477341f9bf54ce476f887ab56253174173f7fb02b80849858b32f34d5dd4cc
+Description: hoạt ảnh cho Thông báo của bạn.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: LottieNotifications
+Depiction: http://cydiavn.github.io/info/lottienotifications/?p=info
+SileoDepiction: http://cydiavn.github.io/info/lottienotifications/?p=info
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/LottieNotifications.bundle/Header.png
+
 Package: AnhDuy.lotus
 Architecture: iphoneos-arm
 Version: 1.1
