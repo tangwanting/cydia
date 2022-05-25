@@ -2797,6 +2797,28 @@ SileoDepiction: http://cydiavn.github.io/info/lottienotifications/?p=info
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/LottieNotifications.bundle/Header.png
 
+Package: AnhDuy.lottiestatusbar
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 3252
+Depends: firmware (>=12.0), mobilesubstrate, com.miro.liblottie (>=1.0.2), preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.miro.libmiroprefs
+Conflicts: com.miro.statusbarsupport
+Filename: ./Deb/AnhDuy.lottiestatusbar_1.0.7_iphoneos-arm.deb
+Size: 552310
+MD5sum: 0852bc441dc53a7a9f09377806db16bd
+SHA1: 6e907780c5b8e85d0a4dbaa1401bb96099c4bd49
+SHA256: 837bda7be0d408b9ec8a829669a72fa7c5cf767e6521cedb61e0b3536dfa3043
+SHA512: 40cf791b363e8317975fd1a1ead9ee578ad6b73e2db6d25f4af27afb434c9128b76ed6138eb40e8ec3182c5e4cd23708d7131303e518bc8f27f9ed27d9468661
+Description: hoạt ảnh cho Thanh trạng thái của bạn.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: LottieStatusBar
+Depiction: http://cydiavn.github.io/info/lottiestatusbar/?p=info
+SileoDepiction: http://cydiavn.github.io/info/lottiestatusbar/?p=info
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/LottieStatusBar.bundle/Header.png
+
 Package: AnhDuy.lotus
 Architecture: iphoneos-arm
 Version: 1.1
