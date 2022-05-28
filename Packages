@@ -2998,6 +2998,25 @@ Author: AboAbdullah
 Depiction: http://cydiavn.github.io/info/owl/?p=info
 SileoDepiction: http://cydiavn.github.io/info/owl/?p=info
 
+Package: AnhDuy.pancake
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), applist, firmware (>= 11.0)
+Filename: ./Deb/AnhDuy.pancake_2.1_iphoneos-arm.deb
+Size: 118386
+MD5sum: af0dfaf0ea51d1d6dbd3970fe00cf40d
+SHA1: d43c073e4368bc1abada2acdc3019be7d000ac54
+SHA256: 0764569dbbf15abcf8728785e6e517941304e09efa4e1eb76ce77730a57b2abe
+SHA512: e106b54b6e9d1b88195d41c4e03ff144f2fdb354d8d4357125912e7ff9c6e3850925e02c1ebe1acce92096ac7ce7250107c8eb53e9f6e79ad2dbc7ce9a366192
+Description: Cử chỉ quay lại trên toàn màn hình trong tất cả các ứng dụng
+Name: PanCake
+Depiction: http://cydiavn.github.io/info/pancake/?p=info
+SileoDepiction: http://cydiavn.github.io/info/pancake/?p=info
+Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
 Package: AnhDuy.peepreborn
 Architecture: iphoneos-arm
 Version: 1.1
