@@ -3510,6 +3510,25 @@ Author: nqt1195
 Depiction: http://cydiavn.github.io/info/weatherls/?p=info
 SileoDepiction: http://cydiavn.github.io/info/weatherls/?p=info
 
+Package: AnhDuy.wifilist
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Utilities
+Maintainer: Anh Duy
+Installed-Size: 1128
+Filename: ./Deb/AnhDuy.wifilist_1.0.0_iphoneos-arm.deb
+Size: 924712
+MD5sum: 36843d6cf7f4d79df22abad403103e8e
+SHA1: 20e84a209da4efd68f2145939df822125af0992a
+SHA256: 9435116985e247cd07a90e9d4ad209c5d6cd6ade5934242d17c35713790fca2b
+SHA512: aea03804bc08d6c1a54313ddc6be92d2da6ee97e59058be779a509b77584c00d7d1395b3a8f8e33bd886f36df7eb45478a8003ed4d182f4fc0ae5a39425f5734
+Description: Xem và chia sẻ mật khẩu WiFi
+Name: WiFi List
+Author: Itay
+Icon: https://www.icaughtuapp.com/repo/icons/com.itaysoft.wifilist.png
+Depiction: http://cydiavn.github.io/info/wifilist/?p=info
+SileoDepiction: http://cydiavn.github.io/info/wifilist/?p=info
+
 Package: AnhDuy.youpip
 Architecture: iphoneos-arm
 Version: 1.5.10
