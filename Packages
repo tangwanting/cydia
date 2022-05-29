@@ -3481,11 +3481,11 @@ Section: Tweaks
 Maintainer: Anh Duy
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./Deb/AnhDuy.weatherlabel_0.0.4.3.14_iphoneos-arm.deb
-Size: 141542
-MD5sum: d98b2cdf93535575d5d80bcfbba2bf67
-SHA1: 94f1bb8888a646e9ff1b06d1827916c3f9e614d8
-SHA256: 1b21f0de746fdca5527ef322fe4ad139eb8d8036f60af22ab1552ee177da662b
-SHA512: 4421aa8730b8b31397d8f5616c10d244a24b5178af2c528dc50c6c011483008f6032c7d77cd878deeacdd9199c88d825b00525b0d8664a011bdccca372278898
+Size: 141560
+MD5sum: f6fee9ef30403b289dd223bf2dc7a641
+SHA1: 74f4271346a71b9d8119f7ba437def3eaae97117
+SHA256: 7c8a5e46bab1b01621f6c2397fd2e32dba93ad2ad4703abe4cb4872c4e0abbf3
+SHA512: d8aa1f1fb27734c0441f39a31f61850ea09bd6c3e85e5b6ce97f872b6a5130204cc8976dcb2b0b390384a47a240c8b4f0361ad1fed80371d08447954f6f3d2d7
 Description: Hiển thị thông tin thời tiết trên màn hình khoá.
 Name: WeatherDate
 Author: Mario Cheung
