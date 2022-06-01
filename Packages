@@ -573,15 +573,15 @@ SileoDepiction: http://cydiavn.github.io/info/FL373Green/?p=info
 
 Package: AnhDuy.Final
 Architecture: iphoneos-arm
-Version: 1.0.1
+Version: 1.0.2
 Section: Widgets
 Maintainer: Anh Duy
-Filename: ./Deb/AnhDuy.Final_1.0.1_iphoneos-arm.deb
-Size: 41807916
-MD5sum: 1ff867ef0174beb5149d7a106d37dea2
-SHA1: 7f347a7f39a893d4ed35de05aa5a5d7fb8f5ed22
-SHA256: d276c7abdc62f847bb1f2f773b91872f406979cea4506e1ed5537b94c73874df
-SHA512: 876eacb275832ba00acbec6a2d7e2f2ad71d26a7e998647377a193789c4a790946c98f39cf746c44b654ae9b40009bd8e30d8308d434ae05b852c8d419b808db
+Filename: ./Deb/AnhDuy.Final_1.0.2_iphoneos-arm.deb
+Size: 42883122
+MD5sum: 05069a16813e7ba3b32df83d1cc7b361
+SHA1: 3e8333013a8e1e5a0a9afcf4e33304cfd20d60aa
+SHA256: 3d740713adda157701882c2679fc9a9c1bdf4893dccf57744d9b60ffc5620d18
+SHA512: 4bcae86b64a7e352ed9c4d066667ebb8099ada4a4e82601f59e05efc9bdc398c5242090a2b5c5f15d7f0e745cdb6367a7372601ed16938586f7fff7bc4c64121
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Các thiết lập tuỳ chỉnh trong cài đặt
