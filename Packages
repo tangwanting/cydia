@@ -2568,13 +2568,13 @@ Maintainer: Anh Duy
 Installed-Size: 352
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
 Filename: ./Deb/AnhDuy.hideserialnumber_0.0.2_iphoneos-arm.deb
-Size: 71358
-MD5sum: 188288224a17c97960f0e02b6f78b8e8
-SHA1: 9109c70dcd7020a94e4996fdf305b244ecd1a637
-SHA256: 95297c0994f34b75d3a58601b3d4618320696047c00aa7a270b1c4192819516c
-SHA512: 344c52362097b36fa3ed441876f8a4ba227bcbb6778706dec0926c3447815f79810743650d76bf78ea7892fc4c2ed8209a84f703a8e9c2bf7ed75d79cd477b17
+Size: 71376
+MD5sum: aa1bcc0009f953815603e7829b4171b2
+SHA1: 8d19cbe7624675f440e33bd575e6c1d36556f24e
+SHA256: a08200792e6ee1c2667f0829be6784597b875e28e3e639d243a0f5f782eac00b
+SHA512: c07a81e47265dd02fd3758bbe4fbb0a285b5af326ab3f89a01cab49194e6a6331d58e38a7c18a1a785f8133b0ecf5db2016497144a589317a1e91d309378f858
 Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
-Description: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+Description: tuỳ chỉnh các mục trong cài đặt trang Giới thiệu.
 Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
 Author: ichitaso
 Name: HideSerialNumber
@@ -2763,12 +2763,12 @@ Maintainer: Anh Duy
 Installed-Size: 1256
 Depends: firmware (>=12.0), mobilesubstrate, com.miro.liblottie, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.miro.libmiroprefs
 Filename: ./Deb/AnhDuy.lottielockscreen_1.0.5_iphoneos-arm.deb
-Size: 392598
-MD5sum: 6754b66d14f9cad46b716c8f852d479f
-SHA1: 617dbc86770635736cf49fdb388b2567710c03ce
-SHA256: 1f30616ec0840ae2498bb40b237deace34a2102c7edb9d6a2671bbb5b6975aa2
-SHA512: ff631ce66a98c60b4add41ff5f626662a6d4effd4fb6bc20993204307d534e49e0f33ba5a65f186a178283059e164b016f8e27323fa07fd1868b015576794930
-Description: Ảnh động cho Màn hình khóa của bạn.
+Size: 392592
+MD5sum: a2127fc4c34a35fe8bddb7d5447cd25e
+SHA1: c33cc64d805e9aeb78b29c71df5d58cd7563b2d1
+SHA256: cd0da89be66858e593486dfdf8e93e07c96c441905b957489ce71b1b0f8c3d51
+SHA512: 4c40e52d80096db16fb5d18033d0afe4cbd5c31cf1d0340ffdd748c1034ea74761713f79040c41736b8ea422d0a87080efd3d8cc9e482baf7f49e1b3cc40e00c
+Description: hoạt ảnh cho Màn hình khóa của bạn.
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
 Name: LottieLockscreen
 Depiction: http://cydiavn.github.io/info/lottielockscreen/?p=info
