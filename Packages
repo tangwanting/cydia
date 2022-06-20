@@ -1609,6 +1609,26 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/animations/?p=info
 SileoDepiction: http://cydiavn.github.io/info/animations/?p=info
 
+Package: AnhDuy.animplus
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 648
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
+Conflicts: com.mostafa89.fastup, ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Filename: ./Deb/AnhDuy.animplus_2.5_iphoneos-arm.deb
+Size: 136496
+MD5sum: 69d994fa64d23b4b4cfa71030e765b3f
+SHA1: 2827402ca42952723ffa9a299135273fcbd3fabd
+SHA256: 51b033397d670ec63ead4bfbbd76244c4aa55fd987d1b8dea8625a754353fcab
+SHA512: e2f6e864b6a33b2edff8ca713b20e4e100a4ee86436ebc3ca0ebde1b505d06d4b24b361989354b2867d45d1f126a6958b8258aee0cfe3d01c044b813058f2592
+Description: Tăng tốc hoạt ảnh trên thiết bị của bạn!
+Name: AnimPlus
+Author: eXqusic
+Depiction: http://cydiavn.github.io/info/animplus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/animplus/?p=info
+
 Package: AnhDuy.appaze2
 Architecture: iphoneos-arm
 Version: 1.4.1-1
