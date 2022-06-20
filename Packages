@@ -2942,6 +2942,30 @@ SileoDepiction: http://cydiavn.github.io/info/muffindark/?p=info
 Name: muffin dark
 Author: @OuniDesigns
 
+Package: AnhDuy.notchbanners
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: firmware (>=14.0), dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.libgscommon
+Filename: ./Deb/AnhDuy.notchbanners_2.2_iphoneos-arm.deb
+Size: 519314
+MD5sum: 2d2992b352ddfa4d7fd2136c56cd2423
+SHA1: 2530d9e70ec167ac2f55223ad51d9e853152a310
+SHA256: 9dee0a54f904cd5c0bf3856e98cfbfd769fbbe36bea23997553ab71b3875cedd
+SHA512: e072eeb7866c4f60492804e2e3074550c7d28a4ddf11f3250e9e9eeaf42a6955330727185d0ebfd0d0921f236e074f45f344bb44a411f462f246a3bcd1eaad0f
+Homepage: https://ginsu.dev
+Description: Biểu ngữ thông báo đến từ tai thỏ!
+Tag: role::enduser
+Name: NotchBanners
+Depiction: http://cydiavn.github.io/info/notchbanners/?p=info
+SileoDepiction: http://cydiavn.github.io/info/notchbanners/?p=info
+Icon: https://repo.ginsu.dev/assets/com.ginsu.notchbanners/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Author: Ginsu <njl02@outlook.com>
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+SomeOtherEntryToControl: True
+
 Package: AnhDuy.onenotify
 Architecture: iphoneos-arm
 Version: 1.3.2
@@ -3891,6 +3915,30 @@ Author: Azozz ALFiras
 Depiction: http://cydiavn.github.io/info/azflibrary/?p=info
 SileoDepiction: http://cydiavn.github.io/info/azflibrary/?p=info
 
+Package: com.ginsu.libgscommon
+Architecture: iphoneos-arm
+Version: 1.1.2-1
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: firmware (>=14.0), preferenceloader
+Filename: ./Deb/com.ginsu.libgscommon_1.1.2-1_iphoneos-arm.deb
+Size: 76922
+MD5sum: 839e3cf070b5be9e32cdf36cad71a7a0
+SHA1: 188fe8bbc517cbb14d9d6058ae3bc5a5362f0896
+SHA256: 568a043e504ce5537fcee0c7ebda5e8a4e49d6342cd594691dc9657d5098aac1
+SHA512: 43c086f317dd45484c217d64ab96475782dd182c3ed76a548073a88762b714230a6c75794e44b61844b49e2beffca58d4d91ae236da588ab6c30e02bb5e48f5a
+Homepage: https://ginsu.dev
+Description: Gói hỗ trợ cho các tinh chỉnh của Ginsu.
+Tag: role::enduser
+Name: GSCommon
+Depiction: http://cydiavn.github.io/info/libgscommon/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libgscommon/?p=info
+Icon: https://repo.ginsu.dev/assets/com.ginsu.libgscommon/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Author: Ginsu <njl02@outlook.com>
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+SomeOtherEntryToControl: True
+
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm
 Version: 0.1-9
@@ -4202,6 +4250,28 @@ Name: CopyLog
 Author: TomT000
 Depiction: http://cydiavn.github.io/info/copylog/?p=info
 SileoDepiction: http://cydiavn.github.io/info/copylog/?p=info
+
+Package: dev.theos.orion14
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Section: Development
+Maintainer: Anh Duy
+Installed-Size: 2560
+Provides: dev.theos.orion (= 1.0.0)
+Depends: firmware (>= 14.0), firmware (<< 16.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./Deb/dev.theos.orion14_1.0.0-1_iphoneos-arm.deb
+Size: 1191128
+MD5sum: fec784107bc00d3c2bd64380b6a49ce6
+SHA1: 43d1b3270deecb14430f4672c6de11cce611c212
+SHA256: a9b5e1b1864447c9dbb554854949f0325e4a750578bb4cdd728dec3ce053830d
+SHA512: 7f6cc233c7de74aaa176efd8f83f36d5fec9270b31596129e0e622ad04a82a067d470844e3568953ff26a749d79d3929cefc2fbe7dd8856c7ac30dc4924b774c
+Description: Runtime for tweaks built using Orion and Swift
+Tag: role::developer, compatible_min::ios14.0
+Name: Orion Runtime (iOS 14)
+Author: Theos Team <support@theos.dev>
+Icon: https://cdn.chariz.cloud/icon/orion-runtime14/icon@3x.png
+Depiction: http://cydiavn.github.io/info/orion14/?p=info
+SileoDepiction: http://cydiavn.github.io/info/orion14/?p=info
 
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
