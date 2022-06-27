@@ -4005,16 +4005,16 @@ SileoDepiction: http://cydiavn.github.io/info/azflibrary/?p=info
 
 Package: com.ginsu.libgscommon
 Architecture: iphoneos-arm
-Version: 1.1.2-1
+Version: 1.1.3-1
 Section: Tweaks
 Maintainer: Anh Duy
 Depends: firmware (>=14.0), preferenceloader
-Filename: ./Deb/com.ginsu.libgscommon_1.1.2-1_iphoneos-arm.deb
-Size: 76922
-MD5sum: 839e3cf070b5be9e32cdf36cad71a7a0
-SHA1: 188fe8bbc517cbb14d9d6058ae3bc5a5362f0896
-SHA256: 568a043e504ce5537fcee0c7ebda5e8a4e49d6342cd594691dc9657d5098aac1
-SHA512: 43c086f317dd45484c217d64ab96475782dd182c3ed76a548073a88762b714230a6c75794e44b61844b49e2beffca58d4d91ae236da588ab6c30e02bb5e48f5a
+Filename: ./Deb/com.ginsu.libgscommon_1.1.3-1_iphoneos-arm.deb
+Size: 98354
+MD5sum: 1aa65f14c268ad06377c4f3421d6b13e
+SHA1: 08f14fb5b0e8f3ac2c2074bd921ee4dd808008ae
+SHA256: 6c373257147cc39c25c7a33c0d60f59449ee3b7bf821d10753f659626706b15e
+SHA512: 3828d90c186623b8f683cad6f52f564eb04aeb04fe854eeed07201132ccfc84e06570031f30178eac516b271bec45bfecb1180c9ca2a1d5cd2881565fe7e362b
 Homepage: https://ginsu.dev
 Description: Gói hỗ trợ cho các tinh chỉnh của Ginsu.
 Tag: role::enduser
