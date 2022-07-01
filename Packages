@@ -3447,6 +3447,29 @@ Author: Sniper @DNS_Sys <aeeo@hotmail.com>
 dev: sniper
 Icon: file:///Library/PreferenceBundles/SniperTool.bundle/sniper@2x.png
 
+Package: AnhDuy.sniper
+Architecture: iphoneos-arm
+Version: 1.2
+Priority: optional
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 244
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), mobilesubstrate, preferenceloader, com.spark.libsparkapplist, ws.hbang.common (>= 1.17)
+Filename: ./Deb/AnhDuy.sniper_1.2_iphoneos-arm.deb
+Size: 36990
+MD5sum: 68ea61de819a1292128d03c5db2f89d6
+SHA1: e2b0c952469b136cd159b0c7094201f457b01ea4
+SHA256: 2fcf3bd1cf387fb15e88b91880419e7cb2cdbc82967d6239f69e0a3160ff7561
+SHA512: 7924b295e48d1d6d50f8e55c3bf6fe4907f04fef0af6d83a76f48bd950441a08e6de6ca203092d6cc2d0e678e9aefc3c411cb7e8e95ecd6bcf4b26e001db0ffa
+Description: Công cụ xóa quảng cáo khỏi một số ứng dụng
+Tag: purpose::extension
+Name: SniperTool
+Depiction: http://cydiavn.github.io/info/sniper/?p=info
+SileoDepiction: http://cydiavn.github.io/info/sniper/?p=info
+Author: Sniper @DNS_Sys <aeeo@hotmail.com>
+dev: sniper
+Icon: file:///Library/PreferenceBundles/SniperTool.bundle/sniper@2x.png
+
 Package: AnhDuy.springsounds
 Architecture: iphoneos-arm
 Version: 2.1
