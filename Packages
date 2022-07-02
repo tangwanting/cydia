@@ -2622,6 +2622,31 @@ Author: Kritanta
 Depiction: http://cydiavn.github.io/info/homepluspro/?p=info
 SileoDepiction: http://cydiavn.github.io/info/homepluspro/?p=info
 
+Package: AnhDuy.iconanus
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 136
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
+Filename: ./Deb/AnhDuy.iconanus_1.0.3_iphoneos-arm.deb
+Size: 10414
+MD5sum: fbc2b9a2036a70d9b1b2b0f495d4b3be
+SHA1: 235ad82d936f5bfd0fde2324a11d5f2a040dde0f
+SHA256: 2dcb75025d9d324a7b537818be0b69cd58bc37e1db2d540836883e359a56aefb
+SHA512: 9619f5b5a1dec04beda912fd393f1ea3968d0e4b05429b313bdfbd2dfc579a7359e97107e4b922ba1adee8b775dccebc596a9bb344809998dab450875c2d1c4e
+Description: Lưu bố cục biểu tượng khi SafeMode hoặc khởi động lại, v.v.
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: IconAnus
+Depiction: http://cydiavn.github.io/info/iconanus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/iconanus/?p=info
+dev: ichitaso
+
 Package: AnhDuy.ider
 Architecture: iphoneos-arm
 Version: 1.1
