@@ -4164,6 +4164,30 @@ Author: Ginsu <njl02@outlook.com>
 Sponsor: Ginsu Tweaks <njl02@outlook.com>
 SomeOtherEntryToControl: True
 
+Package: com.ginsu.libgscommon
+Architecture: iphoneos-arm
+Version: 1.2.1-1
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: firmware (>=14.0), preferenceloader
+Filename: ./Deb/com.ginsu.libgscommon_1.2.1-1_iphoneos-arm.deb
+Size: 105814
+MD5sum: 97fc3a7cd4dc527c8ce773f98192f816
+SHA1: bb023d97ecdfc49152316954da133ff3a4927321
+SHA256: da552af5ac20109e803b26314cca67dc3eeeb309ac9caadb6933d09ac210b06b
+SHA512: d3b9ab9a1364386896d11011d99774b3a636a98afa77058650d2c700bdf82bbaea962ac6be46065c2b9691463eb50f412ae12a3db69ff8b8f1137cad0b60f54d
+Homepage: https://ginsu.dev
+Description: Gói hỗ trợ cho các tinh chỉnh của Ginsu.
+Tag: role::enduser
+Name: GSCommon
+Depiction: http://cydiavn.github.io/info/libgscommon/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libgscommon/?p=info
+Icon: https://repo.ginsu.dev/assets/com.ginsu.libgscommon/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Author: Ginsu <njl02@outlook.com>
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+SomeOtherEntryToControl: True
+
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm
 Version: 0.1-9
