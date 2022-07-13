@@ -503,6 +503,24 @@ Description: Gói phụ bổ sung cho chủ để SL33k Christmas
 Name: ExtraSL33kChristmas
 Author: Ther Giver
 
+Package: AnhDuy.Extraundecimus
+Architecture: iphoneos-arm
+Version: 8.0.2
+Section: Applications
+Maintainer: Anh Duy
+Depends: firmware (>=11.0)
+Filename: ./Deb/AnhDuy.Extraundecimus_8.0.2_iphoneos-arm.deb
+Size: 23212716
+MD5sum: 7655d3966a5714493888db632ab5df1b
+SHA1: 6e1f45194ff7439ccee39cffc0bc3a1072c79cb8
+SHA256: 5048beff687e4e8d030aed7e496f281ea04f10d6c4452717f9eda9d6aef1b00d
+SHA512: 8d8a61e15b558451e87e0fbab4d6e95a0b987da282760e2313482cb47b7e621880f03de8c2e55cb3cfff67ef489a6dce416849bd2941120d7253422c40057484
+Description: gói phụ của unc0ver 8.0.2
+Name: Extraundecimus
+Author: ios
+Depiction: http://cydiavn.github.io/info/Extraundecimus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Extraundecimus/?p=info
+
 Package: AnhDuy.F311SB
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3597,6 +3615,24 @@ Name: TweakCount
 Author: LacertosusDeus <LacertosusThemes@gmail.com>
 Depiction: http://cydiavn.github.io/info/tweakcount/?p=info
 SileoDepiction: http://cydiavn.github.io/info/tweakcount/?p=info
+
+Package: AnhDuy.undecimus
+Architecture: iphoneos-arm
+Version: 8.0.2
+Section: Applications
+Maintainer: Anh Duy
+Depends: firmware (>=11.0), AnhDuy.Extraundecimus
+Filename: ./Deb/AnhDuy.undecimus_8.0.2_iphoneos-arm.deb
+Size: 31245020
+MD5sum: 2a2d2943cd53c58d7510cc36a58c45d4
+SHA1: 91bfc28b4b77c4c6b1b38db9ab8c4064d7accbc0
+SHA256: c07883e023309d960a3e655004b15ec12e67e5c2ae5f9f12d64793983430a9bd
+SHA512: 6da7125f1b31bc8b398ba6998202a703d3cb9b239aa7d030831edd7a8397322e2147d941dcd8a103338c8668adb2893cf2c014fa82029a87cdf548351cfa9acf
+Description: Permasigned Unc0ver 8.0.2 hoạt động với fugu14.
+Name: unc0ver (Permasigned 8.0.2)
+Author: ios
+Depiction: http://cydiavn.github.io/info/undecimus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/undecimus/?p=info
 
 Package: AnhDuy.vertical
 Architecture: iphoneos-arm
