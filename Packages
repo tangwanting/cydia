@@ -506,18 +506,18 @@ Author: Ther Giver
 Package: AnhDuy.Extraundecimus
 Architecture: iphoneos-arm
 Version: 8.0.2
-Section: Applications
+Section: Utilities
 Maintainer: Anh Duy
 Depends: firmware (>=11.0)
 Filename: ./Deb/AnhDuy.Extraundecimus_8.0.2_iphoneos-arm.deb
-Size: 23212716
-MD5sum: 7655d3966a5714493888db632ab5df1b
-SHA1: 6e1f45194ff7439ccee39cffc0bc3a1072c79cb8
-SHA256: 5048beff687e4e8d030aed7e496f281ea04f10d6c4452717f9eda9d6aef1b00d
-SHA512: 8d8a61e15b558451e87e0fbab4d6e95a0b987da282760e2313482cb47b7e621880f03de8c2e55cb3cfff67ef489a6dce416849bd2941120d7253422c40057484
+Size: 23212724
+MD5sum: d23e3e7299a6bb3cc2c5bd20da1a1ad0
+SHA1: 756c34a15f4377ae075895be8a596c8ac569cbc2
+SHA256: 2e269d88a5b6059ad6446a848af257b1764459bdecc6642c19fd7da3c00fbf43
+SHA512: 9dfe3cdb675a7b8d8d2813140cf5365988bb291751c193676251421fcf0d7bda9012d2f6b7fdc9df98db12b38cb78c02e0d3adaaec2f015cff1884f4e08c5409
 Description: gói phụ của unc0ver 8.0.2
 Name: Extraundecimus
-Author: ios
+Author: @Pwn20wnd
 Depiction: http://cydiavn.github.io/info/Extraundecimus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Extraundecimus/?p=info
 
@@ -3619,18 +3619,18 @@ SileoDepiction: http://cydiavn.github.io/info/tweakcount/?p=info
 Package: AnhDuy.undecimus
 Architecture: iphoneos-arm
 Version: 8.0.2
-Section: Applications
+Section: Utilities
 Maintainer: Anh Duy
 Depends: firmware (>=11.0), AnhDuy.Extraundecimus
 Filename: ./Deb/AnhDuy.undecimus_8.0.2_iphoneos-arm.deb
-Size: 31245020
-MD5sum: 2a2d2943cd53c58d7510cc36a58c45d4
-SHA1: 91bfc28b4b77c4c6b1b38db9ab8c4064d7accbc0
-SHA256: c07883e023309d960a3e655004b15ec12e67e5c2ae5f9f12d64793983430a9bd
-SHA512: 6da7125f1b31bc8b398ba6998202a703d3cb9b239aa7d030831edd7a8397322e2147d941dcd8a103338c8668adb2893cf2c014fa82029a87cdf548351cfa9acf
+Size: 31245026
+MD5sum: 58fea6978e26947d9028988fbcc0e27e
+SHA1: 29a1d3d0fe1af727eb44b0cc640ccea14c575488
+SHA256: 166dc4e1d60240858207d989ed24c598f9a9b11949cc4d19da96758fd96b72fe
+SHA512: a5c1c018a07225813b7cf3c13704f0f320856c20288be5395a0afa7b81452ff82a78384d5485b2872730453e59f8caeab6bef156b6605de4e8231459a67f04bc
 Description: Permasigned Unc0ver 8.0.2 hoạt động với fugu14.
 Name: unc0ver (Permasigned 8.0.2)
-Author: ios
+Author: @Pwn20wnd
 Depiction: http://cydiavn.github.io/info/undecimus/?p=info
 SileoDepiction: http://cydiavn.github.io/info/undecimus/?p=info
 
